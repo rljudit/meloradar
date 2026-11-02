@@ -120,7 +120,7 @@ def head(title, desc, path, prefix, og_type="website", extra=""):
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="hu_HU">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#2b2140">
+<meta name="theme-color" content="#ffffff">
 {'<meta name="robots" content="noindex,nofollow">' + chr(10) if DEV else ''}<link rel="icon" href="{prefix}favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{e(SITE['name'])}" href="{prefix}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -368,10 +368,10 @@ def build_assets(items, updated):
     (OUT / "data/articles.json").write_text(json.dumps({"updated": updated, "articles": pub}, ensure_ascii=False), encoding="utf-8")
     (OUT / "favicon.svg").write_text(
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" x1="0" x2="1">'
-        '<stop offset="0" stop-color="#ff6a4d"/><stop offset="1" stop-color="#ffb84d"/></linearGradient></defs>'
+        '<stop offset="0" stop-color="#50d7be"/><stop offset="1" stop-color="#37aff0"/></linearGradient></defs>'
         '<rect width="64" height="64" rx="16" fill="url(#g)"/><g transform="translate(12 12) scale(1.667)" fill="none" '
-        'stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19.07 4.93A10 10 0 1 0 22 12"/><path d="M16.24 7.76A6 6 0 1 0 18 12"/>'
-        '<circle cx="12" cy="12" r="2"/><path d="m13.4 10.6 5.6-5.6"/></g></svg>', encoding="utf-8")
+        'stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+        '<path d="M16 8V5L19 2L20 4L22 5L19 8H16ZM16 8L12 11.9999M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7"/></g></svg>', encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     src_og = ROOT / "src/og.png"
     if src_og.exists():

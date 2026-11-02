@@ -31,7 +31,7 @@ const card=a=>`<article class="card" id="${aid(a)}">${banner(a)}
   </article>`;
 const lead=a=>`<section class="lead" aria-label="Vezető hír">
     <article class="lead-main" id="${aid(a)}">
-      <svg class="deco" aria-hidden="true" width="300" height="300" viewBox="0 0 300 300"><circle cx="150" cy="150" r="150" fill="#ff6a4d" fill-opacity=".10"/><circle cx="230" cy="70" r="70" fill="#ffb84d" fill-opacity=".12"/><g transform="translate(66 66) scale(7)" fill="none" stroke="#fff" stroke-opacity=".85" stroke-width=".9" stroke-linecap="round" stroke-linejoin="round">${ICONS[a.icon]||ICONS.globe}</g></svg>
+      <svg class="deco" aria-hidden="true" width="300" height="300" viewBox="0 0 300 300"><circle cx="150" cy="150" r="150" fill="#37aff0" fill-opacity=".14"/><circle cx="230" cy="70" r="70" fill="#50d7be" fill-opacity=".16"/><g transform="translate(66 66) scale(7)" fill="none" stroke="#fff" stroke-opacity=".85" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">${ICONS[a.icon]||ICONS.globe}</g></svg>
       <div class="row">${badge(a)}<span class="meta">${esc(a.topic)} · ${esc(a.region)} · ${esc(a.source)}</span></div>
       <h1><a href="${page(a)}">${esc(a.title)}</a></h1>
       <p>${esc(a.lead)}</p>

@@ -4,7 +4,7 @@ A Sajtóművek AI hírfigyelője munkavállalóknak és álláskeresőknek: glob
 
 Élő oldal: https://rljudit.github.io/meloradar/
 
-A motor a HR monitoré (rljudit/hr-monitor), saját arculattal, témákkal és tegező, gyakorlati „Mit jelent ez neked?” értelmezéssel.
+A motor a HR monitoré (rljudit/hr-monitor); a megjelenés a Profession.hu B2C Design Systemre épül (navy, teal, sky, teal→sky átmenet, Montserrat, a design system vonalikonjai), tegező, gyakorlati „Mit jelent ez neked?” értelmezéssel.
 
 ## Felépítés
 

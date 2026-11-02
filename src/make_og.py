@@ -6,17 +6,17 @@ from PIL import Image, ImageDraw, ImageFont
 
 font_path = sys.argv[1]
 W, H = 1200, 630
-img = Image.new("RGB", (W, H), "#1d1530")
+img = Image.new("RGB", (W, H), "#232c3c")
 px = img.load()
 for y in range(H):  # tinta átmenet
     t = y / H
-    r = int(0x2b + (0x1d - 0x2b) * t); g = int(0x21 + (0x15 - 0x21) * t); b = int(0x40 + (0x30 - 0x40) * t)
+    r = int(0x32 + (0x23 - 0x32) * t); g = int(0x3c + (0x2c - 0x3c) * t); b = int(0x50 + (0x3c - 0x50) * t)
     for x in range(W):
         px[x, y] = (r, g, b)
 ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 d = ImageDraw.Draw(ov)
-d.ellipse((780, -260, 1460, 420), fill=(255, 106, 77, 34))
-d.ellipse((960, 300, 1340, 680), fill=(255, 184, 77, 40))
+d.ellipse((780, -260, 1460, 420), fill=(55, 175, 240, 34))
+d.ellipse((960, 300, 1340, 680), fill=(80, 215, 190, 40))
 img = Image.alpha_composite(img.convert("RGBA"), ov)
 d = ImageDraw.Draw(img)
 
@@ -33,7 +33,7 @@ tile = Image.new("RGBA", (112, 112))
 tp = tile.load()
 for x in range(112):
     t = x / 111
-    c = (255, int(0x6a + (0xb8 - 0x6a) * t), int(0x4d + (0x4d - 0x4d) * t), 255)
+    c = (int(0x50 + (0x37 - 0x50) * t), int(0xd7 + (0xaf - 0xd7) * t), int(0xbe + (0xf0 - 0xbe) * t), 255)
     for y in range(112):
         tp[x, y] = c
 mask = Image.new("L", (112, 112), 0)
@@ -46,9 +46,9 @@ d.ellipse((cx-7, cy-7, cx+7, cy+7), fill="white")
 d.line((cx+5, cy-5, cx+34, cy-34), fill="white", width=7)
 
 d.text((88, 250), "Melóradar", font=font(112, "ExtraBold"), fill="white")
-d.text((92, 392), "a világ munkaerőpiaca, rád szabva", font=font(40, "SemiBold"), fill="#ffcb7a")
-d.text((92, 470), "Napi hírek, és hogy mit jelentenek neked itthon", font=font(30, "Medium"), fill="#e2dbe8")
-d.rectangle((92, 540, 92 + 120, 546), fill="#ffc300")
+d.text((92, 392), "a világ munkaerőpiaca, rád szabva", font=font(40, "SemiBold"), fill="#8fe6d5")
+d.text((92, 470), "Napi hírek, és hogy mit jelentenek neked itthon", font=font(30, "Medium"), fill="#dde3eb")
+d.rectangle((92, 540, 92 + 120, 546), fill="#50d7be")
 out = Path(__file__).resolve().parent / "og.png"
 img.convert("RGB").save(out, optimize=True)
 print("Mentve:", out)
