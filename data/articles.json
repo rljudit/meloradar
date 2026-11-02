@@ -12,9 +12,9 @@
    "hu_score": 3,
    "icon": "car",
    "featured": true,
-   "title": "A Mercedes-vezér szerint Magyarországon olcsóbb dolgoztatni, Németországban újra leépítenek",
-   "lead": "A Mercedes-Benz decemberben újraindítja németországi önkéntes távozási programját, hogy hány állás szűnik meg, azt nem mondták meg. A cég eladásainak nagyjából 15 százaléka jut Németországra, a dolgozók és a struktúrák mintegy kétharmada viszont ott van. Ola Källenius vezérigazgató Magyarországot, Kínát, Romániát és az USA-t említette olcsóbb munkaerejű helyszínként. Közben a BMW 2027 végéig 8000 állás megszüntetését tervezi.",
-   "hu": "Ha az autóiparban dolgozol vagy oda készülsz, ez itthon inkább jó hír lehet: a német leépítésekkel több feladat kerülhet a hazai gyárakhoz és beszállítókhoz. Figyeld a kecskeméti, debreceni és győri régió hirdetéseit, és nézd meg, milyen szakmákat keresnek most."
+   "title": "Németországban újra leépít a Mercedes, a vezér szerint nálunk olcsóbb dolgoztatni",
+   "lead": "A Mercedes decemberben ismét pénzt ajánl a németországi dolgozóinak, ha önként távoznak. Hány állás szűnik meg, azt nem mondták meg. A cég autóinak csak kb. 15 százalékát adják el Németországban, a dolgozók kétharmada viszont ott van. A vezérigazgató Magyarországot is megemlítette olcsóbb helyszínként, a BMW pedig 8000 állást szüntet meg 2027 végéig.",
+   "hu": "Ha autógyárban vagy beszállítónál dolgozol, ez inkább jó hír: ami Németországban túl drága, az idekerülhet. Érdemes figyelni, kit keresnek most az autóipari városokban, Kecskeméten, Győrben vagy Debrecenben."
   },
   {
    "id": "2026-11-02-ausztria-munkaeropiac-oktober",
@@ -28,11 +28,11 @@
    "icon": "sprout",
    "stat": {
     "value": "6250",
-    "label": "fős osztrák idénymunkás-kvóta 2027–2028-ra, közel 22 százalékkal kevesebb, mint eddig"
+    "label": "idénymunkást hozhatnak be az EU-n kívülről Ausztriába 2027–2028-ban, közel negyedével kevesebbet"
    },
-   "title": "Ausztria közel negyedével kevesebb idénymunkást enged be 2027-től",
-   "lead": "Ausztriában október végén 389 941 ember volt munkanélküli vagy AMS-képzésben, 0,5 százalékkal több, mint egy éve, a ráta 7,3 százalék. A meghirdetett üres álláshelyek száma 3,4 százalékkal csökkent. A 2027–2028-as idénymunkás-kvótát közel 22 százalékkal, 6250 főre vágják, a miniszter szerint a belföldi álláskeresők közvetítése az elsődleges.",
-   "hu": "Ha Ausztriában vállalnál szezonális munkát a vendéglátásban vagy a mezőgazdaságban, számíts nagyobb versenyre. Uniós állampolgárként a kvóta rád nem vonatkozik, de kevesebb üres hely és több osztrák álláskereső mellett érdemes időben jelentkezni, és a német nyelvtudásodat is felfrissíteni."
+   "title": "Kevesebb idénymunkást enged be Ausztria, nagyobb lesz a verseny a szezonmunkákért",
+   "lead": "Ausztriában most többen keresnek munkát, mint egy éve, és kevesebb az üres állás. Ezért 2027-től közel negyedével, 6250 főre csökkentik, hány idénymunkást hozhatnak be az EU-n kívülről. A kormány azt szeretné, ha ezeket a helyeket inkább a helyi álláskeresők kapnák meg.",
+   "hu": "Magyarként a kvóta rád nem vonatkozik, de a helyekért több osztrák is versenyezhet. Ha télre vagy nyárra mennél ki, jelentkezz minél korábban, és frissítsd fel a németedet."
   },
   {
    "id": "2026-10-30-ba-nemet-munkaeropiac-oktober",
@@ -46,11 +46,11 @@
    "icon": "factory",
    "stat": {
     "value": "2 955 000",
-    "label": "munkanélküli Németországban októberben, 44 ezerrel több, mint egy évvel korábban"
+    "label": "ember volt munka nélkül Németországban októberben, 44 ezerrel több, mint egy éve"
    },
-   "title": "Közel hárommillió munkanélküli Németországban, elmaradt az őszi élénkülés",
-   "lead": "A német munkaügyi hivatal szerint októberben 40 ezerrel kevesebb volt a munkanélküli, de szezonálisan kiigazítva 4 ezerrel nőtt a számuk, és egy év alatt 44 ezerrel lettek többen; a ráta 6,3 százalék. A foglalkoztatottak száma egy év alatt 211 ezerrel 45,77 millióra csökkent.",
-   "hu": "Ha Németországban keresnél munkát, most keményebb a piac: több a helyi álláskereső, kevesebb a frissen nyíló hely, főleg az iparban. Az ápolás, a szakmunka és a logisztika felé viszont továbbra is van kereslet, ott érdemes nézelődnöd."
+   "title": "Közel hárommillióan keresnek munkát Németországban, ott most nehezebb állást találni",
+   "lead": "Németországban októberben 2 955 000 ember volt munka nélkül, 44 ezerrel több, mint tavaly ilyenkor. Ősszel általában javul a helyzet, idén elmaradt. Egy év alatt 211 ezerrel csökkent a dolgozók száma.",
+   "hu": "Ha Németországba mennél dolgozni, számíts arra, hogy most többen pályáznak egy helyre, főleg a gyárakban. Jobbak az esélyeid azokban a szakmákban, ahol évek óta hiány van, például az ápolásban."
   },
   {
    "id": "2026-10-28-gartner-toborzas-mi-jeloltek",
@@ -64,11 +64,11 @@
    "icon": "bot",
    "stat": {
     "value": "1 / 4",
-    "label": "álláskeresőt képviselhet MI-ügynök 2029-re a Gartner előrejelzése szerint"
+    "label": "álláskereső helyett MI-program jelentkezhet 2029-re a Gartner szerint"
    },
-   "title": "Két év alatt több mint duplájára nőtt a jelentkezések száma, sokat már gép küld be",
-   "lead": "A Gartner elemzője szerint a cégekhez érkező jelentkezések száma két év alatt több mint duplájára nőtt, részben botok és MI-ügynökök miatt. Az előrejelzés szerint 2029-re minden negyedik álláskereső helyett gép jelentkezhet. A cégeknek azt tanácsolják, hogy állásaikat strukturált, szöveges formában tegyék közzé, mert egyre inkább MI-eszközök döntik el, ki melyik állásról értesül.",
-   "hu": "Ha tömegesen, gépi segítséggel jelentkezel, könnyen elveszel a többi ezer hasonló pályázat között. Kevesebb, de célzott jelentkezéssel jobban jársz: igazítsd az önéletrajzod kulcsszavait a hirdetéshez, és írj pár saját mondatot arról, miért pont az a cég."
+   "title": "Két év alatt duplájára nőtt a jelentkezések száma, sokat már egy program küld el",
+   "lead": "A cégekhez kétszer annyi jelentkezés érkezik, mint két éve, és ennek egy részét már nem ember, hanem MI-program küldi be. A Gartner elemzői szerint 2029-re minden negyedik álláskereső helyett egy ilyen program jelentkezhet.",
+   "hu": "Ha gombnyomásra küldöd a CV-d tucatnyi helyre, könnyen elveszel a tömegben. Inkább kevesebb helyre jelentkezz, de mindegyikhez igazítsd az önéletrajzod, és írj pár saját mondatot arról, miért pont oda mennél."
   },
   {
    "id": "2026-10-28-dayforce-mi-megtakaritott-ido",
@@ -80,9 +80,9 @@
    "topic": "MI és a munkád",
    "hu_score": 2,
    "icon": "clock",
-   "title": "A dolgozók 40 százaléka szerint az MI-vel megspórolt idő csak több munkát hoz",
-   "lead": "A Dayforce kutatásában a munkavállalók többsége azt reméli, hogy a mesterséges intelligenciával felszabaduló időt a cég a kiégés csökkentésére és a folyamatok javítására fordítja. A válaszadók 40 százaléka viszont arra számít, hogy egyszerűen több feladatot kap, 39 százalékuk lassabb felvételre vagy létszámcsökkentésre. Hattíznél többen már nem tudnának bizonyos feladatokat MI nélkül elvégezni.",
-   "hu": "Ha az MI-vel gyorsabban végzel, érdemes ezt láthatóvá tenni, és megbeszélni a vezetőddel, mire fordítod a felszabadult időt. Egy új készség vagy egy saját projekt többet ér a karrieredben, mint ha csak több ugyanolyan feladat kerül az asztalodra."
+   "title": "Spórol neked az MI egy órát? Sokan attól tartanak, hogy rögtön jön helyette másik feladat",
+   "lead": "Sokan remélik, hogy ha a mesterséges intelligencia átvesz pár unalmas feladatot, kevesebb lesz a stressz. Egy amerikai felmérés szerint viszont a dolgozók 40 százaléka arra számít, hogy a felszabaduló időt egyszerűen újabb munka tölti ki.",
+   "hu": "Ha az MI-vel gyorsabban végzel, ne hagyd, hogy ez észrevétlen maradjon. Beszéld meg a főnököddel, mire fordítod a nyert időt: egy új tudás többet ér a karrieredben, mint még egy adag ugyanolyan feladat."
   },
   {
    "id": "2026-10-29-dolgozok-harmada-fabulal-keszsegek",
@@ -94,9 +94,9 @@
    "topic": "Karrier és tanulás",
    "hu_score": 2,
    "icon": "graduation",
-   "title": "Minden harmadik amerikai dolgozó bevallottan túlozta már a tudását",
-   "lead": "Az Addison Group 2026-os felmérése szerint az amerikai munkavállalók 36 százaléka, nagyjából 64 millió ember, színlelt már olyan tudást vagy készséget, amivel nem rendelkezett, többnyire azért, hogy versenyképesnek tűnjön. 95 százalékuk magabiztosabb lenne, ha a munkáltató jobban támogatná, 63 százalékuk több képzést, köztük MI-tréninget szeretne.",
-   "hu": "Az önéletrajzban kicsit szépíteni csábító, de a próbaidőn hamar kiderül, ki mit tud valójában. Ha hiányzik egy készség, írd azt, hogy tanulod, és mutass rá egy elvégzett kurzust vagy saját projektet: ez hitelesebb, és sok helyen elég is."
+   "title": "Minden harmadik amerikai dolgozó bevallotta: mondott már nagyobbat a tudásáról",
+   "lead": "Egy friss amerikai felmérésben a dolgozók 36 százaléka elismerte, hogy úgy tett már, mintha értene valamihez, amihez nem. Legtöbbször azért, hogy ne maradjon le a többiektől. A legtöbben azt mondják, több képzés, például egy MI-tréning segítene nekik.",
+   "hu": "Csábító kicsit szépíteni a CV-n, de a próbaidőn úgyis kiderül, mit tudsz. Ha valami hiányzik, írd azt, hogy épp tanulod, és mutass egy elvégzett kurzust: ez hitelesebb, és sok helyen elég is."
   },
   {
    "id": "2026-11-02-rugalmas-munka-apa-diszkriminacio",
@@ -109,8 +109,8 @@
    "hu_score": 2,
    "icon": "scale",
    "title": "Pert nyert az apa, akitől megtagadták a rugalmas munkaidőt, amit a női kollégák megkaptak",
-   "lead": "Egy londoni magániskola tanulmányi igazgatója nemi alapú diszkrimináció miatt nyert munkaügyi pert. Jelezte, hogy a gyerekfelügyelet miatt nehéz neki a reggel 8-tól este 6-ig tartó munkaidő, ezt aztán csak vele szemben kezdték szigorúan betartatni, végül elbocsátották. Női kollégái, köztük vezetők, következmény nélkül dolgozhattak rugalmasan.",
-   "hu": "Itthon is kérheted, hogy a gyermeked nyolcéves koráig módosítsák a munkaidő-beosztásodat vagy engedjék a távmunkát, és a munkáltatónak indokolnia kell, ha elutasítja. Ez anyának és apának egyformán jár, a kérést érdemes írásban beadni."
+   "lead": "Egy londoni iskolai vezetőnek a gyerek miatt gondot okozott a reggel 8-tól este 6-ig tartó munkaidő. Női kollégái rugalmasan dolgozhattak, vele viszont szigorúan betartatták a kezdést, végül el is küldték. A bíróság szerint ez nemi alapú hátrányos megkülönböztetés volt.",
+   "hu": "Itthon is kérheted, hogy a gyereked nyolcéves koráig módosítsák a beosztásodat, vagy dolgozhass otthonról, és ha a cég nemet mond, meg kell indokolnia. Ez anyának és apának egyformán jár, a kérést írásban add be."
   },
   {
    "id": "2026-10-30-mi-panaszok-munkahelyen",
@@ -122,9 +122,9 @@
    "topic": "Munkahelyi élet",
    "hu_score": 2,
    "icon": "message-alert",
-   "title": "A cégek 87 százalékánál több a mesterséges intelligenciával megírt munkahelyi panasz",
-   "lead": "A Brightmine brit felmérése szerint a szervezetek 87 százaléka tapasztal több MI-vel írt dolgozói panaszt. A válaszadók 92 százaléka túlbonyolított vagy eltúlzott beadványokat lát, 88 százalékuk jogias nyelvezetet, 71 százalékuknál pedig tovább tart a panaszok lezárása. A leggyakoribb téma a közvetlen vezetővel való viszony.",
-   "hu": "Ha panaszt írnál a főnököd vagy egy kolléga miatt, az MI segíthet rendbe tenni a gondolataidat, de a túl hosszú, jogászos szöveg inkább lassítja az ügyet. Maradj a tényeknél: mi történt, mikor, és milyen megoldást szeretnél."
+   "title": "Egyre több munkahelyi panaszt írnak meg MI-vel, és ez nem mindig gyorsítja az ügyet",
+   "lead": "Egy brit felmérésben a cégek 87 százaléka azt mondta, több olyan dolgozói panaszt kap, amit mesterséges intelligenciával írtak. Ezek gyakran túl hosszúak, túlzóak és jogászosak, ezért tovább tart elintézni őket. A legtöbb panasz a közvetlen főnökről szól.",
+   "hu": "Ha egyszer panaszt kell írnod, az MI segíthet rendbe tenni a gondolataidat, de ne vele írasd meg az egész levelet. Három dolog kell bele: mi történt, mikor, és mit szeretnél, hogy változzon."
   },
   {
    "id": "2026-10-30-eurostat-munkanelkuliseg-szeptember",
@@ -136,9 +136,9 @@
    "topic": "Munkaerőpiaci adatok",
    "hu_score": 2,
    "icon": "chart",
-   "title": "Egy év alatt 471 ezerrel több munkanélküli az EU-ban, a fiatalokat sújtja leginkább",
-   "lead": "Az Eurostat szeptemberi adatai szerint az EU-ban 6,2, az eurózónában 6,5 százalék a munkanélküliség. Az unióban 13,77 millióan nem találnak munkát, 471 ezerrel többen, mint egy éve; a 25 év alattiaknál 15,5 százalékra nőtt a ráta. A legmagasabb Finnországban és Spanyolországban, a legalacsonyabb Csehországban (2,8 százalék).",
-   "hu": "Ha pályakezdő vagy, nem csak itthon érzed, hogy nehezebb az első állás: Európa-szerte romlik a fiatalok helyzete. Ilyenkor sokat számít egy gyakornoki hely, egy diákmunka vagy egy önkéntes projekt az önéletrajzodban."
+   "title": "Egy év alatt majdnem félmillióval több munkanélküli az EU-ban, a fiatalok járnak a legrosszabbul",
+   "lead": "Az Európai Unióban 13,77 millió ember nem talál munkát, 471 ezerrel több, mint egy éve. A 25 év alattiaknál a legrosszabb a helyzet: közülük 15,5 százalék munkanélküli, nagyjából minden hatodik-hetedik fiatal.",
+   "hu": "Ha pályakezdő vagy, és nehezen jön össze az első állás, nem veled van a baj: egész Európában nehezebb most kezdeni. Ilyenkor sokat számít egy gyakornoki hely, egy diákmunka vagy egy saját projekt a CV-dben."
   },
   {
    "id": "2026-10-28-brit-koltsegvetes-minimalber",
@@ -150,9 +150,9 @@
    "topic": "Munka külföldön",
    "hu_score": 1,
    "icon": "coins",
-   "title": "3,9 százalékkal nő a brit minimálbér 2027 áprilisától",
-   "lead": "A brit őszi költségvetés szerint a felnőttek minimálbére (National Living Wage) 2027 áprilisától 3,9 százalékkal, óránként nagyjából 13,20 fontra emelkedik, ugyanennyivel nő a 18–20 évesek minimálbére is.",
-   "hu": "Ha az Egyesült Királyságban dolgozol vagy oda készülsz, áprilistól kicsit többet kell kapnod óránként. Nézd meg a bérpapírodon, hogy a munkáltató valóban átvezeti-e az emelést."
+   "title": "Áprilistól 3,9 százalékkal több jár óránként, ha az Egyesült Királyságban dolgozol",
+   "lead": "A brit minimálbér 2027 áprilisától 3,9 százalékkal, nagyjából óránként 13,20 fontra emelkedik. Ugyanennyivel nő a 18–20 évesek minimálbére is.",
+   "hu": "Ha kint dolgozol vagy oda készülsz, áprilistól a legkisebb órabérnek is magasabbnak kell lennie. Nézd meg az első áprilisi fizetési papírodon, hogy tényleg megkaptad-e az emelést."
   },
   {
    "id": "2026-10-13-trend-job-hugging",
@@ -167,10 +167,10 @@
    "icon": "anchor",
    "term": "Job hugging",
    "term_hu": "kapaszkodás a munkahelybe",
-   "title": "Minden második amerikai dolgozó a biztonság kedvéért marad, nem azért, mert jó neki",
-   "what": "Ha valaki a biztonság, a kiszámíthatóság vagy a kényelem miatt marad a munkahelyén, akkor is, ha egy váltás jobb fizetést vagy előrelépést hozhatna.",
-   "data": "A Monster 1005 megkérdezettjének 48,1 százaléka most is így tesz, 87 százalékuk pályája során legalább egyszer. 31 százalékuk szerint ez rontja az elégedettségüket, egy éve még 27 százalék mondta ezt.",
-   "hu": "Bizonytalan időkben teljesen érthető, ha maradsz. Attól még figyelheted a piacot: frissítsd az önéletrajzod, és nézd meg, mennyit fizetnek most a te munkakörödben, hogy tudatosan dönts, ne félelemből."
+   "title": "Sokan nem azért maradnak a munkahelyükön, mert jó nekik, hanem mert félnek váltani",
+   "what": "Amikor valaki a biztonság kedvéért ragaszkodik a munkahelyéhez, akkor is, ha máshol többet keresne vagy előrébb jutna.",
+   "data": "Egy amerikai felmérésben (Monster, 1005 válaszadó) majdnem minden második ember most is így tesz. A megkérdezettek 31 százaléka szerint emiatt kevésbé elégedett, egy éve még 27 százalék mondta ezt.",
+   "hu": "Teljesen érthető, ha most nem kockáztatsz. Attól még nézelődhetsz: frissítsd a CV-d, és nézd meg, mennyit fizetnek máshol ugyanezért a munkáért, hogy ne félelemből dönts."
   },
   {
    "id": "2026-09-28-trend-career-cushioning",
@@ -185,10 +185,10 @@
    "icon": "shield",
    "term": "Career cushioning",
    "term_hu": "karrier-védőháló",
-   "title": "A dolgozók fele már a B tervén dolgozik, miközben a helyén marad",
-   "what": "Csendes felkészülés egy másik állásra vagy pályára, miközben az ember még a jelenlegi munkahelyén dolgozik, arra az esetre, ha ott nem válnak be a dolgok.",
-   "data": "A TripleTen megbízásából 2000 amerikai dolgozót kérdeztek meg: 48 százalékuk gondolt már tartalék karrierre, közülük 77 százalék el is kezdett rá készülni.",
-   "hu": "Egy B terv nem hűtlenség, hanem okos óvatosság. Heti egy-két óra tanulás, egy online kurzus vagy egy kapcsolatfelvétel a szakmádban sokat segíthet, ha egyszer váltanod kell."
+   "title": "Minden második dolgozó gondolt már B tervre, és a legtöbbjük el is kezdett készülni",
+   "what": "Csendben készülsz egy másik állásra vagy pályára, miközben még a mostani helyeden dolgozol, hogy legyen hova lépni, ha baj van.",
+   "data": "Egy 2000 fős amerikai felmérésben a dolgozók 48 százaléka gondolt már tartalék karrierre, és közülük tízből majdnem nyolcan el is kezdtek rá készülni.",
+   "hu": "A B terv nem hűtlenség, hanem óvatosság. Heti egy-két óra tanulás vagy egy új szakmai ismerős sokat segíthet, ha egyszer tényleg váltanod kell."
   },
   {
    "id": "2026-08-04-trend-quiet-cracking",
@@ -203,10 +203,10 @@
    "icon": "battery_low",
    "term": "Quiet cracking",
    "term_hu": "csendes megtörés",
-   "title": "A csendes felmondásnál alattomosabb: a lelkes munkaerő is lassan kiég",
-   "what": "Lassú, elhúzódó kiégés és megrekedés, amely fokozatosan rontja a lelkesedést és a teljesítményt, gyakran olyanoknál, akik szeretik a munkájukat, de nem érzik magukat megbecsülve. A kifejezés a TalentLMS-től ered.",
-   "data": "Egy 2025-ös TalentLMS-felmérésben az 1000 amerikai dolgozó 20 százaléka gyakran, 34 százaléka időnként él át ilyet. A Gallup szerint az aktívan elkötelezett amerikai dolgozók aránya 2020 és 2025 között 36-ról 31 százalékra csökkent.",
-   "hu": "Ha hónapok óta fáradtan, kedvetlenül mész be, pedig régen szeretted a munkád, ne söpörd le. Beszélj a vezetőddel új feladatokról vagy fejlődési lehetőségről, és ha nem változik semmi, ez is jelzés lehet a váltásra."
+   "title": "Nem mondasz fel, csak lassan elfogy a lelkesedésed: ez a csendes megtörés",
+   "what": "Lassú kiégés: szereted a munkádat, de nem érzed, hogy megbecsülnek, ezért hónapról hónapra fáradtabb és kedvetlenebb vagy. A kifejezés a TalentLMS kutatóitól származik.",
+   "data": "Egy 2025-ös amerikai felmérésben (TalentLMS, 1000 dolgozó) minden ötödik ember gyakran, további egyharmaduk időnként érzi így magát.",
+   "hu": "Ha hónapok óta nyűg bemenni, pedig régen szeretted, ne söpörd le. Kérj új feladatot vagy fejlődési lehetőséget a főnöködtől, és ha semmi nem változik, az is jelzés lehet."
   }
  ]
 }

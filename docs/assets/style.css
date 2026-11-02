@@ -127,7 +127,7 @@ main{display:flex;flex-direction:column;gap:48px;padding-block:20px 72px}
 .card h3 a:hover,.trend .ttitle a:hover{color:var(--link-hover);text-decoration:underline}
 .card p{margin:0;font-size:14px;line-height:1.6;color:var(--fg-2)}
 .hu{background:var(--teal-50);border-left:3px solid var(--brand-teal);padding:14px 20px 14px 17px;font-size:14px;line-height:1.55;color:var(--fg-1)}
-.hu b{font-weight:700;color:var(--teal-700)}
+.hu b{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--teal-700);margin-bottom:4px}
 .foot{padding:12px 20px;border-top:1px solid var(--gray-100);display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;font-size:13px;color:var(--fg-3)}
 .foot a{font-weight:600;text-decoration:none}
 .foot a:hover{text-decoration:underline}

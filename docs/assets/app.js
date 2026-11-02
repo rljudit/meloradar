@@ -26,7 +26,7 @@ const badge=a=>{const [c,l]=BADGE[a.hu_score]||BADGE[1];return `<span class="bad
 const card=a=>`<article class="card" id="${aid(a)}">${banner(a)}
     <div class="body"><div class="row">${badge(a)}<span class="src">${esc(a.region)} · ${esc(a.source)}</span></div>
       <h3><a href="${page(a)}">${esc(a.title)}</a></h3><p>${esc(a.lead)}</p></div>
-    <div class="hu"><b>Neked: </b>${esc(a.hu)}</div>
+    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>
     <div class="foot"><span class="tag">${esc(topicOf(a).nav)}</span><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">Eredeti cikk, ${shortDate(a.published)} →</a></div>
   </article>`;
 const lead=a=>`<section class="lead" aria-label="Vezető hír">
@@ -39,7 +39,7 @@ const lead=a=>`<section class="lead" aria-label="Vezető hír">
     </article>
     <aside class="lead-hu">
       <span class="tile">${svg("globe",24,2)}</span>
-      <span class="label">Mit jelent ez neked?</span>
+      <span class="label">Neked miért lehet fontos ez?</span>
       <p>${esc(a.hu)}</p>
     </aside>
   </section>`;
@@ -62,7 +62,7 @@ const trendCard=a=>`<article class="trend" id="${aid(a)}">
       <div class="blk"><span class="label">Mit jelent?</span><p>${esc(a.what)}</p></div>
       <div class="blk num"><span class="label">A számok</span><p>${esc(a.data)}</p></div>
     </div>
-    <div class="hu"><b>Neked: </b>${esc(a.hu)}</div>
+    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>
     <div class="foot"><span>${esc(a.region)} · ${esc(a.source)}</span><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">Eredeti cikk, ${shortDate(a.published)} →</a></div>
   </article>`;
 function trendSection(list,all){

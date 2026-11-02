@@ -235,7 +235,7 @@ def build_article(a, items):
       <h1>{e(a["title"])}</h1>
       <div class="box what-box"><span class="label">Mit jelent?</span><p>{e(a["what"])}</p></div>
       <div class="box num-box"><span class="label">A számok</span><p>{e(a["data"])}</p></div>
-      <div class="box hu-box"><span class="label">Mit jelent ez neked?</span><p>{e(a["hu"])}</p></div>"""
+      <div class="box hu-box"><span class="label">Neked miért lehet fontos ez?</span><p>{e(a["hu"])}</p></div>"""
     else:
         stat = ""
         if a.get("stat") and a["stat"].get("value"):
@@ -245,7 +245,7 @@ def build_article(a, items):
       <h1>{e(a["title"])}</h1>
       <p class="lede">{e(a["lead"])}</p>
       {stat}
-      <div class="box hu-box"><span class="label">Mit jelent ez neked?</span><p>{e(a["hu"])}</p></div>"""
+      <div class="box hu-box"><span class="label">Neked miért lehet fontos ez?</span><p>{e(a["hu"])}</p></div>"""
     out += f"""
 <div class="wrap">
   <nav class="crumbs" aria-label="Morzsamenü"><a href="{prefix}">{e(SITE["name"])}</a> › {"Trendfigyelő" if is_trend else e(t["k"])}</nav>
@@ -291,7 +291,7 @@ def build_impressum():
   <dl>{rows}</dl>
   <p>{e(imp.get('legal', ''))}</p>
   <h2>Hogyan készül?</h2>
-  <p>A {e(SITE['name'])} nemzetközi statisztikai hivatalok, munkaerőpiaci kutatócégek, karrier- és HR-szaklapok és gazdasági hírportálok friss anyagait figyeli. A híreket mesterséges intelligencia válogatja és foglalja össze magyarul, saját szavakkal, és mindegyikhez rövid, gyakorlati értelmezést fűz a magyar munkavállalók és álláskeresők szemszögéből („Mit jelent ez neked?”). Csak olyan hír kerül fel, amelynek dátumát és számait az eredeti forrásban ellenőrizni lehetett.</p>
+  <p>A {e(SITE['name'])} nemzetközi statisztikai hivatalok, munkaerőpiaci kutatócégek, karrier- és HR-szaklapok és gazdasági hírportálok friss anyagait figyeli. A híreket mesterséges intelligencia válogatja és foglalja össze magyarul, saját szavakkal, és mindegyikhez rövid, gyakorlati értelmezést fűz a magyar munkavállalók és álláskeresők szemszögéből („Neked miért lehet fontos ez?”). Csak olyan hír kerül fel, amelynek dátumát és számait az eredeti forrásban ellenőrizni lehetett.</p>
   <h2>Források és szerzői jog</h2>
   <p>A cikkek nem fordítások, hanem saját összefoglalások. Minden hír mellett szerepel az eredeti forrás neve és linkje; a teljes tartalom és a pontos megfogalmazás az eredeti kiadóé.</p>
   <h2>Hibát találtál?</h2>
@@ -319,7 +319,7 @@ def build_feed(items, updated):
     for a in items[:60]:
         title = f'{a["term"]}: {a["title"]}' if a.get("kind") == "trend" else a["title"]
         desc = (a.get("what", "") + " " + a.get("data", "")) if a.get("kind") == "trend" else a["lead"]
-        desc += " Neked: " + a["hu"]
+        desc += " Neked miért lehet fontos ez? " + a["hu"]
         link = f'{base_url}/{a["path"]}'
         entries.append(f"""  <item>
     <title>{e(title)}</title>
