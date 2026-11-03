@@ -1,6 +1,103 @@
 {
- "updated": "2026-11-02T19:30",
+ "updated": "2026-11-03T06:55",
  "articles": [
+  {
+   "id": "2026-11-02-ig-metall-figyelmezteto-sztrajkok",
+   "day": "2026-11-03",
+   "published": "2026-11-02",
+   "source": "WEB.DE / dpa, AFP",
+   "url": "https://web.de/magazine/wirtschaft/streiks-2000-betrieben-stillstand-mercedes-rheinmetall-co-42902932",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "car",
+   "featured": true,
+   "title": "3,7 millió német fémipari dolgozó bérvitája: sztrájkolnak a Mercedesnél is",
+   "lead": "Németországban vasárnap óta figyelmeztető sztrájkok vannak a fém- és elektronikai iparban, többek között a Mercedesnél. A szakszervezet egy évre 5 százalékos béremelést kér. A munkáltatók 2027-re csak egy egyszeri, 1 százalékos juttatást ajánlanak, tartós emelést pedig 2028 júliusától, 1,3 százalékkal.",
+   "hu": "Ha német autógyárnál vagy beszállítónál dolgozol itthon, a kinti bérvita kimenetele az itteni bértárgyalásokra is hathat. Ha kint dolgozol, kérdezd meg az üzemi tanácsot (Betriebsrat), vonatkozik-e rád a kollektív szerződés."
+  },
+  {
+   "id": "2026-11-02-ryanair-berbefagyasztas",
+   "day": "2026-11-03",
+   "published": "2026-11-02",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/ryanair-wage-freeze/",
+   "region": "Európa",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "plane",
+   "stat": {
+    "value": "2 milliárd euró",
+    "label": "lehet a Ryanair éves többletköltsége üzemanyagra, ezért a béreket is befagyaszthatják"
+   },
+   "title": "A Ryanair bérbefagyasztást fontolgat, mert 2 milliárd euróval drágul az üzemanyag",
+   "lead": "A Ryanair ideiglenesen befagyaszthatja a dolgozói bérét, mert az iráni háború miatt évente kb. 2 milliárd euróval nőhet az üzemanyagszámlája. Közben több régi bérmegállapodás is lejár. A cég kisebb személyzettel és több MI-vel is spórolna az irodai munkákban.",
+   "hu": "Ha légiutas-kísérő vagy pilóta vagy, vagy oda jelentkeznél, jövőre lassabban nőhet a béred a fapados cégeknél. Ha lejár a bérmegállapodásod, kérdezd meg a szakszervezetet, mi várható, és nézd meg, mit ajánlanak a versenytársak."
+  },
+  {
+   "id": "2026-11-03-brit-munkahelyi-elegedettseg-melyponton",
+   "day": "2026-11-03",
+   "published": "2026-11-03",
+   "source": "The Guardian (AOL)",
+   "url": "https://www.aol.co.uk/articles/uk-job-satisfaction-record-low-050039000.html",
+   "region": "Egyesült Királyság",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "trending-down",
+   "stat": {
+    "value": "74 százalék",
+    "label": "volt elégedett a munkájával a brit dolgozók közül 2025-ben, ilyen kevés még sosem volt 1989 óta"
+   },
+   "title": "Mélyponton a britek munkahelyi elégedettsége, egyre kevesebben tennének bele pluszt",
+   "lead": "Az Egyesült Királyságban 2025-ben a dolgozók 74 százaléka volt elégedett a munkájával, ez a legkevesebb 1989 óta. Tíz éve még tízből heten tettek volna bele a kötelezőnél többet, most alig több mint a fele. Az elemzők szerint a gyenge béremelések és a hiányzó rugalmasság áll a háttérben.",
+   "hu": "Ha te is úgy érzed, hogy a béred és a rugalmasságod elmarad attól, amit beleteszel, nem vagy egyedül. Írd össze, mi hiányzik a legjobban, és ezzel menj a következő teljesítményértékelésre."
+  },
+  {
+   "id": "2026-11-02-mi-karrierletra-maszofal",
+   "day": "2026-11-03",
+   "published": "2026-11-02",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/02/a-microsoft-exec-says-ai-is-killing-the-career-ladder-but-its-replacement-comes-with-a-catch/",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "trending-up",
+   "title": "A Microsoft egyik vezetője szerint az MI miatt eltűnik a klasszikus karrierlétra",
+   "lead": "A Microsoft egyik vezetője szerint az MI miatt a karrier inkább mászófal lesz, mint létra: nem mindig felfelé haladsz. Kritikusok szerint ez azoknak árthat, akiket eddig a világos előléptetési szabályok védtek. Egy kis, 236 fős felmérésben a legtöbb helyre jelentkezők kapták a legkevesebb állást.",
+   "hu": "Ha az előléptetésre vársz, lehet, hogy oldalra kell lépned, például egy új projektre vagy csapatba. Kérdezd meg a főnöködet, pontosan mi kell az előrelépéshez, és kérd ezt írásban is."
+  },
+  {
+   "id": "2026-11-02-ecco-gyarbezaras-2400-allas",
+   "day": "2026-11-03",
+   "published": "2026-11-02",
+   "source": "Sweden Herald",
+   "url": "https://swedenherald.com/article/ecco-to-close-factories-in-portugal-and-vietnam-cutting-2400-jobs-amid-cost-cutting-drive",
+   "region": "Európa",
+   "topic": "Állások és toborzás",
+   "hu_score": 1,
+   "icon": "factory",
+   "title": "2400 állás szűnik meg az Ecco cipőgyártónál, két gyárát is bezárja",
+   "lead": "A dán Ecco bezárja portugáliai és vietnami gyárát, 2400 ember veszíti el az állását. A cég túltermeléssel és költségcsökkentéssel indokolja a döntést. Az utolsó üzleti évét 179 millió dán korona veszteséggel zárta.",
+   "hu": "Ha gyártásban dolgozol, látszik, hogy a túltermelő cégek most a gyárakon spórolnak. Figyeld a céged rendeléseit és eredményeit, és frissítsd időben a CV-d, ha rossz jeleket látsz."
+  },
+  {
+   "kind": "trend",
+   "id": "2026-10-27-trend-habit-hugging",
+   "day": "2026-11-03",
+   "published": "2026-10-27",
+   "source": "TalentLMS / PR Newswire",
+   "url": "https://finance.yahoo.com/technology/ai/articles/talentlms-research-reveals-habit-hugging-122700812.html",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "anchor",
+   "term": "Habit hugging",
+   "term_hu": "kapaszkodás a régi rutinba",
+   "title": "Elvégezted a tréninget, mégis a régi módon dolgozol? Ez a kapaszkodás a rutinba",
+   "what": "Megtanulod az új programot vagy MI-eszközt, de amikor sürget a határidő, visszanyúlsz a régi, bevált módszerhez.",
+   "data": "Egy friss amerikai felmérésben tízből csak négyen használják következetesen az új módszert a tréning után (TalentLMS, 1500 dolgozó). Majdnem háromnegyedük keveri a régit az újjal, és ha a főnök is az új módon dolgozik, kétszer annyian váltanak.",
+   "hu": "Ha te is így vagy vele, az nem lustaság: sokszor egyszerűen nincs idő gyakorolni. Kérd meg a főnököd, hogy egy valódi feladaton, nyugodtabb tempóban próbálhasd ki az új eszközt."
+  },
   {
    "id": "2026-10-28-mercedes-leepites-nemetorszag",
    "published": "2026-10-28",
@@ -11,7 +108,6 @@
    "topic": "Állások és toborzás",
    "hu_score": 3,
    "icon": "car",
-   "featured": true,
    "title": "Németországban újra leépít a Mercedes, a vezér szerint nálunk olcsóbb dolgoztatni",
    "lead": "A Mercedes decemberben ismét pénzt ajánl a németországi dolgozóinak, ha önként távoznak. Hány állás szűnik meg, azt nem mondták meg. A cég autóinak csak kb. 15 százalékát adják el Németországban, a dolgozók kétharmada viszont ott van. A vezérigazgató Magyarországot is megemlítette olcsóbb helyszínként, a BMW pedig 8000 állást szüntet meg 2027 végéig.",
    "hu": "Ha autógyárban vagy beszállítónál dolgozol, ez inkább jó hír: ami Németországban túl drága, az idekerülhet. Érdemes figyelni, kit keresnek most az autóipari városokban, Kecskeméten, Győrben vagy Debrecenben."
