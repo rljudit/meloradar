@@ -1,8 +1,8 @@
 {
  "site": {
   "name": "Melóradar",
-  "tagline": "a világ munkaerőpiaca, rád szabva",
-  "description": "Napi globális munkaerőpiaci hírek magyar munkavállalóknak és álláskeresőknek: rövid összefoglaló, és hogy mit jelent ez neked itthon. A Sajtóművek AI hírfigyelője.",
+  "tagline": "Tudjuk, hogy nem érsz rá olvasni. Csak a legfontosabb hírek, a te szemszögedből.",
+  "description": "Tudjuk, hogy nem érsz rá olvasni. Csak a legfontosabb munkaerőpiaci hírek a világból, a te szemszögedből: röviden, és hogy neked miért lehet fontos. A Sajtóművek AI hírfigyelője.",
   "url": "https://rljudit.github.io/meloradar",
   "email": "judit.losonczy@sajtomuvek.hu",
   "lang": "hu",

@@ -27,3 +27,9 @@ git add -A && git commit -m "Frissítés" && git push
 ## Saját domain
 
 A `src/config.json`-ban a `site.url` legyen az új cím, és add hozzá: `"domain": "meloradar.example.hu"`. A build ebből `docs/CNAME`-et ír; a DNS-ben egy CNAME rekord kell `rljudit.github.io` értékkel.
+
+## Kapcsolódó Profession.hu-cikkek
+
+- `data/profession_cikkek.json`: a Profession.hu álláskeresési tanácsainak jegyzéke (cím, link, rovat, címkék). Hetente frissíti a „Melóradar – Profession cikkjegyzék” feladat.
+- Minden hírnél a `related` mező 1–2 linket tartalmaz ebből a jegyzékből. A build UTM-paramétert tesz rájuk: `utm_source=meloradar&utm_medium=referral&utm_campaign=kapcsolodo_cikk&utm_content=<hír azonosító>`.
+- Megjelenés: a cikkoldalon „Olvass tovább a Profession.hu-n” doboz, a kártyákon az első link.

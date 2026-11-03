@@ -23,10 +23,11 @@ function banner(a){
   return `<div class="banner" aria-hidden="true" style="background:${t.bg}"><svg class="bg" viewBox="0 0 400 120" preserveAspectRatio="xMidYMid slice"><circle cx="360" cy="10" r="70" fill="${c1}" fill-opacity="${o1}"/><circle cx="30" cy="115" r="48" fill="${c2}" fill-opacity="${o2}"/></svg>${svg(a.icon,56,1.6)}</div>`;
 }
 const badge=a=>{const [c,l]=BADGE[a.hu_score]||BADGE[1];return `<span class="badge ${c}">${l}</span>`};
+const prof=a=>(a.rel&&a.rel.length)?`<a class="prof-link" href="${esc(safeUrl(a.rel[0].u))}" target="_blank" rel="noopener"><span class="pl">Profession.hu</span>${esc(a.rel[0].t)} →</a>`:"";
 const card=a=>`<article class="card" id="${aid(a)}">${banner(a)}
     <div class="body"><div class="row">${badge(a)}<span class="src">${esc(a.region)} · ${esc(a.source)}</span></div>
       <h3><a href="${page(a)}">${esc(a.title)}</a></h3><p>${esc(a.lead)}</p></div>
-    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>
+    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>${prof(a)}
     <div class="foot"><span class="tag">${esc(topicOf(a).nav)}</span><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">Eredeti cikk, ${shortDate(a.published)} →</a></div>
   </article>`;
 const lead=a=>`<section class="lead" aria-label="Vezető hír">
@@ -40,7 +41,7 @@ const lead=a=>`<section class="lead" aria-label="Vezető hír">
     <aside class="lead-hu">
       <span class="tile">${svg("globe",24,2)}</span>
       <span class="label">Neked miért lehet fontos ez?</span>
-      <p>${esc(a.hu)}</p>
+      <p>${esc(a.hu)}</p>${prof(a)}
     </aside>
   </section>`;
 function stats(list){
@@ -62,7 +63,7 @@ const trendCard=a=>`<article class="trend" id="${aid(a)}">
       <div class="blk"><span class="label">Mit jelent?</span><p>${esc(a.what)}</p></div>
       <div class="blk num"><span class="label">A számok</span><p>${esc(a.data)}</p></div>
     </div>
-    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>
+    <div class="hu"><b>Neked miért lehet fontos ez?</b>${esc(a.hu)}</div>${prof(a)}
     <div class="foot"><span>${esc(a.region)} · ${esc(a.source)}</span><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">Eredeti cikk, ${shortDate(a.published)} →</a></div>
   </article>`;
 function trendSection(list,all){

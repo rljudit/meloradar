@@ -74,6 +74,22 @@ def banner(a, cls="banner", h=120, size=56):
 
 
 # ---------------------------------------------------------------- adatok
+UTM = "utm_source=meloradar&utm_medium=referral&utm_campaign=kapcsolodo_cikk"
+_pidx = ROOT / "data/profession_cikkek.json"
+PROF = {x["url"]: x for x in json.loads(_pidx.read_text(encoding="utf-8"))["articles"]} if _pidx.exists() else {}
+
+
+def rel_links(a, problems):
+    out = []
+    for u in (a.get("related") or [])[:2]:
+        x = PROF.get(u)
+        if not x:
+            problems.append(f"{a.get('id', '?')}: a kapcsolódó Profession-cikk nincs a cikkjegyzékben: {u}")
+            continue
+        out.append({"t": x["title"], "u": f"{u}{'&' if '?' in u else '?'}{UTM}&utm_content={a['id']}"})
+    return out
+
+
 def load_articles():
     data = json.loads((ROOT / "data/articles.json").read_text(encoding="utf-8"))
     items, seen, problems = [], set(), []
@@ -93,6 +109,7 @@ def load_articles():
         seen.add(s)
         a["slug"] = s
         a["path"] = f'{"trend" if is_trend else "hir"}/{s}/'
+        a["rel"] = rel_links(a, problems)
         items.append(a)
     items.sort(key=lambda a: (a["day"], a["published"]), reverse=True)
     return data.get("updated", ""), items, problems
@@ -210,6 +227,15 @@ def aside_list(items, current, prefix):
     return f'<aside aria-label="További friss tartalmak"><h2>Friss a Melóradaron</h2>{cards}</aside>'
 
 
+def rel_box(a):
+    if not a.get("rel"):
+        return ""
+    lis = "".join(
+        f'<li><a href="{e(r["u"])}" target="_blank" rel="noopener">{e(r["t"])}<span aria-hidden="true">→</span></a></li>'
+        for r in a["rel"])
+    return f'<section class="prof" aria-label="Kapcsolódó cikkek a Profession.hu-n"><span class="label">Olvass tovább a Profession.hu-n</span><ul>{lis}</ul></section>'
+
+
 def build_article(a, items):
     prefix = "../../"
     is_trend = a.get("kind") == "trend"
@@ -254,6 +280,7 @@ def build_article(a, items):
       {banner(a, "hero", 200, 88)}
       {meta}
       {content}
+      {rel_box(a)}
       <div class="source"><span>Forrás: <strong>{e(a["source"])}</strong>, {short_date(a["published"])}</span>
         <a class="btn" href="{e(a["url"])}" target="_blank" rel="noopener">Eredeti cikk megnyitása</a></div>
       <p class="note">Ez az összefoglaló a fenti forrás alapján, saját szavakkal és saját értelmezéssel, mesterséges intelligencia segítségével készült. A részletekért és a pontos megfogalmazásért nézd meg az eredeti cikket.</p>
@@ -364,7 +391,7 @@ def build_assets(items, updated):
     shutil.copy(ROOT / "src/app.js", OUT / "assets/app.js")
     cfg = {"topics": TOPICS, "icons": ICONS}
     (OUT / "assets/config.js").write_text("window.HRM=" + json.dumps(cfg, ensure_ascii=False) + ";\n", encoding="utf-8")
-    pub = [{k: v for k, v in a.items() if k != "slug"} for a in items]
+    pub = [{k: v for k, v in a.items() if k not in ("slug", "related")} for a in items]
     (OUT / "data/articles.json").write_text(json.dumps({"updated": updated, "articles": pub}, ensure_ascii=False), encoding="utf-8")
     (OUT / "favicon.svg").write_text(
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" x1="0" x2="1">'

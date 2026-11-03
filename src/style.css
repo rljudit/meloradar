@@ -222,3 +222,21 @@ footer a:hover{color:var(--teal-300);text-decoration:underline}
 .devbar{background:var(--warning);color:var(--fg-1);font-size:13px;font-weight:600}
 .devbar .wrap{padding-block:8px}
 .devbar a{color:var(--fg-1)}
+
+/* Kapcsolódó Profession.hu-cikkek */
+.prof-link{display:block;padding:12px 20px;border-top:1px solid var(--gray-100);font-size:14px;font-weight:600;line-height:1.45;color:var(--fg-1);text-decoration:none;transition:background var(--dur-base) var(--ease-out)}
+.prof-link:hover{background:var(--sky-50);color:var(--link-hover)}
+.prof-link .pl{display:block;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sky-700);margin-bottom:2px}
+.lead-hu .prof-link{margin-top:auto;padding:14px 16px;border:1px solid var(--teal-100);border-radius:var(--radius-lg);background:#fff}
+.lead-hu .prof-link:hover{border-color:var(--teal-300);background:#fff}
+.prof{background:#fff;border:1px solid var(--border);border-radius:var(--radius-lg);padding:20px 24px;display:flex;flex-direction:column;gap:10px}
+.prof .label{color:var(--sky-700)}
+.prof ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.prof li+li{border-top:1px solid var(--gray-100)}
+.prof li a{display:flex;justify-content:space-between;gap:16px;align-items:center;padding:12px 0;font-size:16px;font-weight:600;line-height:1.4;color:var(--fg-1);text-decoration:none}
+.prof li a:hover{color:var(--link-hover)}
+.prof li a span{color:var(--sky-600);flex:none}
+/* Fejléc szlogenje */
+.brand small{max-width:300px;line-height:1.35}
+@media (min-width:1101px){.top .wrap{flex-wrap:nowrap}.nav{flex-wrap:nowrap}.nav button,.nav a{padding:8px 10px;font-size:14px}}
+@media (max-width:600px){.brand small{font-size:11.5px;max-width:260px}}

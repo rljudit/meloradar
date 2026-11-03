@@ -46,8 +46,8 @@ d.ellipse((cx-7, cy-7, cx+7, cy+7), fill="white")
 d.line((cx+5, cy-5, cx+34, cy-34), fill="white", width=7)
 
 d.text((88, 250), "Melóradar", font=font(112, "ExtraBold"), fill="white")
-d.text((92, 392), "a világ munkaerőpiaca, rád szabva", font=font(40, "SemiBold"), fill="#8fe6d5")
-d.text((92, 470), "Napi hírek, és hogy mit jelentenek neked itthon", font=font(30, "Medium"), fill="#dde3eb")
+d.text((92, 392), "Tudjuk, hogy nem érsz rá olvasni.", font=font(40, "SemiBold"), fill="#8fe6d5")
+d.text((92, 470), "Csak a legfontosabb hírek, a te szemszögedből.", font=font(30, "Medium"), fill="#dde3eb")
 d.rectangle((92, 540, 92 + 120, 546), fill="#50d7be")
 out = Path(__file__).resolve().parent / "og.png"
 img.convert("RGB").save(out, optimize=True)
