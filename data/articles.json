@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-03T06:55",
+ "updated": "2026-11-04T07:06",
  "articles": [
+  {
+   "id": "2026-11-02-gorog-bertranszparencia-hatalyba",
+   "day": "2026-11-04",
+   "published": "2026-11-02",
+   "source": "Greek City Times",
+   "url": "https://greekcitytimes.com/2026/11/02/greece-introduces-new-gender-pay-transparency-rules",
+   "region": "Európa",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "scale",
+   "featured": true,
+   "title": "Görögországban már az első interjú előtt meg kell mondani, mennyit fizet az állás",
+   "lead": "Görögországban november 1-jén életbe lépett az uniós bértranszparencia-irányelv. A jelentkezők már az első interjú előtt megtudhatják a kezdő fizetést vagy a bérsávot. A cég azt sem kérdezheti meg, mennyit kerestél korábban, a dolgozók pedig írásban kérhetik az azonos munkát végzők átlagbérét.",
+   "hu": "Az uniós szabályt Magyarországnak is át kell vennie, így itthon is hasonló jogaid lesznek, ha munkát keresel vagy a béredre vagy kíváncsi. Ha most váltanál, már az első körben kérdezz rá a bérsávra, hogy ne a folyamat végén érjen meglepetés.",
+   "related": [
+    "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes",
+    "https://www.profession.hu/cikk/jonnek-az-atlathato-fizetesek-mit-jelent-ez-a-gyakorlatban"
+   ]
+  },
+  {
+   "id": "2026-11-03-schaeffler-3460-allas-europa",
+   "day": "2026-11-04",
+   "published": "2026-11-03",
+   "source": "Reuters (Yahoo Finance)",
+   "url": "https://uk.finance.yahoo.com/news/schaeffler-cut-3-460-jobs-103321054.html",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "car",
+   "stat": {
+    "value": "2660",
+    "label": "állás szűnik meg 2028-ig a Schaeffler németországi telephelyein, ez az ottani létszám kb. 9 százaléka"
+   },
+   "title": "3460 állás szűnik meg Európában a Schaeffler autóipari beszállítónál",
+   "lead": "A német Schaeffler 3460 állást szüntet meg Európában, ebből 2660-at Németországban 2028-ig. Öt telephelyet zár be, négyet Németországban és egyet Belgiumban. A cég a belsőégésű motorok gyengébb keresletével, a vártnál lassabban terjedő villanyautókkal és az erős versennyel indokolja a döntést.",
+   "hu": "Ha itthon autóipari beszállítónál dolgozol, a német átszervezések a te gyáradat is érinthetik, akár jó, akár rossz irányba. Kérdezd meg a vezetődet, milyen termékeken dolgozik majd a gyáratok, és írd be az önéletrajzodba, milyen új technológiát tanultál meg.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-02-ausztria-idenymunkas-kontingens",
+   "day": "2026-11-04",
+   "published": "2026-11-02",
+   "source": "gast.at",
+   "url": "https://www.gast.at/gastro-hotel/gastronomie/saisonier-einigung-bringt-weniger-plaetze/",
+   "region": "Ausztria",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "plane",
+   "stat": {
+    "value": "6250",
+    "label": "helyet ad évente Ausztria a tervek szerint EU-n kívüli idénymunkásoknak a turizmusban 2027-től, 1750-nel kevesebbet, mint eddig"
+   },
+   "title": "Ausztria 2027-től kevesebb EU-n kívüli idénymunkást enged be a turizmusba",
+   "lead": "Ausztria a tervek szerint 2027-ben és 2028-ban évente 6250 helyet ad EU-n kívüli idénymunkásoknak a turizmusban. Ez 1750-nel kevesebb, mint eddig. Engedély előtt a munkaügyi központ (AMS) megnézi, betölthető-e az állás osztrák vagy más európai uniós dolgozóval.",
+   "hu": "Ha a téli szezonban osztrák hotelben vagy étteremben dolgoznál, uniós állampolgárként neked nem kell ilyen engedély, így előnyben lehetsz. Jelentkezz minél előbb, mert sok helyen december 20. körül indul a főszezon, és kérdezd meg, ad-e szállást a munkáltató.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig"
+   ]
+  },
+  {
+   "id": "2026-11-02-hubstaff-irodai-jelenlet-fizetes",
+   "day": "2026-11-04",
+   "published": "2026-11-02",
+   "source": "Fair Play Talks (Hubstaff-felmérés)",
+   "url": "https://www.fairplaytalks.com/2026/11/02/two-thirds-want-higher-pay-to-return-to-office-while-nearly-half-would-sacrifice-pay-for-flexibility-study-finds/",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "coffee",
+   "title": "Háromból két otthonról dolgozó többször bejárna az irodába, ha jobban fizetnék",
+   "lead": "Egy friss amerikai felmérésben a távmunkában vagy hibrid módon dolgozók 67 százaléka mondta, hogy magasabb fizetésért többször bemenne az irodába. A csak irodában dolgozók 45 százaléka viszont kisebb fizetést is vállalna egy kis rugalmasságért. A felmérés 1068 számítógép előtt dolgozó embert kérdezett meg.",
+   "hu": "Ha a céged több irodai napot kér, jó tudni, hogy a rugalmasság sokaknak pénzben is mérhető érték. Számold ki, mennyibe kerül neked havonta egy irodai nap útiköltségben és időben, és ezzel készülj a következő bértárgyalásra.",
+   "related": [
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-03-usa-jolts-szeptember",
+   "day": "2026-11-04",
+   "published": "2026-11-03",
+   "source": "Indeed Hiring Lab",
+   "url": "https://hiringlab.indeed.com/2026/11/03/september-2026-jolts-report-eerily-quiet/",
+   "region": "USA",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 1,
+   "icon": "chart",
+   "title": "Az USA-ban ritkán vesznek fel új embert, de egyre többen mernek felmondani",
+   "lead": "Az Egyesült Államokban szeptemberben 7,5 millió állás várt betöltésre, alig több, mint egy hónappal korábban. Az elemzők szerint a cégek 2013 óta nem vettek fel ilyen lassan új embert. A felmondások aránya viszont 2,1 százalékra nőtt, ami tavaly június óta először haladja meg a 2 százalékot.",
+   "hu": "Ha te is váltanál, ebből látszik, hogy egy lassú piacon az jár jobban, aki célzottan jelentkezik, nem tömegesen. Válassz ki néhány hirdetést, és mindegyikhez igazítsd az önéletrajzod első pár sorát.",
+   "related": [
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
+    "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-03-trend-botsitting",
+   "day": "2026-11-04",
+   "published": "2026-11-03",
+   "source": "Founder Reports / Stacker",
+   "url": "https://keyt.com/stacker-ai/2026/11/03/most-workers-say-getting-good-work-from-ai-takes-as-much-effort-as-training-a-new-hire/",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "term": "Botsitting",
+   "term_hu": "az MI pesztrálása",
+   "title": "Az MI megcsinálja a munkát, te pedig utána javítgatod: ez az MI pesztrálása",
+   "what": "Az MI gyorsan ad egy vázlatot, de neked kell elmagyaráznod a feladatot, ellenőrizned és kijavítanod. Ez az idő sokszor láthatatlan marad, pedig a munkád része.",
+   "data": "Egy friss amerikai felmérésben tízből hatan mondták, hogy az MI-től jó munkát kapni legalább annyi energia, mint betanítani egy új kollégát. Majdnem minden harmadik dolgozó heti legalább három órát tölt az MI terelgetésével és javításával (Founder Reports, 2052 dolgozó, 2026. október).",
+   "hu": "Ha te is sokat javítgatod az MI munkáját, nem vagy egyedül, és ez nem azt jelenti, hogy rosszul használod. Egy hétig írd fel, mennyi időt viszel el ezzel, és beszéld meg a csapatoddal, mely feladatoknál éri meg tényleg az MI.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
   {
    "id": "2026-11-02-ig-metall-figyelmezteto-sztrajkok",
    "day": "2026-11-03",
@@ -11,7 +132,6 @@
    "topic": "Fizetés és juttatások",
    "hu_score": 3,
    "icon": "car",
-   "featured": true,
    "title": "3,7 millió német fémipari dolgozó bérvitája: figyelmeztető sztrájkok az autóiparban is",
    "lead": "Németországban vasárnap óta figyelmeztető sztrájkok vannak a fém- és elektronikai iparban, köztük nagy autógyárakban is. A szakszervezet egy évre 5 százalékos béremelést kér. A munkáltatók 2027-re egy egyszeri, 1 százalékos juttatást, 2028 júliusától pedig 1,3 százalékos tartós emelést ajánlanak.",
    "hu": "Ha német autógyárnál vagy beszállítónál dolgozol itthon, a kinti bérvita kimenetele az itteni bértárgyalásokra is hathat. Ha kint dolgozol, kérdezd meg az üzemi tanácsot (Betriebsrat), vonatkozik-e rád a kollektív szerződés.",
