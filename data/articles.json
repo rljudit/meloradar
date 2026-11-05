@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-04T07:06",
+ "updated": "2026-11-05T06:59",
  "articles": [
+  {
+   "id": "2026-11-04-ekb-berkoveto-euroovezet-2027",
+   "day": "2026-11-05",
+   "published": "2026-11-04",
+   "source": "Európai Központi Bank (EuropaWire)",
+   "url": "https://news.europawire.eu/ecb-wage-tracker-signals-slightly-higher-permanent-pay-growth-in-2027-as-contract-coverage-falls/eu-press-release/2026/11/04/13/47/04/186072/",
+   "region": "Európa",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "featured": true,
+   "title": "2,8 százalékos béremelés látszik 2027 elejére az euróövezet bérmegállapodásaiban",
+   "lead": "Az Európai Központi Bank bérkövetője szerint a kollektív szerződésekben rögzített bérek idén átlagosan 2,3 százalékkal nőnek az euróövezetben. A már megkötött megállapodások alapján 2027 első felében 2,8 százalékos emelés látszik. A bank hangsúlyozza, hogy ez nem előrejelzés, és a számok még változhatnak.",
+   "hu": "Ha Ausztriában vagy Németországban dolgozol, vagy oda készülsz, ebből látod, mekkora emelés számít most átlagosnak. Nézd meg, mikor jár le a te ágazatod kollektív szerződése, és ehhez igazítsd a saját bérkérésedet.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-03-new-york-fed-irodai-jelenlet-online-meetingek",
+   "day": "2026-11-05",
+   "published": "2026-11-03",
+   "source": "TechRadar Pro (New York Fed-tanulmány)",
+   "url": "https://www.techradar.com/pro/the-office-increasingly-fails-to-deliver-this-benefit-most-in-office-workers-now-describe-their-desk-jobs-as-remote-despite-bosses-promising-to-boost-in-person-teams",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "coffee",
+   "stat": {
+    "value": "2,59 nap",
+    "label": "ennyit járnak be hetente átlagosan az amerikai irodai dolgozók, pedig 3,74 napot kérnek tőlük"
+   },
+   "title": "Majdnem minden második irodába járónak akkor is online megbeszélései vannak, ha bent ül",
+   "lead": "A New York-i jegybank friss tanulmánya szerint az irodába bejárók 49 százalékának nincsenek teljesen személyes értekezletei. Sokszor elég egyetlen otthonról bejelentkező kolléga, és az egész megbeszélés online zajlik. A kollégákkal együtt töltött idő napi 7,1 óráról 6,3 órára csökkent a járvány előtti időkhöz képest.",
+   "hu": "Ha bejársz, de a nap nagy részében így is kamerán keresztül beszélsz a kollégáiddal, nem vagy egyedül. Gondold végig, melyik megbeszélés érne többet személyesen, és javasold a csapatodnak, hogy az irodai napokra ezeket tegyétek.",
+   "related": [
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget",
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat"
+   ]
+  },
+  {
+   "id": "2026-11-03-mi-hasznalok-hosszabb-munkanap",
+   "day": "2026-11-05",
+   "published": "2026-11-03",
+   "source": "Gizmodo (ActivTrak-elemzés)",
+   "url": "https://gizmodo.com/ai-users-are-working-up-to-90-minutes-longer-every-day-study-finds-2000833982",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "clock",
+   "stat": {
+    "value": "90 perc",
+    "label": "ennyivel is hosszabb lehet naponta azok munkaideje, akik MI-t használnak, mint akik nem"
+   },
+   "title": "Akik MI-t használnak, akár napi másfél órával tovább dolgoznak egy friss elemzés szerint",
+   "lead": "Egy munkahelyi elemzés több mint 9000 dolgozó gépes munkáját vizsgálta 467 cégnél áprilistól szeptemberig. Az MI-t használók munkanapja 8,4–9,1 óra volt, a többieké 7,6 óra. A sok MI-t használók ráadásul gyakrabban váltogattak programok között, és ritkábban tudtak megszakítás nélkül dolgozni.",
+   "hu": "Ha úgy érzed, az MI nem időt spórol neked, hanem több feladatot hoz, ez nem csak veled van így. Egy héten át írd fel, mennyi időd megy el az MI-vel és a javítással, és ezzel menj a vezetődhöz.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-03-virgin-media-o2-atszervezes-mi",
+   "day": "2026-11-05",
+   "published": "2026-11-03",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/virgin-media-o2-to-cut-thousands-of-jobs-in-savings-drive/",
+   "region": "Egyesült Királyság",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "building",
+   "title": "Több ezer háttérállás szűnhet meg a brit Virgin Media O2-nál, több feladatot kap az MI",
+   "lead": "A brit távközlési cég, a Virgin Media O2 átszervez: 2029-ig 30 százalékkal akarja csökkenteni a bérköltségeit. A körülbelül 16 ezer dolgozóból több ezer állás érintett lehet, de nem az ügyfelekkel közvetlenül foglalkozó munkakörökben. A cég a piaci helyzettel és a technológiai változással indokolja a döntést.",
+   "hu": "Ha irodai háttérmunkában, hálózattervezésben vagy hibaelhárításban dolgozol, ezeken a területeken egyre több feladatot vehet át az MI. Írd be az önéletrajzodba, milyen MI-eszközöket használsz már a munkádban, és kérdezd meg, tanulhatsz-e újakat a cégnél.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-03-kanada-mi-fiatalok-felvetel",
+   "day": "2026-11-05",
+   "published": "2026-11-03",
+   "source": "BNN Bloomberg (Kanadai Statisztikai Hivatal)",
+   "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/03/little-evidence-ai-is-to-blame-for-decline-in-youth-hiring-new-statcan-study-finds",
+   "region": "Kanada",
+   "topic": "Karrier és tanulás",
+   "hu_score": 1,
+   "icon": "users",
+   "title": "Kanadai kutatás: nem az MI miatt nehezebb pályakezdőként munkát találni",
+   "lead": "A kanadai statisztikai hivatal húsz év adatait nézte meg, és nem talált arra széles körű bizonyítékot, hogy az MI visszavetette volna a felvételeket. A 15–29 évesek felvételi aránya azokban a munkakörökben is csökkent, ahol az MI alig számít. A kutatók szerint a lassulás mögött más okok is állhatnak.",
+   "hu": "Ha pályakezdőként nehezen találsz munkát, ebből látszik, hogy ez nem feltétlenül az MI miatt van. Ne engedd el miatta a kiszemelt pályádat, és az önéletrajzodban mutasd meg, milyen MI-eszközöket ismersz már.",
+   "related": [
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
   {
    "id": "2026-11-02-gorog-bertranszparencia-hatalyba",
    "day": "2026-11-04",
@@ -11,7 +110,6 @@
    "topic": "Jogaid és szabályok",
    "hu_score": 3,
    "icon": "scale",
-   "featured": true,
    "title": "Görögországban már az első interjú előtt meg kell mondani, mennyit fizet az állás",
    "lead": "Görögországban november 1-jén életbe lépett az uniós bértranszparencia-irányelv. A jelentkezők már az első interjú előtt megtudhatják a kezdő fizetést vagy a bérsávot. A cég azt sem kérdezheti meg, mennyit kerestél korábban, a dolgozók pedig írásban kérhetik az azonos munkát végzők átlagbérét.",
    "hu": "Az uniós szabályt Magyarországnak is át kell vennie, így itthon is hasonló jogaid lesznek, ha munkát keresel vagy a béredre vagy kíváncsi. Ha most váltanál, már az első körben kérdezz rá a bérsávra, hogy ne a folyamat végén érjen meglepetés.",
