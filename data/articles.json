@@ -1,6 +1,141 @@
 {
- "updated": "2026-11-05T06:59",
+ "updated": "2026-11-06T06:58",
  "articles": [
+  {
+   "id": "2026-11-05-uk-fizetes-allashirdetesekben",
+   "day": "2026-11-06",
+   "published": "2026-11-05",
+   "source": "Global Banking & Finance Review",
+   "url": "https://www.globalbankingandfinance.com/britain-make-salary-disclosure-job-ads-mandatory/",
+   "region": "Egyesült Királyság",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "scale",
+   "featured": true,
+   "title": "Az Egyesült Királyságban minden álláshirdetésben ott lesz a fizetés",
+   "lead": "A brit kormány bejelentette, hogy törvényben kötelezi a munkáltatókat a fizetés feltüntetésére az álláshirdetésekben. Ma a cégeknek csak alig több mint kétötöde írja ki mindig a bérsávot. A pontos szabályok és a kezdés dátuma még nem ismert.",
+   "hu": "Ha Angliában keresel munkát, hamarosan már a hirdetésből látod, megéri-e jelentkezni. Addig is a jelentkezés elején kérdezz rá a bérsávra, itthon pedig nézd meg, mit hoz neked az uniós bértranszparencia-szabály.",
+   "related": [
+    "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-04-gesamtmetall-300-ezer-allas",
+   "day": "2026-11-06",
+   "published": "2026-11-04",
+   "source": "UA.NEWS (Anadolu)",
+   "url": "https://ua.news/en/money/u-nimechchini-metalurgiia-ta-elektrotekhnika-mozhut-vtratiti-300-tisiach-robochikh-mists-anadolu-agency",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "factory",
+   "stat": {
+    "value": "300 ezer",
+    "label": "állás szűnhet meg a következő 2–3 évben a német fém- és elektromos iparban a munkáltatói szövetség szerint"
+   },
+   "title": "300 ezer állás tűnhet el a német fém- és elektromos iparban a munkáltatók szerint",
+   "lead": "A német fém- és elektromos ipar munkáltatói szövetsége szerint a következő két-három évben újabb 300 ezer állás szűnhet meg. Az ágazat az elmúlt hét évben már 350 ezer munkahelyet veszített, most 3,7 millióan dolgoznak benne. Közben bértárgyalás zajlik, a szakszervezet 5 százalékos emelést kér.",
+   "hu": "Ha autóipari beszállítónál vagy gépiparban dolgozol, a német megrendelők helyzete itthon is érezhető lehet. Nézd át, milyen készségeid vihetők át más ágazatba, és tartsd naprakészen az önéletrajzodat.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/allast-keresel-munka-kozben-igy-csinald-hogy-ne-tudja-meg-az-egesz-iroda"
+   ]
+  },
+  {
+   "id": "2026-11-05-bosch-abstatt-750-allas",
+   "day": "2026-11-06",
+   "published": "2026-11-05",
+   "source": "A News (Anadolu)",
+   "url": "https://www.anews.com.tr/business/2026/11/05/bosch-to-cut-750-more-jobs-in-germany-amid-chinese-competition",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "car",
+   "title": "750 fejlesztői állás szűnik meg 2029-ig a Bosch egyik német telephelyén",
+   "lead": "A Bosch 2029 végéig 750 állást szüntet meg az abstatti fejlesztési központjában. A cég az erősödő kínai versennyel indokolja, és azzal, hogy több rendszerfejlesztés Kínába kerül. A mobilitási üzletágban Németországban eddig összesen 23 650 állás megszüntetését jelentették be.",
+   "hu": "Ha autóipari fejlesztésben dolgozol, érdemes figyelned, merre mozdulnak a fejlesztési feladatok. Nézd meg, mely szoftveres és elektronikai készségek kellenek most a hirdetésekben, és ezeket emeld ki a CV-dben.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-04-mi-allasok-kulso-felvetel-atkepzes",
+   "day": "2026-11-06",
+   "published": "2026-11-04",
+   "source": "PR Newswire (Careerminds-kutatás)",
+   "url": "https://prnewswire.com/news-releases/new-research-92-of-hr-professionals-believe-employees-can-be-reskilled-for-ai-jobs-yet-external-hiring-outpaces-redeployment-302927992.html",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "Tízből kilenc HR-es szerint átképezhetők a dolgozók, mégis inkább kívülről vesznek fel",
+   "lead": "Egy idén májusi amerikai felmérésben a HR-esek 92 százaléka mondta, hogy a dolgozók átképezhetők MI-vel kapcsolatos munkakörökre. Az új MI-állásokra mégis gyakrabban vesznek fel külsősöket, mint belső embereket. A HR-esek 43 százaléka azt sem látja pontosan, kit lehetne átképezni.",
+   "hu": "Ha szívesen dolgoznál MI-vel a mostani cégednél, ne várd meg, hogy felfedezzenek. Mondd el a vezetődnek, mit tanultál már, és kérdezd meg, van-e belső képzés vagy pályázható pozíció.",
+   "related": [
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-05-mi-leepites-utan-visszahivas",
+   "day": "2026-11-06",
+   "published": "2026-11-05",
+   "source": "Carrier Management (AP)",
+   "url": "https://www.carriermanagement.com/news/2026/11/05/293252.htm",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "door",
+   "title": "Visszahív a régi cég, miután az MI nem váltotta be a hozzá fűzött reményeket? Így tárgyalj",
+   "lead": "Az AP hírügynökség körképe szerint egyre több cég keres vissza embereket, miután az MI nem végezte el úgy a munkát, ahogy tervezték. A Ford júniusban 350 tapasztalt mérnököt vett fel vagy léptetett elő, amikor MI-alapú minőség-ellenőrzése nem a várt módon működött. A szakértők szerint ilyenkor van miről tárgyalni.",
+   "hu": "Ha egyszer téged is visszahívnak egy korábbi munkahelyedre, ez erős alkupozíció lehet. Kérdezz rá a fizetésre, a képzésre és arra, hogyan számol a cég az MI-vel a következő években.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot"
+   ]
+  },
+  {
+   "id": "2026-11-04-savills-z-generacio-irodai-napok",
+   "day": "2026-11-06",
+   "published": "2026-11-04",
+   "source": "Business Today (Savills-felmérés)",
+   "url": "https://businesstoday.in/jobs/story/gen-z-wants-more-office-days-than-millennials-why-younger-workers-are-embracing-the-workplace-565522-2026-11-04",
+   "region": "Globális",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "coffee",
+   "title": "A Z generáció hetente 3,4 napot járna be az irodába, többet, mint a millenniálisok",
+   "lead": "Egy ingatlanpiaci tanácsadó cég 645 fős nemzetközi felmérése szerint a Z generáció hetente 3,4 irodai napot tartana ideálisnak. A millenniálisok ennél valamivel kevesebbet, 3,2–3,3 napot. A válaszadók jelenleg átlagosan heti négy napot töltenek bent, és a fiatalok közel fele 40 percnél többet ingázik.",
+   "hu": "Ha pályakezdő vagy, nem vagy egyedül azzal, hogy szeretsz bejárni, főleg a tanulás és a kollégák miatt. Állásinterjún kérdezz rá, hány irodai nap a szokás, és mennyi idő lenne az utazás oda-vissza.",
+   "related": [
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget",
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba"
+   ]
+  },
+  {
+   "id": "2026-11-05-revelio-usa-oktober-26-ezer",
+   "day": "2026-11-06",
+   "published": "2026-11-05",
+   "source": "Revelio Labs",
+   "url": "https://reveliolabs.com/news/rpls/rpls-us-jobs-report-the-us-economy-adds-26k-jobs-in-october",
+   "region": "USA",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 1,
+   "icon": "chart",
+   "stat": {
+    "value": "18,4 millió",
+    "label": "álláshirdetés volt Amerikában októberben egy munkaerőpiaci elemző cég adatai szerint, 2,4 százalékkal kevesebb, mint szeptemberben"
+   },
+   "title": "26 ezer új munkahely Amerikában októberben, az egészségügy vette fel a legtöbb embert",
+   "lead": "Egy munkaerőpiaci elemző cég szerint az amerikai gazdaság októberben nagyjából 26 ezer munkahellyel bővült. A legtöbben az egészségügyben és a szociális ellátásban kaptak munkát. Az új hirdetésekben kínált fizetések alig változtak az előző hónaphoz képest.",
+   "hu": "Ha az egészségügyben vagy a szociális szférában dolgozol, ezekre a szakmákra a nagy munkaerőpiacokon is folyamatosan szükség van. Nézd meg, milyen végzettséget vagy nyelvvizsgát kérnek a külföldi hirdetések a te területeden.",
+   "related": [
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
+    "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+   ]
+  },
   {
    "id": "2026-11-04-ekb-berkoveto-euroovezet-2027",
    "day": "2026-11-05",
@@ -11,7 +146,6 @@
    "topic": "Fizetés és juttatások",
    "hu_score": 3,
    "icon": "coins",
-   "featured": true,
    "title": "2,8 százalékos béremelés látszik 2027 elejére az euróövezet bérmegállapodásaiban",
    "lead": "Az Európai Központi Bank bérkövetője szerint a kollektív szerződésekben rögzített bérek idén átlagosan 2,3 százalékkal nőnek az euróövezetben. A már megkötött megállapodások alapján 2027 első felében 2,8 százalékos emelés látszik. A bank hangsúlyozza, hogy ez nem előrejelzés, és a számok még változhatnak.",
    "hu": "Ha Ausztriában vagy Németországban dolgozol, vagy oda készülsz, ebből látod, mekkora emelés számít most átlagosnak. Nézd meg, mikor jár le a te ágazatod kollektív szerződése, és ehhez igazítsd a saját bérkérésedet.",
