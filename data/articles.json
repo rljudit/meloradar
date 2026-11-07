@@ -1,6 +1,163 @@
 {
- "updated": "2026-11-06T06:58",
+ "updated": "2026-11-07T07:08",
  "articles": [
+  {
+   "id": "2026-11-06-eurostat-eu-atlagber-2025",
+   "day": "2026-11-07",
+   "published": "2026-11-06",
+   "source": "Eunews (Eurostat-adatok)",
+   "url": "https://www.eunews.it/en/2026/11/06/european-wages-rise-4-3-with-italy-lagging-as-spain-pulls-ahead/",
+   "region": "Európa",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "featured": true,
+   "title": "41 500 euró volt tavaly az uniós átlagbér, a magyar ennek kevesebb mint fele",
+   "lead": "Az Eurostat friss adatai szerint 2025-ben egy teljes munkaidős uniós dolgozó átlagosan bruttó 41 500 eurót keresett egy év alatt. Ez 4,3 százalékkal több, mint egy évvel korábban. Magyarországon az éves átlag 20 100 euró volt, Németországban 56 360 euró.",
+   "hu": "Ha azon gondolkodsz, megérné-e kint dolgozni, ezek a számok jó kiindulópontot adnak az összevetéshez. Számold ki a saját éves bruttódat, és a következő bértárgyalásra vigyél magaddal friss piaci adatokat.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-05-dihk-nemet-cegek-letszamtervek",
+   "day": "2026-11-07",
+   "published": "2026-11-05",
+   "source": "onvista (dpa)",
+   "url": "https://www.onvista.de/news/2026/11-05-stimmung-in-deutscher-wirtschaft-spuerbar-besser-dihk-hebt-wachstumsprognose-an-0-20-26572818",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "building",
+   "title": "Minden negyedik német cég létszámcsökkentést tervez, pedig javul a hangulat",
+   "lead": "A német kereskedelmi kamarák 23 ezer cég megkérdezésével készült felmérése szerint javult az üzleti hangulat. A kamara 2026-ra már 1 százalékos növekedést vár a korábbi 0,3 helyett. Létszámbővítést viszont csak minden tizedik cég tervez, csökkentést minden negyedik.",
+   "hu": "Ha német cégnél vagy német megrendelőknek dolgozol, a következő hónapokban kevesebb új állás nyílhat. Állíts be állásértesítőt a szakmádra, és tartsd frissen az önéletrajzod, hogy gyorsan tudj lépni.",
+   "related": [
+    "https://www.profession.hu/cikk/allast-keresel-munka-kozben-igy-csinald-hogy-ne-tudja-meg-az-egesz-iroda",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-05-holland-takaritok-kollektiv-szerzodes",
+   "day": "2026-11-07",
+   "published": "2026-11-05",
+   "source": "Salaris Vanmorgen",
+   "url": "https://salarisvanmorgen.nl/2026/11/05/cao-schoonmaak-en-glazenwassersbranche-2026-2028-algemeen-verbindend-verklaard",
+   "region": "Hollandia",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "plane",
+   "stat": {
+    "value": "6,1 százalék",
+    "label": "alapórabér-emelés jár két év alatt a több mint 120 ezer hollandiai takarítónak"
+   },
+   "title": "Több mint 120 ezer holland takarító kap béremelést és teljes útiköltséget",
+   "lead": "Hollandiában az egész takarítóágazatra kötelező lett az új kollektív szerződés. Az alapórabér 2027 januárjában 3,1, egy évvel később 3 százalékkal nő. Jövő évtől mindenki kilométerenként 25 cent útiköltséget kap, és rövidebb lett a határozott idejű szerződések láncolata.",
+   "hu": "Ha Hollandiában takarítasz, vagy oda készülsz, ezek a szabályok rád is vonatkoznak, akármelyik cégnél dolgozol. Nézd meg a bérpapírodon az órabért és az útiköltséget, és kérdezz rá, ha valami nem stimmel.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai"
+   ]
+  },
+  {
+   "id": "2026-11-05-klm-5000-allas-atszervezes",
+   "day": "2026-11-07",
+   "published": "2026-11-05",
+   "source": "NL Times",
+   "url": "https://nltimes.nl/2026/11/05/klm-announces-5000-job-cuts-15-its-workforce-disappearing",
+   "region": "Hollandia",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "plane",
+   "title": "Mintegy 5000 állás szűnik meg a KLM-nél, kényszerű elbocsátás nélkül",
+   "lead": "A KLM holland légitársaság átszervezésben nagyjából 5000 állást szüntet meg, ez a létszám 15 százaléka. A cég a világ bizonytalan helyzetével és a magas üzemanyagárakkal indokolja a lépést. Természetes fluktuációval, önkéntes távozással és áthelyezéssel számol.",
+   "hu": "Ha a légiközlekedésben vagy annak kiszolgálásában dolgozol, érdemes figyelned, hova kerülnek át a kiszervezett feladatok. Gyűjtsd össze, milyen készségeid vihetők át más munkakörbe, és ezeket emeld ki az önéletrajzodban.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-05-angol-jegybank-mi-felvetel",
+   "day": "2026-11-07",
+   "published": "2026-11-05",
+   "source": "Resultsense (Bank of England)",
+   "url": "https://www.resultsense.com/news/2026-11-06-boe-ai-slowing-hiring-not-firing/",
+   "region": "Egyesült Királyság",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "Angol jegybank: az MI miatt nem elbocsátanak, hanem kevesebb embert vesznek fel",
+   "lead": "A Bank of England friss jelentése szerint a mesterséges intelligencia eddig szinte nem hatott a brit foglalkoztatásra. A cégek inkább nem töltik be a megüresedő helyeket, mint hogy embereket bocsátanának el. A következő három évben a hatás nőhet.",
+   "hu": "Ha állást keresel, az MI miatt szűkebb lehet a kapu, főleg ott, ahol eddig sok embert vettek fel. Írd bele a CV-dbe, milyen MI-eszközöket használsz, és mire.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+   ]
+  },
+  {
+   "id": "2026-11-05-lhh-hr-vezetok-leepitest-varnak",
+   "day": "2026-11-07",
+   "published": "2026-11-05",
+   "source": "HR Dive (LHH-felmérés)",
+   "url": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "trending-down",
+   "stat": {
+    "value": "66 százalék",
+    "label": "az amerikai HR-vezetők közül ennyien számítanak létszámcsökkentésre a következő 12 hónapban"
+   },
+   "title": "Az amerikai HR-vezetők kétharmada leépítésre számít, közben szűkül a végkielégítés",
+   "lead": "Egy 600 amerikai HR- és cégvezető körében készült felmérés szerint kétharmaduk létszámcsökkentést vár egy éven belül. Ez majdnem kétszer annyi, mint 2024-ben. A cégek 38 százaléka csökkentette a végkielégítési csomagot, két éve még csak 9 százalék.",
+   "hu": "Ha nálad is átszervezés jöhet, jobb előre tudni, mi járna neked. Nézd meg a szerződésedben a felmondási időt és a végkielégítést, és kérdezz rá, van-e karriertanácsadás.",
+   "related": [
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-06-usa-oktober-165-ezer-allas",
+   "day": "2026-11-07",
+   "published": "2026-11-06",
+   "source": "US BLS",
+   "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "region": "USA",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 1,
+   "icon": "chart",
+   "title": "165 ezer új állás Amerikában októberben, de minden negyedik munkakereső régóta vár",
+   "lead": "Az amerikai hivatalos adatok szerint októberben 165 ezer új munkahely jött létre, a munkanélküliségi ráta 4,1 százalék. A munka nélkül lévők 27,6 százaléka azonban már legalább fél éve keres állást. Az órabérek egy év alatt 3,1 százalékkal nőttek.",
+   "hu": "Ha régóta keresel munkát, nem vagy egyedül: a hosszú keresés másutt is egyre gyakoribb. Nézd át, hová jelentkeztél eddig, és a következő hetekben célzottabban, személyre szabott CV-vel pályázz.",
+   "related": [
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
+    "https://www.profession.hu/cikk/overthinking-az-allaskeresesben-4-kerdes-amin-teljesen-feleslegesen-porogsz"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-04-trend-change-debt",
+   "day": "2026-11-07",
+   "published": "2026-11-04",
+   "source": "HR Dive (Wiley-kutatás)",
+   "url": "https://www.hrdive.com/news/change-debt-not-change-fatigue-is-driving-burnout/873771/",
+   "region": "Globális",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "battery_low",
+   "term": "Change debt",
+   "term_hu": "lezáratlan változások terhe",
+   "title": "Nem a sok változás fáraszt ki, hanem azok, amiket senki nem zárt le",
+   "what": "Új rendszer, átszervezés, új folyamat jön, de a régi kérdéseid megválaszolatlanok maradnak. Ezek a félkész változások halmozódnak, és lassítják a mindennapi munkádat.",
+   "data": "A kiégést szinte alig magyarázza, mennyi változás ér egy csapatot. Ötször többet számít, hogy a korábbi változásokat elmagyarázták és lezárták-e (Wiley Workplace Intelligence, több mint 1400 munkavállaló).",
+   "hu": "Ha te is úgy érzed, hogy még az előző átszervezést sem értetted meg, és már jön a következő, ez ismerős lehet. Írd össze, mi maradt nyitva, és a következő egyéni megbeszélésen kérj rá közösen választ.",
+   "related": [
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat",
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod"
+   ]
+  },
   {
    "id": "2026-11-05-uk-fizetes-allashirdetesekben",
    "day": "2026-11-06",
@@ -11,7 +168,6 @@
    "topic": "Jogaid és szabályok",
    "hu_score": 3,
    "icon": "scale",
-   "featured": true,
    "title": "Az Egyesült Királyságban minden álláshirdetésben ott lesz a fizetés",
    "lead": "A brit kormány bejelentette, hogy törvényben kötelezi a munkáltatókat a fizetés feltüntetésére az álláshirdetésekben. Ma a cégeknek csak alig több mint kétötöde írja ki mindig a bérsávot. A pontos szabályok és a kezdés dátuma még nem ismert.",
    "hu": "Ha Angliában keresel munkát, hamarosan már a hirdetésből látod, megéri-e jelentkezni. Addig is a jelentkezés elején kérdezz rá a bérsávra, itthon pedig nézd meg, mit hoz neked az uniós bértranszparencia-szabály.",
