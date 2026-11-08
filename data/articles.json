@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-07T07:08",
+ "updated": "2026-11-08T07:05",
  "articles": [
+  {
+   "id": "2026-11-06-ausztria-allashelyek-harmadik-negyedev",
+   "day": "2026-11-08",
+   "published": "2026-11-06",
+   "source": "The Local Austria (Statistik Austria-adatok)",
+   "url": "https://www.thelocal.at/20261106/where-can-you-still-find-job-vacancies-in-austria",
+   "region": "Ausztria",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "search",
+   "featured": true,
+   "title": "Majdnem 12 százalékkal kevesebb az üres állás Ausztriában, a legtöbb a szolgáltatásokban",
+   "lead": "Ausztriában a harmadik negyedévben átlagosan 121 900 betöltetlen állás volt, 11,8 százalékkal kevesebb, mint egy éve. Az üres helyek több mint 60 százaléka a kereskedelemben és a szolgáltatásokban van. Majdnem tízből nyolc meghirdetett állás teljes munkaidős.",
+   "hu": "Ha Ausztriában dolgoznál vagy ingáznál, most nagyobb verseny vár rád, főleg az iparban. Nézd meg a friss osztrák hirdetéseket a kereskedelemben és a szolgáltatásokban, és készíts hozzájuk német nyelvű önéletrajzot.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+   ]
+  },
+  {
+   "id": "2026-11-07-bitkom-nemet-cegek-home-office",
+   "day": "2026-11-08",
+   "published": "2026-11-07",
+   "source": "t3n (Bitkom-felmérés)",
+   "url": "https://t3n.de/news/homeoffice-auf-dem-rueckzug-nur-noch-54-prozent-der-unternehmen-erlauben-mobiles-arbeiten-1772190/",
+   "region": "Németország",
+   "topic": "Munkahelyi élet",
+   "hu_score": 3,
+   "icon": "home",
+   "stat": {
+    "value": "54 százalék",
+    "label": "a német cégeknek enged még legalább néha otthonról dolgozni, a Bitkom több mint 600 cégre kiterjedő felmérése szerint"
+   },
+   "title": "Már csak minden második német cégnél lehet otthonról dolgozni",
+   "lead": "A német digitális szövetség, a Bitkom felmérése szerint a cégek 54 százaléka enged még home office-t. A járvány óta 39 százalékuk szűkítette, 17 százalékuk megszüntette. A cégek 35 százaléka további szűkítést tervez, főleg a csapatösszetartásra hivatkozva.",
+   "hu": "Ha német cégnél dolgozol, vagy otthonról dolgoznál egy német munkáltatónak, kevesebb ilyen lehetőségre számíthatsz. Az interjún kérdezz rá pontosan, hány nap home office jár, és ez szerepel-e a szerződésben.",
+   "related": [
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget",
+    "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai"
+   ]
+  },
+  {
+   "id": "2026-11-06-magna-waldshut-gyarbezaras",
+   "day": "2026-11-08",
+   "published": "2026-11-06",
+   "source": "automobil-produktion.de (dpa)",
+   "url": "https://www.automobil-produktion.de/produktion/magna-will-werk-in-waldshut-tiengen-schliessen/2763519",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "car",
+   "title": "255 állás szűnik meg egy német autóelektronikai gyárban 2027 tavaszáig",
+   "lead": "A Magna autóipari beszállító 2027 első negyedévének végéig bezárja Waldshut-Tiengen-i gyárát, ez 255 dolgozót érint. Az üzem vezetéssegítő rendszerekhez gyárt kamera- és radaralkatrészeket. A cég a megváltozott iparági helyzettel indokolja a döntést, és az üzemi tanáccsal egyeztetve hajtja végre.",
+   "hu": "Ha autóipari beszállítónál dolgozol, ez jelzi, hogy az átalakulás már az elektronikai gyártást is érinti. Írd össze, milyen gépeken és rendszereken dolgoztál, és ezeket konkrétan emeld ki az önéletrajzodban.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban"
+   ]
+  },
+  {
+   "id": "2026-11-06-osztrak-it-bertargyalas",
+   "day": "2026-11-08",
+   "published": "2026-11-06",
+   "source": "The Local Austria",
+   "url": "https://www.thelocal.at/20261106/today-in-austria-a-round-up-of-the-latest-news-on-friday-12",
+   "region": "Ausztria",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "3,9 vs. 2 százalék",
+    "label": "a különbség az osztrák IT-szakszervezet béremelési követelése és a munkáltatók ajánlata között a minimálbéreknél"
+   },
+   "title": "Kilencvenezer osztrák informatikus még nem tudja, mennyivel nő a bére",
+   "lead": "Ausztriában az IT-ágazat mintegy 90 ezer dolgozójának bértárgyalása a második fordulóban sem hozott megállapodást. A szakszervezet 3,9 százalékos emelést kér, a munkáltatók 2 százalékot ajánlanak a kollektív szerződéses minimumokra. A következő forduló november 23-án lesz.",
+   "hu": "Ha Ausztriában dolgozol az IT-ban, vagy oda készülsz, ez a megállapodás szabja meg a minimális fizetésedet. Nézd meg a bérpapírodon, melyik besorolásba tartozol, és ehhez mérd a saját bérigényedet.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-06-nemet-kozszfera-fizetesek",
+   "day": "2026-11-08",
+   "published": "2026-11-06",
+   "source": "The Local Germany",
+   "url": "https://www.thelocal.de/20261106/how-much-could-you-earn-in-a-public-sector-job-in-germany",
+   "region": "Németország",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "building",
+   "title": "Bruttó 3460 euró egy berlini buszsofőrnek: ennyit fizet a német közszféra",
+   "lead": "Friss hirdetések alapján egy képzett berlini buszvezető havi alapbére pótlékkal együtt bruttó 3461,79 euró. Mellé évi 2100 euró karácsonyi juttatás és 30 nap szabadság jár. Egy nürnbergi műszaki projektvezető havi bruttó 4415 és 6900 euró között kereshet.",
+   "hu": "Ha Németországban keresnél stabil állást, a közszféra fizetései nyilvános bértáblák szerint alakulnak, így előre kiszámolhatod a béredet. Keresd meg a hirdetésben a besorolást, és ez alapján hasonlítsd össze a jelenlegi fizetéseddel.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/a-motivacios-level-titkai"
+   ]
+  },
+  {
+   "id": "2026-11-06-pletyka-munkahelyen-kutatas",
+   "day": "2026-11-08",
+   "published": "2026-11-06",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/06/gossip-at-work-hurts-men-more-than-women-less-competent-ready-for-leadership-new-research-gender-sterotypes/",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "message-alert",
+   "title": "Aki pletykál a kollégáiról, kevésbé tűnik rátermettnek, főleg ha férfi",
+   "lead": "Az Iowai és az Új-mexikói Egyetem kutatói három vizsgálatban nézték, hogyan ítélik meg a pletykálókat. A pletykálókat mindhárom vizsgálatban kevésbé tartották hozzáértőnek. A férfiakat ez jobban sújtotta: őket vezetőnek is kevésbé tartották alkalmasnak.",
+   "hu": "Ha a kávégépnél te is gyakran kibeszélsz valakit, ez csendben ronthatja az előléptetési esélyeidet. Ha gondod van egy kollégával, inkább négyszemközt beszéld meg vele, vagy vidd a vezetőd elé.",
+   "related": [
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz",
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat"
+   ]
+  },
   {
    "id": "2026-11-06-eurostat-eu-atlagber-2025",
    "day": "2026-11-07",
@@ -11,7 +128,6 @@
    "topic": "Fizetés és juttatások",
    "hu_score": 3,
    "icon": "coins",
-   "featured": true,
    "title": "41 500 euró volt tavaly az uniós átlagbér, a magyar ennek kevesebb mint fele",
    "lead": "Az Eurostat friss adatai szerint 2025-ben egy teljes munkaidős uniós dolgozó átlagosan bruttó 41 500 eurót keresett egy év alatt. Ez 4,3 százalékkal több, mint egy évvel korábban. Magyarországon az éves átlag 20 100 euró volt, Németországban 56 360 euró.",
    "hu": "Ha azon gondolkodsz, megérné-e kint dolgozni, ezek a számok jó kiindulópontot adnak az összevetéshez. Számold ki a saját éves bruttódat, és a következő bértárgyalásra vigyél magaddal friss piaci adatokat.",
