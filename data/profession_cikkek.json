@@ -1,7 +1,178 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-08",
  "source": "https://www.profession.hu/allaskeresesi-tanacsok",
  "articles": [
+  {
+   "url": "https://www.profession.hu/cikk/jo-ugyek-a-munkahelyen-igy-segithetsz-masokon",
+   "title": "Jó ügyek a munkahelyen: így segíthetsz másokon",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "motiváció",
+    "elégedettség"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/kivedd-vagy-ne-4-erv-az-oszi-szabadsag-mellett",
+   "title": "Kivedd vagy ne? 4 érv az őszi szabadság mellett",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "szabadság",
+    "munka-magánélet",
+    "kiégés"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/igy-uszd-meg-az-oszi-betegseghullamot-az-irodaban",
+   "title": "Így úszd meg az őszi betegséghullámot az irodában",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "munka-magánélet",
+    "egészség"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/npc-slay-delulu-szotar-a-gen-z-kollegadhoz",
+   "title": "NPC, slay, delulu: szótár a Gen Z kollégádhoz",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "z generáció",
+    "kollégák"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/uj-kollegak-erkeztek-amig-szabadsagon-voltal-igy-kerulj-kepbe",
+   "title": "Új kollégák érkeztek, amíg szabadságon voltál? Így kerülj képbe",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "szabadság",
+    "kollégák"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/szeptember-az-uj-januar-ezert-akarunk-osszel-mindent-ujrakezdeni",
+   "title": "Szeptember az új január? Ezért akarunk ősszel mindent újrakezdeni",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "motiváció",
+    "váltás",
+    "karrierút"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/na-milyen-volt-a-nyaralas-tulelokalauz-a-szeptemberi-small-talkhoz",
+   "title": "„Na, milyen volt a nyaralás?” – túlélőkalauz a szeptemberi small talkhoz",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "szabadság",
+    "kollégák"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/igy-eld-tul-az-irodai-nyuzsgest-ha-egesz-nyaron-alig-volt-benn-valaki",
+   "title": "Így éld túl az irodai nyüzsgést, ha egész nyáron alig volt benn valaki",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "munkahelyi élet",
+    "home office",
+    "munka-magánélet"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/nem-eleg-ha-szep-a-tengerpart-igy-valassz-helyszint-a-tavmunkahoz",
+   "title": "Nem elég, ha szép a tengerpart: így válassz helyszínt a távmunkához",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "home office",
+    "rugalmas munka",
+    "munka-magánélet"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/szabadsagon-vagy-igy-irj-profi-out-of-office-uzenetet",
+   "title": "Szabadságon vagy? Így írj profi out-of-office üzenetet",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "szabadság",
+    "munkahelyi élet",
+    "munka-magánélet"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/7-dolog-amit-mindenki-elfelejt-szabadsag-elott",
+   "title": "7 dolog, amit mindenki elfelejt szabadság előtt",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "szabadság",
+    "munkahelyi élet",
+    "munka-magánélet"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/vacation-maxxing-4-nap-kivett-szabibol-10-napos-nyaralas",
+   "title": "Vacation maxxing – 4 nap kivett szabiból 10 napos nyaralás?",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "szabadság",
+    "trend",
+    "munka-magánélet"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/e-mail-inbox-szabadsag-utan-igy-rendszerezd-a-postaladad",
+   "title": "E-mail inbox szabadság után: így rendszerezd a postaládád",
+   "rovat": "Karrierépítés",
+   "tags": [
+    "szabadság",
+    "munkahelyi élet",
+    "hatékonyság"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/growth-hacker-talent-acquisition-specialis-product-owner-szotar-allaskeresoknek",
+   "title": "Growth Hacker, Talent Acquisition Specialis, Product Owner – szótár álláskeresőknek",
+   "rovat": "Álláskeresés",
+   "tags": [
+    "álláskeresés",
+    "pályaváltás",
+    "karrierút",
+    "álláshirdetés"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/jubileumi-jutalom-2026-kinek-jar-mennyi-es-mikor-fizetik-ki",
+   "title": "Jubileumi jutalom 2026 – kinek jár, mennyi és mikor fizetik ki?",
+   "rovat": "Munkajog",
+   "tags": [
+    "munkajog",
+    "bér",
+    "közszféra"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/a-munkavallalok-fele-nem-tamogatja-a-fizetesek-atlathatosagat",
+   "title": "A munkavállalók fele nem támogatja a fizetések átláthatóságát",
+   "rovat": "Munkajog",
+   "tags": [
+    "bértranszparencia",
+    "bér",
+    "trend"
+   ]
+  },
+  {
+   "url": "https://www.profession.hu/cikk/mi-az-a-ceo-a-vezerigazgatoi-szerep-jelentese-feladatai-es-karrierutja",
+   "title": "Mi az a CEO? – A vezérigazgatói szerep jelentése, feladatai és karrierútja",
+   "rovat": "Munkajog",
+   "tags": [
+    "karrierút",
+    "előrelépés",
+    "vezetés"
+   ]
+  },
   {
    "url": "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
    "title": "Álláskeresés találgatás nélkül: így készülj fel a jelentkezéstől az interjúig!",
