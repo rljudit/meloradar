@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-08T07:05",
+ "updated": "2026-11-09T07:25",
  "articles": [
+  {
+   "id": "2026-11-09-uk-toborzas-oktober",
+   "day": "2026-11-09",
+   "published": "2026-11-09",
+   "source": "Global Banking & Finance Review (KPMG–REC-felmérés)",
+   "url": "https://www.globalbankingandfinance.com/uk-employers-report-weaker-hiring-stronger-pay-growth-20261109/",
+   "region": "Egyesült Királyság",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "trending-down",
+   "featured": true,
+   "title": "Kevesebb embert vettek fel októberben a brit cégek, de a kezdő fizetések gyorsabban nőnek",
+   "lead": "A brit munkaközvetítők havi felmérése szerint a végleges állásokra felvettek mutatója 46,6 pontra esett, májusa óta a legalacsonyabbra. Az 50 alatti érték csökkenést jelent. A jelentkezők száma kicsit nőtt, a kezdő fizetések viszont gyorsabban emelkedtek, mint szeptemberben.",
+   "hu": "Ha Nagy-Britanniában keresel munkát, most több jelentkezővel versenyzel, de aki bekerül, jobb kezdő fizetésre számíthat. Szabd az önéletrajzod minden hirdetéshez külön, és az interjún kérdezz rá a bérsávra.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-06-nemet-femipar-berkoveteles-413-ezer",
+   "day": "2026-11-09",
+   "published": "2026-11-06",
+   "source": "Yahoo News",
+   "url": "https://www.yahoo.com/news/world/articles/more-400-000-german-workers-162245558.html",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "factory",
+   "stat": {
+    "value": "3,7 millió",
+    "label": "német dolgozó bérét érinti a fém- és elektroipari tárgyalás, az autógyártástól a gépiparig"
+   },
+   "title": "413 ezer német fém- és elektroipari dolgozó állt ki egy hét alatt a béremelésért",
+   "lead": "A német fém- és elektroiparban egy hét alatt több mint 413 ezer ember vett részt figyelmeztető munkabeszüntetésen és megmozdulásokon. A szakszervezet 5 százalékos emelést és munkahelygaranciát kér. A munkáltatók 2028 közepétől 1,3 százalékot és egyszeri juttatásokat ajánlanak, a tárgyalás ezen a héten folytatódik.",
+   "hu": "Ha német autóipari beszállítónál vagy gépgyártó cégnél dolgozol, itthon vagy kint, ez a megállapodás jelezheti, merre mennek a bérek az ágazatban. Kövesd a tárgyalás eredményét, és ehhez mérd a saját béremelési kérésedet.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-09-dolgozok-mi-ertekek-allasvaltas",
+   "day": "2026-11-09",
+   "published": "2026-11-09",
+   "source": "Fair Play Talks (G-P World at Work Report)",
+   "url": "https://www.fairplaytalks.com/2026/11/09/nearly-six-in-10-workers-would-reject-a-job-over-employers-ai-values-global-study-finds/",
+   "region": "Globális",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "briefcase",
+   "stat": {
+    "value": "62 százalék",
+    "label": "a megkérdezett dolgozóknak keres új állást, vagy fél éven belül keresni fog; egy éve még 52 százalék volt"
+   },
+   "title": "Tízből majdnem hat dolgozó nemet mondana egy állásra a cég MI-hozzáállása miatt",
+   "lead": "A G-P foglalkoztatási szolgáltató hat országban, köztük Németországban kérdezett meg 7100 vezetőt és dolgozót. A válaszadók 58 százaléka visszautasítana egy ajánlatot, ha a cég MI-használata ütközik az értékeivel. A dolgozók 43 százalékának már van mellékjövedelme is.",
+   "hu": "Ha most váltanál, nem csak a fizetés számít, hanem az is, hogyan használja egy cég a mesterséges intelligenciát. Az interjún kérdezz rá, milyen MI-eszközökkel dolgozik a csapat, és kapsz-e hozzá képzést.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai"
+   ]
+  },
+  {
+   "id": "2026-11-08-gepi-interju-dolgozok-kilepnek",
+   "day": "2026-11-09",
+   "published": "2026-11-08",
+   "source": "TechRadar (Use.AI-felmérés)",
+   "url": "https://www.techradar.com/pro/employed-job-seekers-are-shunning-companies-which-use-ai-interviews-and-i-dont-blame-them",
+   "region": "Globális",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "Aki már dolgozik, kétszer olyan gyakran lép ki a gépi interjús felvételiből",
+   "lead": "A Use.AI felmérésében 6731 álláskereső válaszolt, többek között az EU-ból és Nagy-Britanniából. A már dolgozók 29 százaléka lépett ki olyan felvételi folyamatból, ahol mesterséges intelligencia vezette az interjút. A munka nélkül lévőknél ez csak 14 százalék.",
+   "hu": "Ha egyre több helyen gépi interjút kérnek tőled, érdemes felkészülten leülnöd hozzá, mert az első kör gyakran már így zajlik. Gyakorold hangosan a válaszaidat kamera előtt, és kérdezd meg, ki nézi majd át a felvételt.",
+   "related": [
+    "https://www.profession.hu/cikk/allasinterju-kisokos-1",
+    "https://www.profession.hu/cikk/meselj-magadrol-a-legkonnyebb-kerdes-amire-a-legnehezebb-felkeszulni"
+   ]
+  },
+  {
+   "id": "2026-11-06-eu-idosebb-dolgozok-nyugdij",
+   "day": "2026-11-09",
+   "published": "2026-11-06",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/06/europeans-are-living-and-working-for-longer-principals-ceo-says-companies-arent-ready-for-the-change/",
+   "region": "Európa",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 2,
+   "icon": "users",
+   "title": "Rekord: az EU-ban az 55–64 évesek kétharmada dolgozik, és a nyugdíjak közt nagy a rés",
+   "lead": "Az Eurostat 2025-ös adatai szerint az EU-ban az 55–64 évesek kétharmada dolgozik, ez rekord. A nők átlagosan négy évvel kevesebbet dolgoznak fizetett munkában, mint a férfiak, de öt évvel tovább élnek. A nyugdíjuk jellemzően majdnem negyedével kisebb.",
+   "hu": "Ha a harmincas éveidben jársz, valószínűleg tovább dolgozol majd, mint a szüleid, és a nyugdíjad a mostani munkaéveiden múlik. Nézd meg az Ügyfélkapun, hány év munkaviszonyod van nyilvántartva, és pótold, ha valami hiányzik.",
+   "related": [
+    "https://www.profession.hu/cikk/munkaviszony-lekerdezese-ugyfelkapun",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-08-trend-performative-availability",
+   "day": "2026-11-09",
+   "published": "2026-11-08",
+   "source": "Fortune (Software Finder-felmérés)",
+   "url": "https://fortune.com/2026/11/08/gen-z-performative-availability-after-hours-work-promotions-survey/",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "mask",
+   "term": "Performative availability",
+   "term_hu": "látszat-elérhetőség",
+   "title": "Este tízkor is válaszolsz a céges üzenetre? A legtöbbeknek ez nem hoz előléptetést",
+   "what": "Munkaidő után is azonnal reagálsz az üzenetekre, hogy lássák, mennyire elkötelezett vagy. Ez a látszat-elérhetőség: a jelenlétedet mutatod, nem az eredményeidet.",
+   "data": "Tízből majdnem hét amerikai dolgozó szerint a munkaidőn túli elérhetőség érdemben nem segítette a karrierjét, és csak 8 százalékuk köszönhet neki előléptetést (Software Finder, 1006 fő, 2026 júniusi felmérés). Tízből négyen mondják, hogy rontotta a munka és a magánélet egyensúlyát.",
+   "hu": "Ha te is este is nézed a céges csetet, érdemes végiggondolnod, tényleg kell-e. Beszéld meg a vezetőddel, mikor várnak tőled gyors választ, és mi az, ami ráér reggelig.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/nyaralsz-de-a-fonokod-keres-igy-mondj-nemet-buntudat-nelkul"
+   ]
+  },
   {
    "id": "2026-11-06-ausztria-allashelyek-harmadik-negyedev",
    "day": "2026-11-08",
@@ -11,7 +132,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "search",
-   "featured": true,
    "title": "Majdnem 12 százalékkal kevesebb az üres állás Ausztriában, a legtöbb a szolgáltatásokban",
    "lead": "Ausztriában a harmadik negyedévben átlagosan 121 900 betöltetlen állás volt, 11,8 százalékkal kevesebb, mint egy éve. Az üres helyek több mint 60 százaléka a kereskedelemben és a szolgáltatásokban van. Majdnem tízből nyolc meghirdetett állás teljes munkaidős.",
    "hu": "Ha Ausztriában dolgoznál vagy ingáznál, most nagyobb verseny vár rád, főleg az iparban. Nézd meg a friss osztrák hirdetéseket a kereskedelemben és a szolgáltatásokban, és készíts hozzájuk német nyelvű önéletrajzot.",
