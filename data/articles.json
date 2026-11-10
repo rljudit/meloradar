@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-09T07:02",
+ "updated": "2026-11-10T07:00",
  "articles": [
+  {
+   "id": "2026-11-09-ifo-mi-palyakezdok-nemetorszag",
+   "day": "2026-11-10",
+   "published": "2026-11-09",
+   "source": "ifo Institut",
+   "url": "https://www.ifo.de/pressemitteilung/2026-11-09/fruehindikator-zeigt-starke-wirkung-von-ki-auf-berufschancen-von-einsteigern",
+   "region": "Németország",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "featured": true,
+   "title": "14 százalékkal kevesebb pályakezdő dolgozik a német MI-közeli szakmákban",
+   "lead": "A müncheni ifo gazdaságkutató szerint 2022 óta 14 százalékkal, nagyjából 40 ezerrel kevesebb 20–24 éves dolgozik ott, ahol az MI sok feladatot átvehet. Ilyen például az irodai támogatás és az informatikai ügyfélszolgálat. A teljes munkaerőpiacon nincs ilyen visszaesés, és a kutatók szerint a demográfia is szerepet játszhat.",
+   "hu": "Ha pályakezdő vagy, vagy irodai munkára váltanál, a belépő szintű helyekért erősebb lehet a verseny. Írd bele az önéletrajzodba, milyen MI-eszközöket használsz és mire, mert ez most előnyt jelenthet.",
+   "related": [
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-09-nemet-nagyvallalatok-letszamcsokkentes",
+   "day": "2026-11-10",
+   "published": "2026-11-09",
+   "source": "The Local Germany",
+   "url": "https://www.thelocal.de/20261109/listed-the-major-german-companies-cutting-jobs-at-the-end-of-2026",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "car",
+   "title": "Autóipartól a telekomig: tízezrek állása szűnik meg a nagy német cégeknél",
+   "lead": "A The Local összesítése szerint több nagy német cég is átszervez, főleg az autóiparban. A Volkswagen 2030-ig Németországban mintegy 50 ezer állással számol kevesebbel, a BMW 2027 végéig 8000 helyet szüntet meg önkéntes távozással. Az autóipari cégek a kínai árversennyel, a Vodafone az egyszerűbb működéssel és az MI-vel indokolja a lépést.",
+   "hu": "Ha német autóipari cégnél vagy beszállítónál dolgozol, itthon vagy kint, érdemes követned a céged terveit. Frissítsd az önéletrajzod most, amíg nem sürget semmi, és nézz utána, mi járna neked végkielégítésként.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban"
+   ]
+  },
+  {
+   "id": "2026-11-09-holland-dolgozok-kimerultseg",
+   "day": "2026-11-10",
+   "published": "2026-11-09",
+   "source": "NL Times (CBS–TNO)",
+   "url": "https://nltimes.nl/2026/11/09/21-percent-dutch-feeling-mentally-fatigued-work-especially-women-aged-25-35",
+   "region": "Hollandia",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "battery_low",
+   "stat": {
+    "value": "28 százalék",
+    "label": "a 25–35 éves holland dolgozóknak érzi magát havonta többször kimerültnek a munkától, tíz éve még 15 százalék volt"
+   },
+   "title": "Tíz év alatt 13-ról 21 százalékra nőtt a munkától kimerült holland dolgozók aránya",
+   "lead": "A holland statisztikai hivatal és a TNO kutatóintézet 2025-ös adatai szerint egyre többen fáradnak el lelkileg a munkában. Minden ötödik dolgozó havonta többször is kimerültnek érzi magát, tíz éve ez még 13 százalék volt. A legnagyobb a növekedés a 25–35 éveseknél és a nőknél.",
+   "hu": "Ha te is gyakran üresnek érzed magad a nap végén, nem vagy egyedül: a te korosztályodat érinti leginkább. Figyeld meg egy hétig, mi viszi el a legtöbb energiádat, és beszéld meg a vezetőddel, min lehetne változtatni.",
+   "related": [
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat",
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod"
+   ]
+  },
+  {
+   "id": "2026-11-09-nemet-nyugdijjarulek-2028",
+   "day": "2026-11-10",
+   "published": "2026-11-09",
+   "source": "The Local Germany",
+   "url": "https://www.thelocal.de/20261109/german-pensions-forecast-to-rise-by-4-1-percent-in-2027",
+   "region": "Németország",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "19,7 százalék",
+    "label": "lehet a német nyugdíjjárulék 2028-ban a mostani 18,6 százalék helyett; a dolgozó és a cég közösen fizeti"
+   },
+   "title": "Ha Németországban dolgozol, 2028-tól többet vonhatnak le a béredből nyugdíjjárulékra",
+   "lead": "A német kormány éves nyugdíjjelentésének tervezete szerint a nyugdíjak 2027 júliusától nagyjából 4,1 százalékkal emelkedhetnek. A nyugdíjjárulék 2027-ben marad a bruttó bér 18,6 százaléka, 2028-ra viszont 19,7 százalékra nőhet. A járulékot a dolgozó és a munkáltató fele-fele arányban fizeti.",
+   "hu": "Ha Németországban dolgozol vagy oda készülsz, ugyanabból a bruttóból 2028-tól kicsit kevesebb nettó maradhat. Ha kinti ajánlatot mérlegelsz, mindig nettóban számolj, és kérj bérkalkulációt a leendő munkáltatódtól.",
+   "related": [
+    "https://www.profession.hu/cikk/szja-2025-mennyi-adot-fizetsz-a-fizetesed-utan-es-hogyan-befolyasolja-a-netto-beredet",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
   {
    "id": "2026-11-09-uk-toborzas-oktober",
    "day": "2026-11-09",
@@ -11,7 +92,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "trending-down",
-   "featured": true,
    "title": "Kevesebb embert vettek fel októberben a brit cégek, de a kezdő fizetések gyorsabban nőnek",
    "lead": "A brit munkaközvetítők havi felmérése szerint a végleges állásokra felvettek mutatója 46,6 pontra esett, májusa óta a legalacsonyabbra. Az 50 alatti érték csökkenést jelent. A jelentkezők száma kicsit nőtt, a kezdő fizetések viszont gyorsabban emelkedtek, mint szeptemberben.",
    "hu": "Ha Nagy-Britanniában keresel munkát, most több jelentkezővel versenyzel, de aki bekerül, jobb kezdő fizetésre számíthat. Szabd az önéletrajzod minden hirdetéshez külön, és az interjún kérdezz rá a bérsávra.",
