@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-10T07:00",
+ "updated": "2026-11-11T07:01",
  "articles": [
+  {
+   "id": "2026-11-09-aldi-lidl-16-euro-oraber",
+   "day": "2026-11-11",
+   "published": "2026-11-09",
+   "source": "retail-news.de",
+   "url": "https://retail-news.de/aldi-sued-lidl-lohnuntergrenze-16-euro/",
+   "region": "Németország",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "coins",
+   "featured": true,
+   "title": "16 euró lesz a legkisebb órabér két nagy német diszkontláncnál decembertől",
+   "lead": "Az Aldi Süd és a Lidl december 1-jétől legalább bruttó 16 eurós órabért fizet Németországban, az eddigi 15 euró helyett. Ez főleg az új belépőknek, a kisegítőknek és a szakképzettség nélküli dolgozóknak jelent emelést. A német törvényes minimálbér januártól 14,60 euró lesz.",
+   "hu": "Ha Németországban vállalnál munkát boltban vagy raktárban, tapasztalat nélkül is a törvényes minimum fölött kezdhetsz. Mielőtt igent mondasz egy kinti ajánlatra, kérdezz rá a bruttó órabérre és a heti órákra, és számold ki a havi fizetést.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-10-holland-home-office-visszateres",
+   "day": "2026-11-11",
+   "published": "2026-11-10",
+   "source": "NL Times (NOS–FNV-felmérés)",
+   "url": "https://nltimes.nl/2026/11/10/nearly-half-dutch-remote-workers-reluctant-return-office-survey-finds",
+   "region": "Hollandia",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "home",
+   "stat": {
+    "value": "38 százalék",
+    "label": "az új holland kollektív szerződéseknek tartalmaz már home office-szabályt, 2019-ben még csak 14 százalék"
+   },
+   "title": "Majdnem minden második holland home office-os nehezen menne vissza az irodába",
+   "lead": "Egy holland szakszervezet több mint 3000 tagját kérdezték meg, és majdnem a felük az otthoni munkához igazította az életét. Minden negyedik akár munkahelyet is váltana, ha többet kellene bejárnia. A nagy holland cégek többsége heti két-három irodai napot vár.",
+   "hu": "Ha nálatok is több irodai napot kérnek, nem vagy egyedül: Európa-szerte most alakul ki, mennyi bejárás az új normális. Írd össze, mely feladataidat végzed otthon hatékonyabban, és ezekkel a példákkal menj a vezetődhöz, ha rugalmasságot kérnél.",
+   "related": [
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget",
+    "https://www.profession.hu/cikk/igy-eld-tul-az-irodai-nyuzsgest-ha-egesz-nyaron-alig-volt-benn-valaki"
+   ]
+  },
+  {
+   "id": "2026-11-10-uk-korabbi-fizetes-bertargyalas",
+   "day": "2026-11-11",
+   "published": "2026-11-10",
+   "source": "Personnel Today (Robert Walters-felmérés)",
+   "url": "https://www.personneltoday.com/hr/salary-history-is-hindering-professionals-pay-negotiations/",
+   "region": "Egyesült Királyság",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 2,
+   "icon": "coins",
+   "stat": {
+    "value": "85 százalék",
+    "label": "a brit szakembereknek bátrabban kér többet, ha az álláshirdetésben benne van a bérsáv"
+   },
+   "title": "Tízből több mint hat brit szakembert visszafogott a régi fizetése a bértárgyaláson",
+   "lead": "A Robert Walters toborzócég brit felmérése szerint a szakemberek több mint 60 százalékának ártott a bértárgyaláson, hogy ismert volt a korábbi fizetése. Nagyjából minden negyedik az interjún magától elárulja, mennyit keres most. Ha viszont a hirdetésben szerepel a bérsáv, sokkal többen mernek magasabb fizetést kérni.",
+   "hu": "Ha váltanál, a mostani fizetésed könnyen lehúzhatja az ajánlatot, pedig az uniós bértranszparencia-irányelv szerint erre a munkáltató nem kérdezhetne rá. Az interjú előtt nézz utána, mennyit fizetnek a pozícióért, és a bérelvárásodról beszélj, ne a mostani béredről.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes"
+   ]
+  },
+  {
+   "id": "2026-11-09-mi-hasznalat-latszatbol",
+   "day": "2026-11-11",
+   "published": "2026-11-09",
+   "source": "TechRadar (JobAssist-felmérés)",
+   "url": "https://www.techradar.com/pro/workers-feel-pressure-to-use-ai-and-show-off-to-bosses-even-when-it-slows-them-down",
+   "region": "Globális",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "mask",
+   "title": "Minden második dolgozó akkor is MI-t használ, ha nélküle gyorsabb lenne",
+   "lead": "A JobAssist felmérése szerint a dolgozók 52 százaléka használt már MI-t olyan feladatra, amit szerinte nélküle gyorsabban megcsinált volna. Tízből hatan mondják, hogy a munkahelyük elvárja vagy bátorítja az MI-használatot. Sokan akkor is megmutatják a vezetőjüknek, hogy MI-vel dolgoztak, ha az nem javított az eredményen.",
+   "hu": "Ha nálatok is elvárás az MI, könnyű abba a csapdába esni, hogy a használat fontosabb lesz az eredménynél. Jegyezd fel, hol spórol neked tényleg időt az MI, és ezeket a konkrét példákat mondd el a vezetődnek vagy a következő interjún.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/meselj-magadrol-a-legkonnyebb-kerdes-amire-a-legnehezebb-felkeszulni"
+   ]
+  },
+  {
+   "id": "2026-11-10-gta6-szabadsagkeresek",
+   "day": "2026-11-11",
+   "published": "2026-11-10",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
+   "region": "Globális",
+   "topic": "Munkahelyi élet",
+   "hu_score": 1,
+   "icon": "sun",
+   "title": "Majdnem 13 százalékkal több szabadságkérés jött egy videojáték megjelenésének napjára",
+   "lead": "A BambooHR HR-szoftvercég adatai szerint a GTA VI november 19-i megjelenésére majdnem 13 százalékkal több szabadságkérést adtak le, mint a korábbi évek hasonló napjain. A Logitech mind a nagyjából 7000 dolgozójának ad egy játéknapot, amit egy éven belül bármikor kivehetnek.",
+   "hu": "Ha te is egy nagy eseményre vennél ki szabadnapot, ne az utolsó pillanatban szólj, és ne betegszabadsággal oldd meg. Kérd időben, és egyeztesd a csapattal a teendőidet, így senkit sem érsz meglepetésként.",
+   "related": [
+    "https://www.profession.hu/cikk/szabadsag-2026-hany-nap-jar-es-ki-rendelkezhet-rola",
+    "https://www.profession.hu/cikk/7-dolog-amit-mindenki-elfelejt-szabadsag-elott"
+   ]
+  },
   {
    "id": "2026-11-09-ifo-mi-palyakezdok-nemetorszag",
    "day": "2026-11-10",
@@ -11,7 +110,6 @@
    "topic": "MI és a munkád",
    "hu_score": 2,
    "icon": "bot",
-   "featured": true,
    "title": "14 százalékkal kevesebb pályakezdő dolgozik a német MI-közeli szakmákban",
    "lead": "A müncheni ifo gazdaságkutató szerint 2022 óta 14 százalékkal, nagyjából 40 ezerrel kevesebb 20–24 éves dolgozik ott, ahol az MI sok feladatot átvehet. Ilyen például az irodai támogatás és az informatikai ügyfélszolgálat. A teljes munkaerőpiacon nincs ilyen visszaesés, és a kutatók szerint a demográfia is szerepet játszhat.",
    "hu": "Ha pályakezdő vagy, vagy irodai munkára váltanál, a belépő szintű helyekért erősebb lehet a verseny. Írd bele az önéletrajzodba, milyen MI-eszközöket használsz és mire, mert ez most előnyt jelenthet.",
