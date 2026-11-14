@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-13T07:15",
+ "updated": "2026-11-14T07:02",
  "articles": [
+  {
+   "id": "2026-11-13-nemet-munkajog-tervezet-hatarozott-ideju-szerzodes",
+   "day": "2026-11-14",
+   "published": "2026-11-13",
+   "source": "Personalwirtschaft",
+   "url": "https://personalwirtschaft.de/news/arbeitsrecht/referentenentwurf-schweitzer-vier-aenderungen-im-arbeitsrecht-211351",
+   "region": "Németország",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "scale",
+   "featured": true,
+   "title": "Négy évig is tarthat a határozott idejű szerződés Németországban egy új tervezet szerint",
+   "lead": "A német munkaügyi minisztérium tervezete szerint indoklás nélküli határozott idejű szerződést négy évig, legfeljebb hat hosszabbítással lehetne kötni. Ma ez két év és három hosszabbítás. A tervezet még nem végleges, a változások 2027 elejétől léphetnek életbe.",
+   "hu": "Ha Németországban dolgozol vagy oda készülsz, a jövőben hosszabb ideig maradhatsz határozott idejű szerződésen, mielőtt véglegesítenének. Szerződéskötéskor kérdezz rá, meddig szól a megállapodás, hányszor hosszabbítható, és mikor számíthatsz határozatlan idejűre.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/megbizasi-szerzodes-szabalyok-adozas-kockazatok"
+   ]
+  },
+  {
+   "id": "2026-11-13-uk-szakmunkas-vizum-kerelmek-csokkenes",
+   "day": "2026-11-14",
+   "published": "2026-11-13",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/skilled-worker-visa-applications-fall-by-nearly-half/",
+   "region": "Egyesült Királyság",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "plane",
+   "stat": {
+    "value": "42 százalék",
+    "label": "a visszaesés a brit szakmunkásvízum-kérelmekben egy év alatt, az egészségügyi és gondozói vízumoknál 61 százalék"
+   },
+   "title": "Majdnem felével kevesebben kérnek brit szakmunkásvízumot, mint egy éve",
+   "lead": "A brit belügyminisztérium friss adatai szerint 42 százalékkal kevesebben kértek szakmunkásvízumot, mint egy évvel korábban. Az egészségügyi és gondozói vízumot kérők száma 61 százalékkal esett. A háttérben szigorúbb feltételek állnak: 41 700 fontra emelkedett a bérküszöb, és B2-es angoltudás kell.",
+   "hu": "Ha az Egyesült Királyságba mennél dolgozni, és nincs letelepedési státuszod, ma jóval nehezebb vízumot szerezni, mint pár éve. Indulás előtt nézd meg, eléri-e a kinézett állás bére a küszöböt, és szerezd meg a B2-es angol szintet igazoló vizsgát.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-13-mercedes-nemet-gyarak-beruhazasi-szunet",
+   "day": "2026-11-14",
+   "published": "2026-11-13",
+   "source": "ZDFheute",
+   "url": "https://www.zdfheute.de/wirtschaft/unternehmen/investitionen-deutschland-kostensenkungen-werksschliessungen-stopp-100.html",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "car",
+   "title": "A Mercedes-Benz egyelőre nem indít új beruházást a német gyáraiban",
+   "lead": "A Mercedes-Benz november 12-én bejelentette, hogy egyelőre szünetelteti az új beruházásokat németországi telephelyein. A cég vezetése a magas németországi költségekkel indokolja a döntést. Németországban nagyjából 108 ezren dolgoznak a cégnél, a munkaidőről is egyeztetnek a munkavállalói oldallal.",
+   "hu": "Ha itthon autóipari cégnél vagy beszállítónál dolgozol, a német anyacégek beruházási döntései a te munkahelyedre is hatással lehetnek. Kövesd a céged belső tájékoztatóit, és tartsd naprakészen az önéletrajzodban a szakmai tapasztalataidat.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-12-svedorszag-munkanelkuliseg-csokken",
+   "day": "2026-11-14",
+   "published": "2026-11-12",
+   "source": "The Local Sweden",
+   "url": "https://www.thelocal.se/20261112/unemployment-rate-falls-across-sweden-as-labour-market-recovers",
+   "region": "Svédország",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 2,
+   "icon": "chart",
+   "stat": {
+    "value": "6,3 százalék",
+    "label": "volt a munkanélküliség Svédországban október végén, egy éve még 6,8 százalék"
+   },
+   "title": "Svédországban 6,3 százalékra csökkent a munkanélküliség, a külföldiek is jobban állnak",
+   "lead": "A svéd munkaügyi hivatal szerint október végén nagyjából 339 ezren voltak munka nélkül, ez a munkaerő 6,3 százaléka. Egy éve még 6,8 százalék volt az arány. A külföldön születettek körében 14,5-ről 13 százalékra javult a helyzet.",
+   "hu": "Ha a skandináv országokban keresnél munkát, Svédországban most javul a helyzet, és a külföldről érkezők is könnyebben boldogulnak. Nézd meg, melyik régióban könnyebb elhelyezkedni, és írd bele az önéletrajzodba, milyen szinten beszélsz angolul vagy svédül.",
+   "related": [
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-12-mi-vezetok-es-kezdo-dolgozok-kozti-kulonbseg",
+   "day": "2026-11-14",
+   "published": "2026-11-12",
+   "source": "People Management",
+   "url": "https://www.peoplemanagement.co.uk/article/1975078/ai-benefits-senior-leaders-junior-staff-survey-finds",
+   "region": "Egyesült Királyság",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "stat": {
+    "value": "70 vs. 38 százalék",
+    "label": "a vezetők, illetve a kezdő dolgozók aránya, akik szerint az MI-vel olyat is meg tudnak csinálni, amit korábban nem"
+   },
+   "title": "Tízből hét vezető szerint segít az MI, a kezdő dolgozóknak csak 38 százaléka érzi így",
+   "lead": "Egy brit tanácsadó cég 2000 dolgozós felmérése szerint a vezetők több mint háromszor annyit használják az MI-t, mint a kezdők. A vezetők 70 százaléka szerint új dolgokra képes vele, a juniorok közül csak 38 százalék. Több mint harmaduk a megspórolt időt az MI munkájának ellenőrzésére költi.",
+   "hu": "Ha pályakezdő vagy junior vagy, könnyen lemaradhatsz, ha csak néha nyúlsz az MI-hez a munkádban. Kérdezd meg a tapasztaltabb kollégáidat, ők mire használják, és próbáld ki egy-két ismétlődő feladatodnál.",
+   "related": [
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-12-munkahelyi-alaasas-felmeres",
+   "day": "2026-11-14",
+   "published": "2026-11-12",
+   "source": "ResumeBuilder (PR Newswire)",
+   "url": "https://prnewswire.com/news-releases/watch-your-back-at-work-69-of-workers-say-theyve-been-backstabbed-on-the-job-302935699.html",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "message-alert",
+   "title": "Tízből hét amerikai dolgozó tapasztalta egy év alatt, hogy valaki aláásta a munkáját",
+   "lead": "Egy amerikai karrieroldal 1014 dolgozós, októberi felmérésében 69 százalék élt át ilyet az elmúlt egy évben. Leggyakrabban mások hibájáért hibáztatták őket, vagy feleslegesen felhívták a figyelmet a hibáikra. Minden negyedik válaszadó szerint a leépítéstől való félelem miatt kevésbé segítenek egymásnak.",
+   "hu": "Ha nálatok is feszült a hangulat, ne vedd magadra mások hibáit, és ne szállj be a pletykákba. Írd fel röviden, min dolgoztál és mit adtál le, így bármikor meg tudod mutatni a saját eredményeidet.",
+   "related": [
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat",
+    "https://www.profession.hu/cikk/jo-ugyek-a-munkahelyen-igy-segithetsz-masokon"
+   ]
+  },
   {
    "id": "2026-11-11-nemetorszag-bevandorlok-foglalkoztatas",
    "day": "2026-11-13",
@@ -11,7 +132,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "plane",
-   "featured": true,
    "title": "Tízből hét bevándorló dolgozik Németországban, és egyre kevesebben féltik az állásukat",
    "lead": "A német statisztikai hivatal szerint 2025-ben a külföldről érkezett 15–64 évesek 70 százaléka dolgozott, húsz éve még csak 57 százaléka. Közben már több mint a felük nem aggódik az állása miatt. 2005-ben ez még csak nagyjából minden negyedikre volt igaz.",
    "hu": "Ha Németországban dolgoznál, jó hír, hogy a kint élő külföldiek egyre könnyebben találnak munkát és maradnak benne. Indulás előtt nézd meg, el kell-e ismertetned a végzettséged, és írd bele az önéletrajzodba a német nyelvtudásod szintjét.",
