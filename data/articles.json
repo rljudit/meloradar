@@ -1,6 +1,109 @@
 {
- "updated": "2026-11-14T07:02",
+ "updated": "2026-11-15T07:17",
  "articles": [
+  {
+   "id": "2026-11-13-nemet-vegkielegites-adomentes-tervezet",
+   "day": "2026-11-15",
+   "published": "2026-11-13",
+   "source": "t-online",
+   "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101527984/steuererklaerung-klingbeil-will-papierform-abschaffen.html",
+   "region": "Németország",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "scale",
+   "featured": true,
+   "title": "5000 eurós végkielégítés adómentes lehet Németországban, ha gyorsan új munkát találsz",
+   "lead": "Egy német adóegyszerűsítési tervezet szerint 2027-től akár 5000 euró végkielégítés is adómentes lehet. Feltétel, hogy négy hónapon belül új állásba lépj, legalább fél évre, és a kifizetést kollektív szerződés rögzítse. A tervezet még nem végleges, a kormányon belül egyeztetik.",
+   "hu": "Ha Németországban dolgozol, és a cégednél átszervezés jön, a gyors elhelyezkedés a jövőben adóban is megtérülhet. Nézd meg, vonatkozik-e rád kollektív szerződés, és frissítsd már most az önéletrajzod, hogy hamar jelentkezni tudj.",
+   "related": [
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-13-brit-atlagos-oraber-terkep",
+   "day": "2026-11-15",
+   "published": "2026-11-13",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/average-pay-in-great-britain-mapped/",
+   "region": "Egyesült Királyság",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "21,50 font",
+    "label": "az átlagos bruttó órabér Angliában, Skóciában és Walesben, majdnem 70 százalékkal a minimálbér fölött"
+   },
+   "title": "21,50 font az átlagos órabér Nagy-Britanniában, de térségenként óriási a különbség",
+   "lead": "Egy brit szoftvercég a hivatalos statisztikai adatokból mind a 350 helyi önkormányzatra kiszámolta a bruttó órabért. Az átlag 21,50 font, majdnem 70 százalékkal több a 12,71 fontos minimálbérnél. Londonban a City-ben 43 font fölött, a legalacsonyabb bérű térségekben 17 font körül van.",
+   "hu": "Ha Angliába, Skóciába vagy Walesbe készülsz dolgozni, a lakóhelyed legalább annyit számíthat a béredben, mint a szakmád. Mielőtt elfogadsz egy ajánlatot, vesd össze az órabért a helyi átlaggal és a lakhatási költségekkel.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-14-eurostat-foglalkoztatas-harmadik-negyedev",
+   "day": "2026-11-15",
+   "published": "2026-11-14",
+   "source": "Eurostat (Hellenic Shipping News)",
+   "url": "https://www.hellenicshippingnews.com/gdp-up-by-0-4-and-employment-stable-in-the-euro-area/",
+   "region": "Európa",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 2,
+   "icon": "chart",
+   "stat": {
+    "value": "0,4 százalék",
+    "label": "ennyivel dolgoznak többen az EU-ban, mint egy éve, de július és szeptember között nem nőtt a létszám"
+   },
+   "title": "Nyáron nem nőtt a dolgozók száma az EU-ban, a gazdaság viszont tovább bővült",
+   "lead": "Az uniós statisztikai hivatal gyorsbecslése szerint július és szeptember között sem az euróövezetben, sem az EU-ban nem változott a dolgozók száma. Egy év alatt 0,4 százalékkal többen dolgoznak. A gazdaság közben 0,4 százalékkal nőtt az euróövezetben, 0,5 százalékkal az EU-ban.",
+   "hu": "Ha munkát keresel itthon vagy külföldön, most kevesebb új hely nyílhat, mert a dolgozók száma Európa-szerte egy helyben topog. Állíts be állásértesítőt, és jelentkezz gyorsan, ha megjelenik egy neked való hirdetés.",
+   "related": [
+    "https://www.profession.hu/cikk/igy-keress-allast-ha-csak-napi-15-perced-van-ra",
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig"
+   ]
+  },
+  {
+   "id": "2026-11-14-holland-tomegkozlekedes-beremeles-ajanlat",
+   "day": "2026-11-15",
+   "published": "2026-11-14",
+   "source": "NL Times",
+   "url": "https://nltimes.nl/2026/11/14/transit-strikes-possible-fnv-members-reject-deal",
+   "region": "Hollandia",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 2,
+   "icon": "coins",
+   "title": "Holland buszsofőrök: leszavazták a 2+4 százalékos béremelési ajánlatot",
+   "lead": "Hollandiában a regionális tömegközlekedés több mint 13 ezer dolgozójára vonatkozó kollektív szerződésről még nincs megállapodás. Az egyik szakszervezet tagjai elutasították a munkáltatók ajánlatát: visszamenőleg 2, jövőre további 4 százalék béremelést. A szakszervezet a bérről tárgyalna, de a jövedelembiztonságot és a nyugdíj előtti feltételeket érintő részeket kifogásolja.",
+   "hu": "Ha Hollandiában dolgozol, a kollektív szerződés (CAO) a béremelésed mellett a pótlékaidat és a nyugdíj előtti feltételeidet is meghatározza. Nézd meg, melyik CAO vonatkozik rád, és kérdezd meg a HR-t, mit jelent neked egy új megállapodás.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-13-trend-loud-working",
+   "day": "2026-11-15",
+   "published": "2026-11-13",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/microsoft-outage-loud-working-linkedin/",
+   "region": "Egyesült Királyság",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "users",
+   "term": "Loud working",
+   "term_hu": "hangos munkavégzés",
+   "title": "Nem csak dolgozol, hanem folyton meg is mutatod, mennyit: ez a hangos munkavégzés",
+   "what": "Amikor a munkaidőd egy részét arra fordítod, hogy mások lássák, min dolgozol. Üzenetekben, meetingeken és közösségi oldalakon számolsz be az eredményeidről.",
+   "data": "Egy brit felmérésben a dolgozók heti 2,8 órát, évente több mint 17 munkanapnyit töltenek azzal, hogy láthatóvá tegyék a munkájukat. Akik csinálják, tízből majdnem nyolcan hasznát is látták, de minden negyedik dolgozó már felmondást fontolgatott a hangos légkör miatt (Tide/Censuswide, 1069 brit felnőtt).",
+   "hu": "Ha nálatok is mindenki folyton beszámol, könnyen érezheted, hogy a csendes, alapos munkád elsikkad. Hetente küldj egy rövid összefoglalót a vezetődnek az eredményeidről, és kérdezd meg, nálatok mi számít igazán teljesítménynek.",
+   "related": [
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz",
+    "https://www.profession.hu/cikk/a-fonokodnek-bizonyitasz-vagy-magadnak-a-ritka-elismeres-pszichologiaja"
+   ]
+  },
   {
    "id": "2026-11-13-nemet-munkajog-tervezet-hatarozott-ideju-szerzodes",
    "day": "2026-11-14",
@@ -11,7 +114,6 @@
    "topic": "Jogaid és szabályok",
    "hu_score": 3,
    "icon": "scale",
-   "featured": true,
    "title": "Négy évig is tarthat a határozott idejű szerződés Németországban egy új tervezet szerint",
    "lead": "A német munkaügyi minisztérium tervezete szerint indoklás nélküli határozott idejű szerződést négy évig, legfeljebb hat hosszabbítással lehetne kötni. Ma ez két év és három hosszabbítás. A tervezet még nem végleges, a változások 2027 elejétől léphetnek életbe.",
    "hu": "Ha Németországban dolgozol vagy oda készülsz, a jövőben hosszabb ideig maradhatsz határozott idejű szerződésen, mielőtt véglegesítenének. Szerződéskötéskor kérdezz rá, meddig szól a megállapodás, hányszor hosszabbítható, és mikor számíthatsz határozatlan idejűre.",
