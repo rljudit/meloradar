@@ -1,6 +1,149 @@
 {
- "updated": "2026-11-15T07:17",
+ "updated": "2026-11-16T07:12",
  "articles": [
+  {
+   "id": "2026-11-16-nemet-ipar-140-ezer-allas",
+   "day": "2026-11-16",
+   "published": "2026-11-16",
+   "source": "Leadersnet (EY-elemzés)",
+   "url": "https://leadersnet.de/news/105729,deutsche-industrie-verliert-140-200-jobs-trotz-umsatzplus.html",
+   "region": "Németország",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 3,
+   "icon": "factory",
+   "featured": true,
+   "title": "Egy év alatt 140 ezer ipari állás szűnt meg Németországban, az autóiparban 36 ezer",
+   "lead": "Egy tanácsadó cég (EY) elemzése szerint a német iparban szeptember végén 140 200-zal kevesebben dolgoztak, mint egy évvel korábban. Az autóiparban 36 100 állás szűnt meg, 2019 óta majdnem minden hatodik. Az ipar bevétele közben nőtt, de az elemzők nem várnak gyors fordulatot a felvételekben.",
+   "hu": "Ha autóipari beszállítónál vagy gyárban dolgozol, a német ipar lassulása itthon is érezhető lehet, és a pályakezdőket érheti először a kevesebb felvétel. Frissítsd az önéletrajzod, és írd bele, milyen gépeken, rendszerekben vagy minőségügyi feladatokban vagy otthon.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-13-nemet-karacsonyi-penz-wsi",
+   "day": "2026-11-16",
+   "published": "2026-11-13",
+   "source": "Handelsblatt (dpa, WSI-felmérés)",
+   "url": "https://handelsblatt.com/politik/deutschland/gehaelter-nur-gut-die-haelfte-der-beschaeftigten-erhaelt-weihnachtsgeld/100269622.html",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "52 százalék",
+    "label": "a német dolgozók közül ennyien kapnak karácsonyi pénzt, kollektív szerződéssel 78 százalék"
+   },
+   "title": "Minden második német dolgozó kap karácsonyi pénzt, kollektív szerződéssel sokkal többen",
+   "lead": "Egy közel 36 ezer dolgozót megkérdező német felmérés szerint a munkavállalók 52 százaléka kap karácsonyi pénzt. Ahol kollektív szerződés van, tízből majdnem nyolcan, ahol nincs, csak 42 százalék. Keleten és határozott idejű szerződéssel ritkábban jár ez a juttatás.",
+   "hu": "Ha Németországba készülsz dolgozni, a karácsonyi pénz nem jár automatikusan, sokszor a kollektív szerződésen múlik. Az ajánlatnál kérdezz rá, van-e kollektív szerződés, és jár-e 13. havi fizetés vagy karácsonyi pénz.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-16-brit-cegek-felveteli-tervek-cipd",
+   "day": "2026-11-16",
+   "published": "2026-11-16",
+   "source": "Personnel Today (CIPD-felmérés)",
+   "url": "https://www.personneltoday.com/hr/employers-hiring-intentions-remain-near-record-lows/",
+   "region": "Egyesült Királyság",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "briefcase",
+   "stat": {
+    "value": "3 százalék",
+    "label": "a brit cégek által tervezett tipikus alapbér-emelés, tizedik negyedéve változatlanul"
+   },
+   "title": "Csak minden negyedik brit cég bővítené a létszámát, a béremelés 3 százalékon ragadt",
+   "lead": "Egy brit HR-szakmai szervezet (CIPD) felmérése szerint a magáncégek 58 százaléka tervez felvételt a következő három hónapban. Ez közel van a valaha mért legalacsonyabb szinthez. A cégek tipikusan 3 százalékos béremelést terveznek, tizedik negyedéve ugyanennyit, és minden negyedik kevesebb dolgozóval számol az MI miatt.",
+   "hu": "Ha Angliában dolgozol vagy oda készülsz, most kevesebb új állás nyílhat, és a béremelésed is szerényebb lehet. Mielőtt váltanál, nézd meg, mennyi a piaci bér a szakmádban, és erre építsd a bértárgyalást.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/igy-keress-allast-ha-csak-napi-15-perced-van-ra"
+   ]
+  },
+  {
+   "id": "2026-11-13-europa-hiany-szakmak-oecd",
+   "day": "2026-11-16",
+   "published": "2026-11-13",
+   "source": "Euronews (OECD-adatok)",
+   "url": "https://www.euronews.com/2026/11/14/which-jobs-are-hardest-and-easiest-to-fill-in-europe-and-why",
+   "region": "Európa",
+   "topic": "Karrier és tanulás",
+   "hu_score": 3,
+   "icon": "graduation",
+   "title": "Tanárból, egészségügyi szakemberből és informatikusból van hiány a legtöbb európai országban",
+   "lead": "Az OECD 27 európai országra kiterjedő elemzése szerint tanárt, egészségügyi szakembert és informatikust a legnehezebb találni. Egészségügyi szakemberből 23 országban van hiány. Segédmunkásra és konyhai kisegítőre viszont könnyű embert találni; az adatok többsége 2024-es.",
+   "hu": "Ha szakmát vagy irányt váltanál, érdemes olyan területet nézni, ahol Európa-szerte hiány van, mert ott több lehetőséged és jobb alkupozíciód lehet. Ha betanított munkát végzel, egy szakmai képzés vagy tanúsítvány sokat javíthat az esélyeiden.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/minden-masodik-munkavallalo-valtott-mar-palyat-es-tobb-mint-a-feluk-maradt-volna-magasabb-fizetesert"
+   ]
+  },
+  {
+   "id": "2026-11-14-ir-palyakezdok-mi-kivalasztas",
+   "day": "2026-11-16",
+   "published": "2026-11-14",
+   "source": "The Irish Times",
+   "url": "https://irishtimes.com/life-style/people/2026/11/14/how-ai-is-impacting-irelands-graduate-job-seekers-it-dehumanises-a-lot-of-things",
+   "region": "Írország",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "MI szűri az önéletrajzokat, ezért a cégek egyre inkább a személyes interjúra figyelnek",
+   "lead": "Írországban egy toborzócég becslése szerint a munkáltatók több mint fele már MI-t használ a hirdetéseknél és a jelöltek szűrésében. Mivel a jelöltek is MI-vel írt, egyre hasonlóbb önéletrajzokat küldenek, a cégek újra az élő beszélgetésre figyelnek. Egy felmérés szerint a cégek több mint 70 százaléka nagyobb hangsúlyt tesz a személyes interjúra.",
+   "hu": "Ha pályakezdőként jelentkezel, az MI-vel csiszolt önéletrajz átjuthat a szűrőn, de az interjún már neked kell meggyőzni őket. Készülj két-három konkrét példával a saját munkádból, amit élőben is el tudsz mesélni.",
+   "related": [
+    "https://www.profession.hu/cikk/meselj-magadrol-a-legkonnyebb-kerdes-amire-a-legnehezebb-felkeszulni",
+    "https://www.profession.hu/cikk/allasinterju-kisokos-1"
+   ]
+  },
+  {
+   "id": "2026-11-13-brit-dolgozok-mi-osztalek",
+   "day": "2026-11-16",
+   "published": "2026-11-13",
+   "source": "TechRadar Pro (Howden-felmérés)",
+   "url": "https://www.techradar.com/pro/workers-dont-mind-if-ai-is-making-their-employer-more-productive-so-long-as-they-get-paid-well",
+   "region": "Egyesült Királyság",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "stat": {
+    "value": "minden harmadik",
+    "label": "brit dolgozó magasabb fizetést várna, ha a cége sokat nyerne a mesterséges intelligencián"
+   },
+   "title": "Minden harmadik brit dolgozó béremelést várna, ha az MI-vel többet keres a cége",
+   "lead": "Egy brit biztosítócsoport több mint 2000 dolgozót kérdezett az MI-ről. Minden harmadik magasabb fizetést várna, ha a munkáltatója sokat nyerne vele, mások rövidebb munkaidőt vagy nagyobb biztonságot. Majdnem a felük attól tart, hogy a megspórolt időt újabb feladatok töltik ki.",
+   "hu": "Ha nálatok is bevezetik az MI-eszközöket, jó tudni, mennyi időt spórolsz velük, mert ez a béremelési beszélgetésnél is érv lehet. Írd fel, milyen feladatokat végzel gyorsabban, és a következő értékelésen hozd szóba a vezetőddel.",
+   "related": [
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-05-trend-keeping-receipts",
+   "day": "2026-11-16",
+   "published": "2026-11-05",
+   "source": "CPA Practice Advisor (ResumeBuilder-felmérés)",
+   "url": "https://www.cpapracticeadvisor.com/2026/11/05/3-in-4-workers-are-keeping-receipts-at-work-were-not-talking-about-financial-records/193343/",
+   "region": "USA",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "file-text",
+   "term": "Keeping receipts",
+   "term_hu": "bizonyítékgyűjtés a munkahelyen",
+   "title": "Elmented a munkahelyi e-maileket, hátha bizonyítanod kell: ez a bizonyítékgyűjtés",
+   "what": "Amikor tudatosan megőrzöd a munkahelyi e-maileket, üzeneteket és képernyőképeket, hogy szükség esetén igazolni tudd, mi hangzott el. Leggyakrabban a vezetővel tartott négyszemközti megbeszéléseket és a nehéz beszélgetéseket rögzítik.",
+   "data": "Egy amerikai felmérésben tízből több mint hét dolgozó mentett már szándékosan munkahelyi bizonyítékot, és majdnem a felük gyakrabban teszi, mint öt éve. Minden ötödiknél többen azután kezdték, hogy valamiért őket hibáztatták, amit nem ők tettek (ResumeBuilder, több mint 1000 amerikai dolgozó).",
+   "hu": "Ha volt már olyan, hogy egy megbeszélés után nem egyformán emlékeztetek a megállapodásra, ez ismerős lehet. Egy fontos megbeszélés után küldj rövid összefoglaló e-mailt a teendőkről: mindenkinek segít, és nem bizalmatlanságként hat.",
+   "related": [
+    "https://www.profession.hu/cikk/a-fonokod-gondolatolvasast-var-igy-kezeld-a-kimondatlan-elvarasokat",
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat"
+   ]
+  },
   {
    "id": "2026-11-13-nemet-vegkielegites-adomentes-tervezet",
    "day": "2026-11-15",
@@ -11,7 +154,6 @@
    "topic": "Jogaid és szabályok",
    "hu_score": 3,
    "icon": "scale",
-   "featured": true,
    "title": "5000 eurós végkielégítés adómentes lehet Németországban, ha gyorsan új munkát találsz",
    "lead": "Egy német adóegyszerűsítési tervezet szerint 2027-től akár 5000 euró végkielégítés is adómentes lehet. Feltétel, hogy négy hónapon belül új állásba lépj, legalább fél évre, és a kifizetést kollektív szerződés rögzítse. A tervezet még nem végleges, a kormányon belül egyeztetik.",
    "hu": "Ha Németországban dolgozol, és a cégednél átszervezés jön, a gyors elhelyezkedés a jövőben adóban is megtérülhet. Nézd meg, vonatkozik-e rád kollektív szerződés, és frissítsd már most az önéletrajzod, hogy hamar jelentkezni tudj.",
