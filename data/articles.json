@@ -1,6 +1,145 @@
 {
- "updated": "2026-11-16T07:12",
+ "updated": "2026-11-17T07:11",
  "articles": [
+  {
+   "id": "2026-11-16-nemet-toborzok-mi-csalas-jelentkezes",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "ad-hoc-news (Stepstone-felmérés)",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ai-assisted-deception-in-job-applications-four-in-ten-recruiters-have-detected-or-suspect-its-use/70519972",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "search",
+   "featured": true,
+   "title": "Tízből négy német toborzó találkozott már MI-vel felturbózott, valótlan jelentkezéssel",
+   "lead": "Egy német felmérésben több mint 1200 toborzót és 7600 jelöltet kérdeztek meg. A toborzók 41 százaléka észlelt vagy gyanított MI-vel segített megtévesztést az elmúlt évben. A leggyakoribb a felnagyított tapasztalat az önéletrajzban, ezért majdnem háromnegyedük gyanakvóbban olvassa a jelentkezéseket.",
+   "hu": "Ha Németországba vagy nemzetközi céghez jelentkezel, az MI-vel kiszínezett önéletrajz most inkább gyanút kelthet, mint előnyt. Az MI-t használd nyugodtan a megfogalmazáshoz, de minden állításodhoz legyen egy konkrét példád, amit az interjún el tudsz mesélni.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/allasinterju-kisokos-1"
+   ]
+  },
+  {
+   "id": "2026-11-16-nemet-bankok-berfordulo-figyelmezteto-sztrajk",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "Die Privatbank",
+   "url": "https://www.die-privatbank.de/artikel/gewerkschaften-machen-mobil-verdi-und-dbv-weiten-warnstreiks-bei-privatbanken-aus",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "credit-card",
+   "title": "Német banki dolgozók országos figyelmeztető sztrájkja: béremelés és MI-szabályok a tét",
+   "lead": "A német magánbankok bértárgyalásán a szakszervezet egy év alatt 6 százalékos emelést kér, és szabályokat az MI használatára. A munkáltatók három évre összesen 4,2 százalékot ajánlottak, két lépésben 2027 közepétől. Hétfőtől országosan figyelmeztető sztrájkok vannak, a következő tárgyalás november 23-án lesz.",
+   "hu": "Ha bankban vagy pénzügyi szolgáltatóközpontban dolgozol, érdemes figyelni, mert itt már az MI hatása is bekerült a bértárgyalásba. Nézd meg, a te munkahelyeden van-e írott szabály arra, hogyan változhat a munkád az MI miatt, és kérdezz rá a következő értékelésen.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
+  {
+   "id": "2026-11-17-usa-cegek-leepitesi-tervek-2027",
+   "day": "2026-11-17",
+   "published": "2026-11-17",
+   "source": "ResumeTemplates.com (PR Newswire)",
+   "url": "https://www.prnewswire.com/news-releases/resumetemplatescom-survey-6-in-10-companies-plan-layoffs-in-early-2027-302941432.html",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "trending-down",
+   "stat": {
+    "value": "56 százalék",
+    "label": "az amerikai cégek közül ennyi számol leépítéssel 2027 első felében, ezer vezető szerint"
+   },
+   "title": "Minden második amerikai cég leépítéssel számol 2027 elején, sokan az MI-t említik",
+   "lead": "Egy ezer amerikai vezetőt megkérdező novemberi felmérés szerint a cégek 56 százaléka valószínűleg leépít 2027 első felében. A techcégeknél ez az arány 75 százalék. Az okok között a gyengébb bevétel mellett majdnem ugyanilyen gyakran szerepel az MI és az automatizálás.",
+   "hu": "Ha amerikai tulajdonú cégnél vagy techcégnél dolgozol itthon, a jövő évi tervek a magyar irodákat is érinthetik. Nem kell pánikolni, de egy frissített önéletrajz és egy beállított állásértesítő most sokat segíthet.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban"
+   ]
+  },
+  {
+   "id": "2026-11-16-uk-nulla-oras-szerzodes-garantalt-orak",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/zero-hours-nhs-care-fire-services-guaranteed-hours-unintended-consequences/",
+   "region": "Egyesült Királyság",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "clock",
+   "title": "Angliában 2027-től garantált órákat kaphatnak a nulla órás szerződéssel dolgozók",
+   "lead": "A brit tervek szerint a fix óraszám nélküli, úgynevezett nulla órás szerződéssel dolgozók a ténylegesen ledolgozott óráik alapján kaphatnának garantált órákat. Járna előre értesítés a műszakokról, és pénz a későn lemondott műszakokért. A szabályok várhatóan 2027 második felében lépnek életbe.",
+   "hu": "Ha Angliában vendéglátásban, ápolásban vagy alkalmi műszakokban dolgozol, ez kiszámíthatóbb beosztást és jövedelmet hozhat. Kezdd el most vezetni, hány órát dolgozol hetente, mert később erre hivatkozhatsz.",
+   "related": [
+    "https://www.profession.hu/cikk/egyszerusitett-foglalkoztatas-2026-minden-fontos-szabaly-egy-helyen",
+    "https://www.profession.hu/cikk/megbizasi-szerzodes-szabalyok-adozas-kockazatok"
+   ]
+  },
+  {
+   "id": "2026-11-16-ausztria-tanulok-szama-wifo",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "medianet (WIFO-tanulmány)",
+   "url": "https://medianet.at/news/retail/wifo-studie-oesterreich-muss-wieder-staerker-auf-die-lehre-setzen-78655.html",
+   "region": "Ausztria",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "graduation",
+   "stat": {
+    "value": "102 878",
+    "label": "fiatal tanult szakmát Ausztriában 2025 végén, az 1970-es évek óta a legkevesebb"
+   },
+   "title": "Ausztriában ötven éve nem tanult ilyen kevés fiatal szakmát, nő a szakemberhiány",
+   "lead": "Az osztrák gazdaságkutató intézet (WIFO) szerint 2025 végén 102 878 fiatal tanult szakmát, ennyire kevesen az 1970-es évek óta nem. Az intézet szerint a szakmunkáshiány középtávon a gazdasági növekedést is lassíthatja. A tanulókorú fiatalok száma viszont a 2030-as évek közepéig nőni fog.",
+   "hu": "Ha szakmád van, és Ausztriában dolgoznál, a szakmunkáshiány neked jó hír, mert keresettebb lehetsz. Nézd meg, elismerik-e kint a végzettségedet, és tedd bele az önéletrajzodba a szakmai vizsgáidat.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-16-vezetok-jobban-biznak-az-mi-ben",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "Fortune (Charter-felmérés)",
+   "url": "https://fortune.com/2026/11/16/executives-trust-ai-more-than-gen-z-charter-survey/",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "A vezetők kétszer olyan gyakran bíznak jobban az MI-ben, mint a saját ítéletükben",
+   "lead": "Egy több mint ötezer amerikai irodai dolgozót megkérdező felmérés szerint a vezetők körülbelül harmada jobban bízik az MI-ben, mint a saját döntésében. A beosztott dolgozóknál ez csak 16 százalék. A fiatal dolgozók közben inkább segédeszköznek tekintik az MI-t, mint döntéshozónak.",
+   "hu": "Ha a munkádban egyre több döntés MI-alapú elemzésre épül, a józan ítélőképességed értékes tudás lehet. Ha egy MI-eredmény furcsának tűnik, nyugodtan kérdezz rá, és mondd el, te mit látsz másképp.",
+   "related": [
+    "https://www.profession.hu/cikk/felsz-megszolalni-a-meetingeken-igy-gyozd-le-a-lampalazad",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-16-trend-bullshit-jobs",
+   "day": "2026-11-17",
+   "published": "2026-11-16",
+   "source": "WirtschaftsWoche (SKL Glücksatlas, Ipsos)",
+   "url": "https://wiwo.de/politik/deutschland/bullshit-jobs-warum-millionen-deutsche-weniger-arbeiten-wollen/100268754.html",
+   "region": "Németország",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "battery_low",
+   "term": "Bullshit-Jobs",
+   "term_hu": "értelmetlennek érzett munka",
+   "title": "Bejársz, dolgozol, mégis úgy érzed, semmi értelme? Minden nyolcadik német így van vele",
+   "what": "Amikor úgy érzed, a munkád senkinek sem hiányozna, ha holnap abbahagynád. Nem lusta vagy, csak nem látod, mire jó, amit csinálsz.",
+   "data": "Egy idei júniusi német felmérés szerint a dolgozók körülbelül 12 százaléka, vagyis minden nyolcadik tartja értelmetlennek a munkáját. Közülük a teljes munkaidősök 44 százaléka kevesebbet dolgozna (SKL Glücksatlas, Ipsos, 2500 dolgozó).",
+   "hu": "Ha ismerős az érzés, először nézd meg, kinek segít a munkád eredménye. Kérdezd meg a vezetődet vagy a kollégáidat, hová kerül tovább, amit csinálsz, és ebből kiderülhet, mi adna több értelmet.",
+   "related": [
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat",
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot"
+   ]
+  },
   {
    "id": "2026-11-16-nemet-ipar-140-ezer-allas",
    "day": "2026-11-16",
@@ -11,7 +150,6 @@
    "topic": "Munkaerőpiaci adatok",
    "hu_score": 3,
    "icon": "factory",
-   "featured": true,
    "title": "Egy év alatt 140 ezer ipari állás szűnt meg Németországban, az autóiparban 36 ezer",
    "lead": "Egy tanácsadó cég (EY) elemzése szerint a német iparban szeptember végén 140 200-zal kevesebben dolgoztak, mint egy évvel korábban. Az autóiparban 36 100 állás szűnt meg, 2019 óta majdnem minden hatodik. Az ipar bevétele közben nőtt, de az elemzők nem várnak gyors fordulatot a felvételekben.",
    "hu": "Ha autóipari beszállítónál vagy gyárban dolgozol, a német ipar lassulása itthon is érezhető lehet, és a pályakezdőket érheti először a kevesebb felvétel. Frissítsd az önéletrajzod, és írd bele, milyen gépeken, rendszerekben vagy minőségügyi feladatokban vagy otthon.",
