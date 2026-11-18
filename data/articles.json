@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-17T07:11",
+ "updated": "2026-11-18T07:01",
  "articles": [
+  {
+   "id": "2026-11-17-osztrak-kiskereskedelem-bertargyalas-2027",
+   "day": "2026-11-18",
+   "published": "2026-11-17",
+   "source": "GPA (osztrák szakszervezet)",
+   "url": "https://www.gpa.at/kollektivvertrag/handel/handelsangestellte/2027/kv-handel-2027--oesterreichweite-betriebsversammlungen-mit-strei",
+   "region": "Ausztria",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "featured": true,
+   "title": "Ausztriában 420 ezer bolti dolgozó jövő évi béréről tárgyalnak: 3,8 vagy 2,1 százalék?",
+   "lead": "Az osztrák kiskereskedelem kollektív bértárgyalásán a harmadik forduló sem hozott megállapodást. A szakszervezet 3,8 százalékos emelést kér, a munkáltatók 2,1 százalékot és egyszeri 350 eurót ajánlanak. A szakszervezet szerint a napokban országszerte üzemi gyűléseket tartanak, ahol esetleges munkabeszüntetésről is döntenek.",
+   "hu": "Ha Ausztriában dolgozol boltban, vagy egy kinti áruházláncba ingázol, ez a megállapodás határozza meg a jövő évi fizetésedet. Nézd meg a bérpapírodon, melyik bércsoportba tartozol, hogy az új bértábla megjelenésekor rögtön lásd, mennyi jár neked.",
+   "related": [
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-17-uk-munkanelkuliseg-46-kevesebb-allashely",
+   "day": "2026-11-18",
+   "published": "2026-11-17",
+   "source": "Personnel Today (ONS-adatok)",
+   "url": "https://www.personneltoday.com/hr/ons-labour-market-statistics-november-2026-unemployment-vacancies-average-earning-real-pay-youth-neets/",
+   "region": "Egyesült Királyság",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 3,
+   "icon": "chart",
+   "stat": {
+    "value": "15,1 százalék",
+    "label": "a 16–24 éves britek munkanélküliségi rátája, több mint háromszorosa az átlagnak"
+   },
+   "title": "A briteknél csökkent a munkanélküliség, de 2014 óta nem volt ilyen kevés üres állás",
+   "lead": "A brit statisztikai hivatal friss adatai szerint 4,6 százalékra csökkent a munkanélküliség, ez 17 hónapja a legalacsonyabb. Augusztus és október között viszont csak 690 ezer üres állás volt, a járványt nem számítva 2014 óta a legkevesebb. A rendszeres bérek egy év alatt 3,5 százalékkal nőttek, ez alig több az inflációnál.",
+   "hu": "Ha az Egyesült Királyságba készülsz dolgozni, most kevesebb hirdetésre több jelentkező jut, főleg a kis cégeknél és a kiskereskedelemben. Lehetőleg még itthonról szerezz állásajánlatot, és igazítsd az önéletrajzod a brit szokásokhoz.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig"
+   ]
+  },
+  {
+   "id": "2026-11-16-goldman-mi-leepitesek-kesnek",
+   "day": "2026-11-18",
+   "published": "2026-11-16",
+   "source": "Fortune (Goldman Sachs-elemzés)",
+   "url": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "title": "Goldman Sachs: az MI-átállás alatt minden tizenegyedik dolgozó munkája megszűnhet",
+   "lead": "A Goldman Sachs elemzői szerint az MI miatti nagy leépítési hullám idén elmaradt, de csak késik. Becslésük szerint az átállás során a dolgozók legfeljebb 9 százaléka, nagyjából minden tizenegyedik veszítheti el a munkáját. A mostani nyugodt piac, ahol kevés a felvétel és kevés az elbocsátás, szerintük még nagyjából egy évig tarthat.",
+   "hu": "Ha a munkád nagy része ismétlődő irodai feladat, például adatrögzítés vagy adminisztráció, most érdemes felkészülnöd, amíg nyugodt a piac. Írd össze, melyik feladatodat végezheti már MI, és válassz egy eszközt, amit a következő hónapokban megtanulsz magabiztosan használni.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-17-nemet-palyakezdok-keves-kezdo-allas",
+   "day": "2026-11-18",
+   "published": "2026-11-17",
+   "source": "leinetal24 (Uniwunder-felmérés)",
+   "url": "https://www.leinetal24.de/verbraucher/schwieriger-karrierestart-berufseinsteiger-laufen-derzeit-gegen-verschlossene-tueren-zr-94594598.html",
+   "region": "Németország",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "graduation",
+   "title": "Tízből hét német pályakezdő szerint kevés a kezdő állás, sokan választ sem kapnak",
+   "lead": "Egy drezdai cég nyári, kis és nem reprezentatív felmérésében 139 német hallgatót és friss diplomást kérdeztek, akiknek még nincs első állandó munkahelyük. 72 százalékuk szerint kevés a kezdő pozíció, 62 százalékuk pedig tapasztalta már, hogy a cég nem válaszolt. Majdnem kétharmaduk tart attól, hogy az MI elviszi a rutinfeladatokat, amelyeken a kezdők tanulni szoktak.",
+   "hu": "Ha most végeztél vagy hamarosan diplomázol, és lassan jönnek a válaszok, nem feltétlenül veled van a baj. Írd bele az önéletrajzodba, milyen MI-eszközöket használsz, és egy-két hét után udvariasan érdeklődj a jelentkezésed felől.",
+   "related": [
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-17-trend-workload-creep",
+   "day": "2026-11-18",
+   "published": "2026-11-17",
+   "source": "Silicon Republic (LSE–Protiviti-felmérés)",
+   "url": "https://www.siliconrepublic.com/careers/workload-creep-ai-working-life-report-survey-balance-productivity",
+   "region": "Globális",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "clock",
+   "term": "Workload creep",
+   "term_hu": "lopakodó munkateher",
+   "title": "Az MI időt spórol neked, de a helyére észrevétlenül új feladatok kerülnek",
+   "what": "Az MI-vel gyorsabban végzel, de a felszabaduló idő nem pihenésre megy: lassan új feladatok és projektek töltik ki. A munkád nem lesz könnyebb, csak több fér bele.",
+   "data": "Egy háromezer fős globális felmérésben a válaszadók majdnem háromnegyede már használ MI-t a munkájában, a heti idejük nagyjából ötödét spórolják meg vele, de ennek közel háromnegyedét rögtön más munkára fordítják. Majdnem minden második attól tart, hogy rossz szemmel nézik, ha nem használja eléggé az MI-t (LSE és Protiviti, 3001 fő, 2026. március–május).",
+   "hu": "Ha úgy érzed, hogy az MI óta gyorsabb vagy, mégsem lett kevesebb a dolgod, nem vagy egyedül. Írd fel egy hétig, mire megy el a megspórolt idő, és ezzel a listával beszéld meg a vezetőddel, mi legyen a prioritás.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/a-fonokod-gondolatolvasast-var-igy-kezeld-a-kimondatlan-elvarasokat"
+   ]
+  },
   {
    "id": "2026-11-16-nemet-toborzok-mi-csalas-jelentkezes",
    "day": "2026-11-17",
@@ -11,7 +110,6 @@
    "topic": "Állások és toborzás",
    "hu_score": 3,
    "icon": "search",
-   "featured": true,
    "title": "Tízből négy német toborzó találkozott már MI-vel felturbózott, valótlan jelentkezéssel",
    "lead": "Egy német felmérésben több mint 1200 toborzót és 7600 jelöltet kérdeztek meg. A toborzók 41 százaléka észlelt vagy gyanított MI-vel segített megtévesztést az elmúlt évben. A leggyakoribb a felnagyított tapasztalat az önéletrajzban, ezért majdnem háromnegyedük gyanakvóbban olvassa a jelentkezéseket.",
    "hu": "Ha Németországba vagy nemzetközi céghez jelentkezel, az MI-vel kiszínezett önéletrajz most inkább gyanút kelthet, mint előnyt. Az MI-t használd nyugodtan a megfogalmazáshoz, de minden állításodhoz legyen egy konkrét példád, amit az interjún el tudsz mesélni.",
