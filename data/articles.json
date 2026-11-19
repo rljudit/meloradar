@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-18T07:01",
+ "updated": "2026-11-19T06:58",
  "articles": [
+  {
+   "id": "2026-11-18-nemet-foglalkoztatas-harmadik-negyedev-csokkenes",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "retail-news.de (Destatis-adatok)",
+   "url": "https://retail-news.de/erwerbstaetigkeit-deutschland-quartal-3-2026",
+   "region": "Németország",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 3,
+   "icon": "factory",
+   "featured": true,
+   "title": "Németországban egy év alatt 222 ezerrel kevesebben dolgoznak, főleg az iparban",
+   "lead": "A német statisztikai hivatal előzetes adatai szerint a harmadik negyedévben 45,7 millióan dolgoztak az országban. Ez 222 ezerrel kevesebb, mint egy éve, és a legtöbb munkahely, 164 ezer, az iparban szűnt meg. Közben az egészségügyben, az oktatásban és a közszférában 172 ezerrel többen dolgoznak.",
+   "hu": "Ha Németországban dolgozol gyárban vagy beszállítónál, vagy oda készülsz, az iparban most szűkebb a kínálat, az ápolásban és az oktatásban viszont bővül. Nézd meg, melyik tapasztalatod vihető át egy keresettebb ágazatba, és állíts be állásértesítőt ezekre.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-18-osztrak-arbeitsklima-index-lelki-terheles",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "ORF (AK Oberösterreich Arbeitsklima Index)",
+   "url": "https://orf.at/stories/3448552/",
+   "region": "Ausztria",
+   "topic": "Munkahelyi élet",
+   "hu_score": 3,
+   "icon": "battery_low",
+   "stat": {
+    "value": "47 százalék",
+    "label": "az osztrák dolgozók közül ennyien érzik lelkileg megterhelőnek a munkájukat idén"
+   },
+   "title": "Majdnem minden második osztrák dolgozó lelkileg megterhelőnek érzi a munkáját",
+   "lead": "A felső-ausztriai munkavállalói kamara 30 éve méri, hogyan érzik magukat az osztrák dolgozók. Idén 47 százalékuk mondta lelkileg megterhelőnek a munkáját, 57 százalékuk pedig erős időnyomásról számolt be. Az elégedettséget mutató index így majdnem az 1997-es szintre esett vissza.",
+   "hu": "Ha Ausztriában dolgozol, és úgy érzed, egyre nagyobb a hajtás, nem vagy egyedül. Írd össze, mely feladatok viszik el a legtöbb energiádat, és ezzel a listával kérj egy beszélgetést a vezetődtől a prioritásokról.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat"
+   ]
+  },
+  {
+   "id": "2026-11-18-ausztria-kkv-letszamcsokkentes-creditreform",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "Heute (Creditreform-felmérés)",
+   "url": "https://heute.at/s/job-schock-jede-vierte-firma-baut-personal-ab-120283453",
+   "region": "Ausztria",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "trending-down",
+   "title": "Minden negyedik osztrák kis- és középvállalat csökkentette a létszámát az utóbbi hónapokban",
+   "lead": "A Creditreform őszi felmérése szerint az osztrák kis- és középvállalatok 25,1 százaléka csökkentette a létszámát az elmúlt hónapokban. A következő félévre minden ötödik cég tervez további leépítést, új embert pedig csak 9,5 százalékuk keres.",
+   "hu": "Ha Ausztriába ingázol vagy ott keresel munkát, most kevesebb új állás jut több jelentkezőre, főleg az építőiparban. Ha váltanál, ne mondj fel előre, hanem munka mellett figyeld a friss hirdetéseket, és frissítsd az önéletrajzod.",
+   "related": [
+    "https://www.profession.hu/cikk/allast-keresel-munka-kozben-igy-csinald-hogy-ne-tudja-meg-az-egesz-iroda",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-18-uk-beremelesek-inflacio-mogott",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "Personnel Today (ONS- és Brightmine-adatok)",
+   "url": "https://www.personneltoday.com/hr/average-pay-vs-inflation-october-2026/",
+   "region": "Egyesült Királyság",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "3,2 százalék",
+    "label": "a brit béremelések középértéke októberben, miközben az infláció 3,6 százalékra gyorsult"
+   },
+   "title": "A briteknél 3,6 százalék az infláció, a béremelések viszont csak 3,2 százalékosak",
+   "lead": "Októberben 3,6 százalékra gyorsult az infláció az Egyesült Királyságban. A cégeknél megkötött béremelések középértéke 3,2 százalék volt, így sokaknál a fizetés nem tart lépést az árakkal. Az elemzők szerint jövőre az infláció 4 százalék fölé mehet, a béremelések pedig 3 százalék körül maradhatnak.",
+   "hu": "Ha Angliában dolgozol, a jövő évi béremelésed könnyen elmaradhat az áremelkedéstől, vagyis valójában kevesebbet érhet a fizetésed. Mielőtt leülsz bért tárgyalni, nézd meg a friss inflációs adatot, és ehhez mérten fogalmazd meg a kérésedet.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
+  {
+   "id": "2026-11-18-europai-cegek-mi-kevesebb-felvetel",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "Personnel Today (Littler-felmérés)",
+   "url": "https://www.personneltoday.com/hr/european-firms-grapple-with-regulatory-uncertainty-amid-ai-takeup/",
+   "region": "Európa",
+   "topic": "MI és a munkád",
+   "hu_score": 3,
+   "icon": "bot",
+   "stat": {
+    "value": "32 százalék",
+    "label": "az európai cégek közül ennyien vesznek fel kevesebb embert az MI miatt, tavaly még 13 százalék"
+   },
+   "title": "Majdnem minden harmadik európai cég kevesebb embert vesz fel az MI miatt",
+   "lead": "Egy munkajogi iroda közel 500 európai cégvezetőt, jogászt és HR-est kérdezett meg. Közülük 32 százalék az MI miatt kevesebb embert vesz fel, tavaly még csak 13 százalék. A cégek háromnegyede azt látja, hogy a dolgozók már panaszaik megírásához is MI-t használnak.",
+   "hu": "Ha irodai munkát végzel, a kevesebb új felvétel azt jelentheti, hogy nehezebb lesz váltani vagy előrelépni. Nézd meg, melyik feladatodban segít már az MI, és írd bele az önéletrajzodba egy konkrét példával, mit csinálsz vele gyorsabban.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-18-usa-elmaradt-felmondasok-2027",
+   "day": "2026-11-19",
+   "published": "2026-11-18",
+   "source": "Fortune (Indeed és Glassdoor 2027-es előrejelzése)",
+   "url": "https://fortune.com/2026/11/18/glassdoor-indeed-hiring-lab-laura-ullrich-daniel-zhao-labor-market-jobs-trends/",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "door",
+   "title": "Havonta 349 ezer amerikai marad a helyén, pedig váltana: 2027-ben fordulhat a piac",
+   "lead": "Két álláskereső oldal közgazdászai szerint az amerikaiak havonta nagyjából 349 ezerrel kevesebbszer mondanak fel, mint ahogy az elégedetlenségük indokolná. Szerintük ez a feszültség 2027-ben feloldódhat. Vagy élénkül a felvétel, és sokan váltanak, vagy lassul a gazdaság, és leépítések jönnek.",
+   "hu": "Ha te is csak kivárásból maradsz a helyeden, érdemes már most felkészülnöd, hogy a fordulatnál gyorsan léphess. Frissítsd az önéletrajzod, és írd össze, milyen feltételek mellett váltanál.",
+   "related": [
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
   {
    "id": "2026-11-17-osztrak-kiskereskedelem-bertargyalas-2027",
    "day": "2026-11-18",
@@ -11,7 +132,6 @@
    "topic": "Fizetés és juttatások",
    "hu_score": 3,
    "icon": "coins",
-   "featured": true,
    "title": "Ausztriában 420 ezer bolti dolgozó jövő évi béréről tárgyalnak: 3,8 vagy 2,1 százalék?",
    "lead": "Az osztrák kiskereskedelem kollektív bértárgyalásán a harmadik forduló sem hozott megállapodást. A szakszervezet 3,8 százalékos emelést kér, a munkáltatók 2,1 százalékot és egyszeri 350 eurót ajánlanak. A szakszervezet szerint a napokban országszerte üzemi gyűléseket tartanak, ahol esetleges munkabeszüntetésről is döntenek.",
    "hu": "Ha Ausztriában dolgozol boltban, vagy egy kinti áruházláncba ingázol, ez a megállapodás határozza meg a jövő évi fizetésedet. Nézd meg a bérpapírodon, melyik bércsoportba tartozol, hogy az új bértábla megjelenésekor rögtön lásd, mennyi jár neked.",
