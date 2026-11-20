@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-19T06:58",
+ "updated": "2026-11-20T07:03",
  "articles": [
+  {
+   "id": "2026-11-18-osztrak-vasut-385-oras-munkahet",
+   "day": "2026-11-20",
+   "published": "2026-11-18",
+   "source": "ORF (vasúti kollektív szerződés)",
+   "url": "https://orf.at/stories/3448597/",
+   "region": "Ausztria",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "clock",
+   "featured": true,
+   "title": "Ausztriában 55 ezer vasutas munkahete 38,5 órára rövidül 2027-től",
+   "lead": "Az osztrák vasúttársaságok és a szakszervezet két évre szóló megállapodást kötöttek, ez nagyjából 55 ezer dolgozót érint. 2027 szeptemberétől mindenhol heti 38,5 óra lesz a munkaidő, ott is, ahol most még 40 órát dolgoznak. A bérek nagyjából az inflációval együtt emelkednek.",
+   "hu": "Ha Ausztriában dolgozol a közlekedésben, vagy oda jelentkeznél, jövőtől rövidebb lehet a munkahéted. Az interjún kérdezz rá, melyik kollektív szerződés vonatkozik rád, és hány óra a heti munkaidő.",
+   "related": [
+    "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai",
+    "https://www.profession.hu/cikk/mennyibe-kerul-bejarni-dolgozni-segitunk-kiszamolni"
+   ]
+  },
+  {
+   "id": "2026-11-19-adecco-mi-kepzes-felmeres",
+   "day": "2026-11-20",
+   "published": "2026-11-19",
+   "source": "GlobeNewswire (Adecco Group-felmérés)",
+   "url": "https://www.globenewswire.com/news-release/2026/11/19/3406312/0/en/the-adecco-group-global-study-ai-delivers-more-value-when-people-are-involved-in-work-redesign.html",
+   "region": "Globális",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "graduation",
+   "stat": {
+    "value": "74 százalék",
+    "label": "a dolgozók közül ennyien használnak már MI-ügynököt 36 országban, tavaly még 64 százalék"
+   },
+   "title": "Négyből három dolgozó már MI-ügynököt használ, de kevesebben kapnak hozzá képzést",
+   "lead": "Egy nemzetközi munkaerő-közvetítő 36 ország több mint 40 ezer dolgozóját kérdezte meg idén nyáron. Négyből hárman már használnak MI-ügynököt, a képzésen részt vevők aránya viszont egy év alatt 77-ről 67 százalékra esett. A betanított felhasználók szinte mind hatékonyabbnak érzik magukat, a többieknek csak a fele.",
+   "hu": "Ha az MI-t csak magadtól, próbálgatva tanulod, könnyen lemaradhatsz azoktól, akik képzést kaptak hozzá. Kérdezd meg a vezetődet, van-e belső MI-tréning, és ha nincs, javasold, hogy legyen.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-18-tiz-perces-elutasitas-allaskeresok",
+   "day": "2026-11-20",
+   "published": "2026-11-18",
+   "source": "HR Dive (JobAssist-felmérés)",
+   "url": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
+   "region": "Globális",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "search",
+   "stat": {
+    "value": "46 százalék",
+    "label": "a jelentkezők közül ennyien kaptak tíz percen belül elutasítást az elmúlt évben négy angol nyelvű országban"
+   },
+   "title": "Majdnem minden második jelentkező tíz percen belül megkapta az elutasító levelet",
+   "lead": "Egy felmérés közel 7000 embert kérdezett meg az USA-ban, Nagy-Britanniában, Kanadában és Ausztráliában. Akik az elmúlt évben jelentkeztek valahová, azok 46 százaléka tíz percen belül nemleges választ kapott. Tízből nyolcan úgy gondolják, hogy erről gép döntött.",
+   "hu": "Ha te is perceken belül kapsz nemleges választ, könnyen lehet, hogy egy szűrőprogramon akadtál fenn, nem a tapasztalatodon. Jelentkezés előtt vedd át az önéletrajzodba a hirdetés kulcsszavait, és használj egyszerű, jól olvasható formátumot.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+   ]
+  },
+  {
+   "id": "2026-11-18-sved-irodai-allasok-mi-unionen",
+   "day": "2026-11-20",
+   "published": "2026-11-18",
+   "source": "Kollega (Unionen-felmérés)",
+   "url": "https://kollega.se/arbetsmarknad/unionen-jobben-blir-farre-i-ai-utsatta-yrken",
+   "region": "Svédország",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "stat": {
+    "value": "13 százalék",
+    "label": "ennyivel kevesebben dolgoztak 2025-ben Svédországban a hat leginkább MI-érzékeny irodai munkakörben, mint 2023-ban"
+   },
+   "title": "Svédországban 13 százalékkal kevesebben dolgoznak az MI-érzékeny irodai munkakörökben",
+   "lead": "A svéd irodai dolgozók szakszervezete szerint már tízből nyolc munkahelyen használnak MI-t, 2023 őszén még csak tízből háromban. A hat leginkább érintett munkakörben, például az ügyfélszolgálaton és a bérszámfejtésben, két év alatt 13 százalékkal kevesebben dolgoznak. Hogy ez mennyire az MI hatása, azt a statisztika nem mutatja meg.",
+   "hu": "Ha ügyfélszolgálaton, bérszámfejtésben vagy könyvelésben dolgozol, például egy szolgáltatóközpontban, ez a változás itthon is megjelenhet. Nézd meg, mely feladataidat veszi át már most a gép, és erősítsd azokat a készségeidet, amelyekhez döntés vagy ügyfélkapcsolat kell.",
+   "related": [
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-19-lufthansa-1000-allas-frankfurt-munchen",
+   "day": "2026-11-20",
+   "published": "2026-11-19",
+   "source": "Handelsblatt",
+   "url": "https://www.handelsblatt.com/politik/deutschland/brief-an-mitarbeiter-lufthansa-will-1000-stellen-an-drehkreuzen-streichen/100271404.html",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "plane",
+   "title": "A Lufthansánál mintegy 1000 állás szűnhet meg a frankfurti és a müncheni bázison",
+   "lead": "A légitársaság vezetése levélben jelezte a dolgozóknak, hogy a két nagy repülőtéri központban körülbelül 1000 teljes munkaidős állás szűnhet meg. A Lufthansa Airlines az év első kilenc hónapjában 180 millió euró működési veszteséget könyvelt el. Az átszervezés időzítése és módja még nem dőlt el.",
+   "hu": "Ha Németországban repülőtéren vagy a légi közlekedésben dolgozol, érdemes figyelned, milyen részletek derülnek ki a következő hetekben. Nézd meg a szerződésedben a felmondási időt, és frissítsd az önéletrajzod, hogy szükség esetén gyorsan léphess.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/allast-keresel-munka-kozben-igy-csinald-hogy-ne-tudja-meg-az-egesz-iroda"
+   ]
+  },
+  {
+   "id": "2026-11-18-japan-reszmunka-oraber-rekord",
+   "day": "2026-11-20",
+   "published": "2026-11-18",
+   "source": "Seoul Economic Daily (Nikkei)",
+   "url": "https://en.sedaily.com/world/2026/11/18/japan-part-time-wages-hit-record-1394-yen-as-labor-shortage",
+   "region": "Ázsia",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 1,
+   "icon": "trending-up",
+   "title": "Japánban rekordot döntöttek a részmunkaidős órabérek, mert nincs elég munkaerő",
+   "lead": "Egy japán állásoldal hirdetéseiben októberben 1394 jen volt az átlagos részmunkaidős órabér, ennyi még sosem volt. A szállításban, a takarításban és a csomagolásban egy év alatt 12 százalékkal nőttek az órabérek. Közben a japán minimálbér is emelkedett.",
+   "hu": "Ha raktárban, takarításban vagy csomagolásban dolgozol, a japán példa mutatja, hogy ahol kevés a jelentkező, ott a bérek is gyorsabban nőnek. Nézd meg a friss hirdetésekben, mennyit kínálnak most a te munkakörödre, és ezzel érvelj a következő bértárgyaláson.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
   {
    "id": "2026-11-18-nemet-foglalkoztatas-harmadik-negyedev-csokkenes",
    "day": "2026-11-19",
@@ -11,7 +132,6 @@
    "topic": "Munkaerőpiaci adatok",
    "hu_score": 3,
    "icon": "factory",
-   "featured": true,
    "title": "Németországban egy év alatt 222 ezerrel kevesebben dolgoznak, főleg az iparban",
    "lead": "A német statisztikai hivatal előzetes adatai szerint a harmadik negyedévben 45,7 millióan dolgoztak az országban. Ez 222 ezerrel kevesebb, mint egy éve, és a legtöbb munkahely, 164 ezer, az iparban szűnt meg. Közben az egészségügyben, az oktatásban és a közszférában 172 ezerrel többen dolgoznak.",
    "hu": "Ha Németországban dolgozol gyárban vagy beszállítónál, vagy oda készülsz, az iparban most szűkebb a kínálat, az ápolásban és az oktatásban viszont bővül. Nézd meg, melyik tapasztalatod vihető át egy keresettebb ágazatba, és állíts be állásértesítőt ezekre.",
