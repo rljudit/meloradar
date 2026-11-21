@@ -1,6 +1,145 @@
 {
- "updated": "2026-11-20T07:03",
+ "updated": "2026-11-21T07:01",
  "articles": [
+  {
+   "id": "2026-11-20-uk-eu-fiatal-munkavallalas-31-ev-alatt",
+   "day": "2026-11-21",
+   "published": "2026-11-20",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/youth-mobility-scheme-for-100000-under-31s-confirmed/",
+   "region": "Egyesült Királyság",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "plane",
+   "featured": true,
+   "title": "31 év alatt újra könnyebb lehet Angliában dolgozni: 100 ezer helyet nyit egy új program",
+   "lead": "Az Egyesült Királyság és az EU megállapodott egy ifjúsági mobilitási programról a 31 év alattiaknak. Mindkét oldalról 100 ezer fiatal mehet a másikhoz dolgozni, tanulni vagy önkénteskedni, akár három évre. A program legkésőbb 2028-tól indulhat, a díjak és a jelentkezés menete még nem ismert.",
+   "hu": "Ha 31 év alatti vagy, és mindig is kipróbáltad volna magad Londonban vagy egy brit kisvárosban, néhány éven belül újra egyszerűbb lehet kijutnod. Addig is frissítsd az angol nyelvű önéletrajzod, és nézd meg, mennyit keresnek kint a te szakmádban.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-19-munkaltatok-mi-gyanu-valodi-jelentkezok",
+   "day": "2026-11-21",
+   "published": "2026-11-19",
+   "source": "HR Dive (Greenhouse-felmérés)",
+   "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+   "region": "Globális",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "search",
+   "stat": {
+    "value": "90 százalék",
+    "label": "az amerikai munkáltatók közül ennyien tartják lehetségesnek, hogy valódi jelentkezőt utasítottak el, mert MI-vel írtnak tűnt"
+   },
+   "title": "Tízből kilenc toborzó tarthatta már gépinek egy valódi jelölt jelentkezését",
+   "lead": "Egy toborzószoftver-cég öt ország közel 1350 toborzóját és vezetőjét kérdezte meg. Az amerikaiak 90 százaléka szerint előfordulhatott, hogy valódi jelöltet szórtak ki, mert a jelentkezése mesterségesnek tűnt. A legtöbb cég ezért plusz személyes interjút tett be, így lassabb lett a felvételi folyamat.",
+   "hu": "Ha MI-vel csiszolod az önéletrajzod, könnyen túl simára és személytelenre sikerülhet, és ez most inkább gyanút kelt. Írj bele konkrét saját eredményeket és számokat, és csak olyan készséget tüntess fel, amiről az interjún is tudsz mesélni.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/a-motivacios-level-titkai"
+   ]
+  },
+  {
+   "id": "2026-11-20-brit-munkahelyi-stressz-hse",
+   "day": "2026-11-21",
+   "published": "2026-11-20",
+   "source": "Personnel Today (HSE-statisztika)",
+   "url": "https://www.personneltoday.com/hr/stress-and-anxiety-drive-half-of-work-related-ill-health-hse-workplace-statistics-2025-2026/",
+   "region": "Egyesült Királyság",
+   "topic": "Munkahelyi élet",
+   "hu_score": 2,
+   "icon": "battery_low",
+   "stat": {
+    "value": "891 000",
+    "label": "brit dolgozó küzdött munkával összefüggő stresszel, depresszióval vagy szorongással a 2025/26-os évben"
+   },
+   "title": "Nagy-Britanniában a munka miatti betegségek felét a stressz és a szorongás okozza",
+   "lead": "A brit munkavédelmi hivatal friss adatai szerint 1,8 millió dolgozó betegedett meg a munkája miatt. Közel felüknél stressz, depresszió vagy szorongás volt a gond. Ez egymagában 18,2 millió kiesett munkanapot jelentett.",
+   "hu": "Ha esténként is a munkán pörögsz, és hétfőn már fáradtan ébredsz, nem vagy egyedül, és ezt érdemes időben komolyan venned. Írd össze, mi terhel a legjobban, és kérj egy rövid beszélgetést a vezetőddel a prioritásokról.",
+   "related": [
+    "https://www.profession.hu/cikk/mindig-elerheto-vagy-igy-tunik-el-a-szabadidod",
+    "https://www.profession.hu/cikk/nem-a-fizetes-miatt-szenvednek-leginkabb-a-magyar-dolgozok-ez-a-harom-dolog-keseriti-meg-a-mindennapjaikat"
+   ]
+  },
+  {
+   "id": "2026-11-19-commerzbank-unicredit-koltsegcsokkentes",
+   "day": "2026-11-21",
+   "published": "2026-11-19",
+   "source": "Reuters (KFGO)",
+   "url": "https://kfgo.com/2026/11/19/commerzbank-job-cuts-will-start-from-the-top-and-hvb-can-help-unicredit-ceo-says/",
+   "region": "Németország",
+   "topic": "Állások és toborzás",
+   "hu_score": 3,
+   "icon": "credit-card",
+   "title": "A Commerzbanknál 1,4 milliárd eurós átszervezés jön, a vezetői szinteknél kezdik",
+   "lead": "Az olasz UniCredit átveszi az irányítást Németország második legnagyobb bankja felett, és 1,4 milliárd eurós költségcsökkentést tervez. A megtakarítás 40 százaléka nem a dolgozókat érinti. A vezérigazgató szerint a felső szinteken kezdenék, és laposabb szervezetet építenének.",
+   "hu": "Ha bankban vagy pénzügyi szolgáltatóközpontban dolgozol, egy ilyen nagy összeolvadás a csoport más országaiban is átszervezést hozhat. Gondold végig, mely feladataidban vagy nehezen pótolható, és tartsd naprakészen az önéletrajzod.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban"
+   ]
+  },
+  {
+   "id": "2026-11-19-eu-mi-keszsegek-oktatasi-miniszterek",
+   "day": "2026-11-21",
+   "published": "2026-11-19",
+   "source": "EU Perspectives",
+   "url": "https://euperspectives.eu/2026/11/from-classrooms-to-workplaces-eu-ministers-push-for-ai-skills-across-generations/",
+   "region": "Európa",
+   "topic": "Karrier és tanulás",
+   "hu_score": 3,
+   "icon": "graduation",
+   "title": "Uniós MI-tanúsítvány jöhet: az EU a dolgozóknak is MI-képzést szorgalmaz",
+   "lead": "Az uniós oktatási miniszterek közös állásfoglalást fogadtak el az MI-készségekről. Azt kérik, hogy az iskolákban és a felnőttképzésben is tanítsák az MI használatát, a dolgozóknak pedig legyenek új tanfolyamok. Egy uniós MI-tanúsítványt a 2027/28-as tanévben próbálnak ki.",
+   "hu": "Ha még csak próbálgatod az MI-eszközöket, jó hír, hogy egyre több hivatalos, elismert képzés jöhet, ami a CV-dben is mutat. Nézd meg, a munkahelyed vagy egy közeli egyetem indít-e már MI-tanfolyamot dolgozóknak.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz"
+   ]
+  },
+  {
+   "id": "2026-11-20-usa-tavkozlesi-technikusok-hiany",
+   "day": "2026-11-21",
+   "published": "2026-11-20",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/20/att-ceo-john-stankey-telecomm-fiber-technican-job-shortage-near-six-figure-opportunity-no-degree-required-ai-data-center-boom/",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "factory",
+   "title": "Diploma nélkül, pár hét képzéssel: 200 ezer távközlési technikus hiányzik az USA-ban",
+   "lead": "Az AT&T vezérigazgatója szerint a távközlési ágazatnak 2032-ig közel 200 ezer új technikusra és építőmunkásra lesz szüksége. Az adatközpontok és az optikai hálózatok építése miatt nő a kereslet. A betanítás négy-öt hét, diploma nem kell hozzá.",
+   "hu": "Ha pályaváltáson gondolkodsz, a hálózatépítés és a technikusi munka olyan terület, amit az MI nehezen vesz át. Nézd meg, itthon milyen rövid szakmai képzések indulnak villanyszerelő vagy hálózati technikus irányban.",
+   "related": [
+    "https://www.profession.hu/cikk/minden-masodik-munkavallalo-valtott-mar-palyat-es-tobb-mint-a-feluk-maradt-volna-magasabb-fizetesert",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-20-usa-dolgozok-minimum-erofeszites-fizetes",
+   "day": "2026-11-21",
+   "published": "2026-11-20",
+   "source": "PR Newswire (MyPerfectResume-felmérés)",
+   "url": "https://www.prnewswire.com/news-releases/78-of-workers-have-done-only-the-minimum-required-to-keep-their-job-302947228.html",
+   "region": "USA",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 2,
+   "icon": "coins",
+   "stat": {
+    "value": "78 százalék",
+    "label": "az amerikai dolgozók közül ennyien csináltak már szándékosan csak annyit, amennyi az állásuk megtartásához kell"
+   },
+   "title": "Tízből nyolc dolgozó csinált már csak annyit, amennyiért fizetik",
+   "lead": "Egy önéletrajzíró szolgáltatás idén júliusban ezer amerikai dolgozót kérdezett meg. 78 százalékuk tudatosan csak a minimumot teljesítette már legalább egyszer. A legtöbben azért, mert úgy érezték, a fizetésük nincs arányban az elvárásokkal.",
+   "hu": "Ha te is egyre több plusz feladatot kapsz ugyanazért a pénzért, a csendes visszavonulásnál többet ér, ha ezt szóvá teszed. Írd össze, milyen feladatokat végzel a munkaköri leírásodon túl, és ezzel menj a következő bértárgyalásra.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
   {
    "id": "2026-11-18-osztrak-vasut-385-oras-munkahet",
    "day": "2026-11-20",
@@ -11,7 +150,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "clock",
-   "featured": true,
    "title": "Ausztriában 55 ezer vasutas munkahete 38,5 órára rövidül 2027-től",
    "lead": "Az osztrák vasúttársaságok és a szakszervezet két évre szóló megállapodást kötöttek, ez nagyjából 55 ezer dolgozót érint. 2027 szeptemberétől mindenhol heti 38,5 óra lesz a munkaidő, ott is, ahol most még 40 órát dolgoznak. A bérek nagyjából az inflációval együtt emelkednek.",
    "hu": "Ha Ausztriában dolgozol a közlekedésben, vagy oda jelentkeznél, jövőtől rövidebb lehet a munkahéted. Az interjún kérdezz rá, melyik kollektív szerződés vonatkozik rád, és hány óra a heti munkaidő.",
