@@ -1,6 +1,149 @@
 {
- "updated": "2026-11-21T07:01",
+ "updated": "2026-11-22T07:05",
  "articles": [
+  {
+   "id": "2026-11-20-eu-berszakadek-111-szazalek-bertranszparencia",
+   "day": "2026-11-22",
+   "published": "2026-11-20",
+   "source": "Handelsblatt (dpa)",
+   "url": "https://www.handelsblatt.com/politik/deutschland/gehalt-und-gleichheit-eu-ab-jetzt-arbeiten-frauen-symbolisch-kostenlos/100271410.html",
+   "region": "Európa",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 3,
+   "icon": "scale",
+   "featured": true,
+   "title": "11,1 százalékkal kevesebb órabér: az EU-ban a nők jelképesen ingyen dolgoznak az év végéig",
+   "lead": "November 20. volt az európai egyenlő bérek napja. Az EU-ban a férfiak bruttó órabére átlagosan 11,1 százalékkal magasabb, mint a nőké. A bértranszparencia-irányelvet június 7-ig kellett volna átültetni a tagállamoknak, de több ország, köztük Németország, még nem végzett vele.",
+   "hu": "Ha nő vagy, és sosem tudtad pontosan, mennyit keresnek a kollégáid ugyanabban a munkakörben, az uniós szabály ezen változtathat. Nézz utána, milyen bérsáv jellemző a munkakörödre, és ezzel a tudással menj a következő bérbeszélgetésre.",
+   "related": [
+    "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes",
+    "https://www.profession.hu/cikk/jonnek-az-atlathato-fizetesek-mit-jelent-ez-a-gyakorlatban"
+   ]
+  },
+  {
+   "id": "2026-11-21-nemet-autoipar-haztarifa-beremeles-nelkul",
+   "day": "2026-11-22",
+   "published": "2026-11-21",
+   "source": "ad-hoc-news.de",
+   "url": "https://www.ad-hoc-news.de/wirtschaft/vw-haustarifrunde-konzern-will-35-stunden-woche-ohne-lohnausgleich-flexibilisieren/70541336",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "car",
+   "stat": {
+    "value": "130 000",
+    "label": "német autóipari dolgozót érint a Volkswagen november 24-én induló házi bértárgyalása"
+   },
+   "title": "A német autóiparban két béremelés nélküli évről is tárgyalnak: 130 ezer dolgozót érint",
+   "lead": "A Volkswagen a kilenc német telephelyére érvényes saját bérmegállapodásában 2027-re és 2028-ra nem tervez béremelést. A cég a 35 órás hét rugalmasabbá tételét is javasolja. Indoklása a vámok, a szűkülő kínai piac és az erősebb európai verseny, a tárgyalások november 24-én kezdődnek.",
+   "hu": "Ha autógyárban vagy beszállítónál dolgozol, a német tárgyalások iránya itthon is jelezheti, mire számíthatsz a jövő évi béremelésnél. Nézd meg, a te munkáltatódnál mikor jön a bérmegállapodás, és frissítsd az önéletrajzod a friss szakmai eredményeiddel.",
+   "related": [
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek",
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-21-ausztria-home-office-tamogatas-megszunik-2027",
+   "day": "2026-11-22",
+   "published": "2026-11-21",
+   "source": "heute.at",
+   "url": "https://www.heute.at/s/arbeitest-du-ab-jaenner-so-bekommst-du-300-euro-weniger-120285097",
+   "region": "Ausztria",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "home",
+   "title": "Ausztriában januártól megszűnik az adómentes home office-pénz: évi 300 euró eshet ki",
+   "lead": "2027. január 1-jétől Ausztriában megszűnik az adómentes home office-támogatás. Eddig a munkáltató otthoni munkanaponként 3 eurót, évente legfeljebb 300 eurót fizethetett adómentesen. Az ergonomikus otthoni bútorok, például az íróasztal és a szék költsége továbbra is leírható.",
+   "hu": "Ha osztrák munkáltatónak dolgozol részben otthonról, jövőre kicsit kevesebb maradhat a zsebedben. Nézd meg a bérpapírodon, kaptál-e eddig ilyen támogatást, és kérdezd meg a bérszámfejtést, mi változik nálad januártól.",
+   "related": [
+    "https://www.profession.hu/cikk/mennyibe-kerul-bejarni-dolgozni-segitunk-kiszamolni",
+    "https://www.profession.hu/cikk/home-office-allast-keresel-minden-tizedik-allashirdetes-kinalja-ezt-a-lehetoseget"
+   ]
+  },
+  {
+   "id": "2026-11-20-mi-kepzes-vezetok-kezdok-kozti-kulonbseg",
+   "day": "2026-11-22",
+   "published": "2026-11-20",
+   "source": "HR Dive (Marsh-felmérés)",
+   "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+   "region": "Globális",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "graduation",
+   "stat": {
+    "value": "20 százalék",
+    "label": "az órabéres dolgozók közül ennyien kaptak MI-képzést az elmúlt évben, a vezetőknél ez 78 százalék"
+   },
+   "title": "A vezetők 78, a pályakezdők csak 32 százaléka kapott MI-képzést tavaly",
+   "lead": "Egy 10 országban 6700 dolgozót megkérdező felmérés szerint az MI-képzés főleg a vezetőkhöz jut el. A pályakezdőknek csak a 32, az órabéreseknek a 20 százaléka kapott ilyet. A dolgozók 71 százaléka próbálta már az MI-t, de csak 37 százalékuk használja rendszeresen.",
+   "hu": "Ha pályakezdő vagy, vagy nem irodában dolgozol, könnyen kimaradhatsz az MI-képzésekből, pedig ez a tudás egyre többet ér. Kérdezd meg a vezetődet, van-e cégen belüli tanfolyam, és közben gyakorolj egy ingyenes eszközzel a saját feladataidon.",
+   "related": [
+    "https://www.profession.hu/cikk/szeptemberi-karrier-glow-up-4-apro-valtoztatas-amitol-elorebb-juthatsz",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-21-z-generacio-mi-keszsegek-erdektelenseg",
+   "day": "2026-11-22",
+   "published": "2026-11-21",
+   "source": "Fortune (Seramount-felmérés)",
+   "url": "https://fortune.com/2026/11/21/gen-z-workers-ai-skills-seramount-survey/",
+   "region": "USA",
+   "topic": "MI és a munkád",
+   "hu_score": 2,
+   "icon": "bot",
+   "stat": {
+    "value": "18 százalék",
+    "label": "a 29 év alatti amerikai irodai dolgozók közül ennyien szeretnék fejleszteni az MI-tudásukat"
+   },
+   "title": "A Z generációnak csak 18 százaléka akar MI-t tanulni, kevesebb, mint a szüleiknek",
+   "lead": "Egy több mint 1800 amerikai irodai dolgozót megkérdező felmérés szerint a 29 év alattiak a legkevésbé lelkesek az MI-tanulásért. Közülük csak 18 százalék fejlesztené ezt a tudását, az X generációnál 46 százalék. A fiatalok azt is kevésbé vállalják fel, ha MI-vel dolgoztak.",
+   "hu": "Ha 20-as éveidben jársz, és tartasz tőle, hogy az MI miatt kevesebbnek néznek, tudd, hogy a cégek egyre inkább épp ezt keresik. Írd bele az önéletrajzodba, milyen feladatot oldottál meg MI-vel, és mit tettél hozzá te.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/a-z-generacio-digitalis-tudasat-elismerik-a-munkahoz-valo-hozzaallasukat-vitatjak-az-idosebbek"
+   ]
+  },
+  {
+   "id": "2026-11-20-fejlodesi-lehetoseg-jelentkezes-felmondas-oka",
+   "day": "2026-11-22",
+   "published": "2026-11-20",
+   "source": "HR Dive (McLean & Co.)",
+   "url": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "trending-up",
+   "title": "Nem csak a pénz számít: a fejlődési lehetőség miatt jelentkeznek és mennek el a legtöbben",
+   "lead": "Egy észak-amerikai tanácsadó cég felmérései szerint az új belépők 52,5 százaléka a karrierlehetőség miatt jelentkezett. Az önként távozók 43,4 százaléka a szűk fejlődési lehetőséget nevezte meg okként. A fizetést csak 37,3 százalékuk említette.",
+   "hu": "Ha állást keresel, a fejlődési lehetőség legalább annyit ér, mint egy kicsivel magasabb induló bér. Az interjún kérdezd meg, hogyan néz ki egy előrelépés az adott csapatban, és ki kapott legutóbb ilyet.",
+   "related": [
+    "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai",
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot"
+   ]
+  },
+  {
+   "id": "2026-11-20-hosszu-probafeladat-jelentkezok-feladjak",
+   "day": "2026-11-22",
+   "published": "2026-11-20",
+   "source": "CPA Practice Advisor (MyPerfectResume-felmérés)",
+   "url": "https://www.cpapracticeadvisor.com/2026/11/20/long-hiring-tests-cause-67-of-applicants-to-give-up/194462/",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "file-text",
+   "stat": {
+    "value": "67 százalék",
+    "label": "a megkérdezett álláskeresők közül ennyien hagytak már félbe jelentkezést egy túl hosszú próbafeladat miatt"
+   },
+   "title": "Tízből majdnem hét jelentkező félbehagyott már egy állást a túl hosszú próbafeladat miatt",
+   "lead": "Egy önéletrajz-szolgáltató felmérése szerint a jelentkezők 67 százaléka adott már fel jelentkezést egy hosszú teszt miatt. 40 százalékuktól kértek már fizetetlen munkát a felvételi folyamatban. 63 százalékuk szerint az MI-vel írt jelentkezések óta többet kérnek a cégek.",
+   "hu": "Ha egyre több próbafeladatot kapsz, nem vagy egyedül, és jogos megkérdezni, mennyi időre számítsanak tőled. Mielőtt nekiállsz, kérdezz rá a terjedelemre és a határidőre, és csak akkora munkát vállalj, ami belefér az életedbe.",
+   "related": [
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig",
+    "https://www.profession.hu/cikk/allasinterju-kisokos-1"
+   ]
+  },
   {
    "id": "2026-11-20-uk-eu-fiatal-munkavallalas-31-ev-alatt",
    "day": "2026-11-21",
@@ -11,7 +154,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "plane",
-   "featured": true,
    "title": "31 év alatt újra könnyebb lehet Angliában dolgozni: 100 ezer helyet nyit egy új program",
    "lead": "Az Egyesült Királyság és az EU megállapodott egy ifjúsági mobilitási programról a 31 év alattiaknak. Mindkét oldalról 100 ezer fiatal mehet a másikhoz dolgozni, tanulni vagy önkénteskedni, akár három évre. A program legkésőbb 2028-tól indulhat, a díjak és a jelentkezés menete még nem ismert.",
    "hu": "Ha 31 év alatti vagy, és mindig is kipróbáltad volna magad Londonban vagy egy brit kisvárosban, néhány éven belül újra egyszerűbb lehet kijutnod. Addig is frissítsd az angol nyelvű önéletrajzod, és nézd meg, mennyit keresnek kint a te szakmádban.",
