@@ -11,7 +11,6 @@
    "topic": "Fizetés és juttatások",
    "hu_score": 3,
    "icon": "laptop",
-   "featured": true,
    "title": "1,5 vagy 3,9 százalék? Elakadt a béralku 90 ezer osztrák IT-s dolgozónál",
    "lead": "Ausztriában a harmadik fordulóban sem született megállapodás az IT-ágazat kollektív szerződéséről, amely mintegy 90 ezer dolgozót érint. A munkáltatók 1,5 százalékos emelést ajánlanak a tényleges bérekre, a szakszervezet 3,9 százalékot kér. A tárgyalás december 3-án folytatódik.",
    "hu": "Ha Ausztriában dolgozol IT-sként, vagy kint keresnél munkát, a megállapodás szabja meg, mennyivel nő jövőre a minimális és a tényleges béred. Nézd meg a szerződésedben, melyik kollektív szerződés vonatkozik rád, és kövesd, mi lesz a decemberi forduló eredménye.",
@@ -98,7 +97,8 @@
    "related": [
     "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
     "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "2026-11-23-cegek-atkepzes-tanulasi-hajlandosag",
@@ -120,28 +120,6 @@
    "related": [
     "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
     "https://www.profession.hu/cikk/oneletrajz-1x1"
-   ]
-  },
-  {
-   "kind": "trend",
-   "id": "2026-11-23-trend-job-hugging-monster-2026",
-   "day": "2026-11-24",
-   "published": "2026-11-23",
-   "source": "PR Newswire (Monster-felmérés)",
-   "url": "https://www.prnewswire.com/news-releases/nearly-9-in-10-workers-have-job-hugged-and-48-are-doing-it-now-302947113.html",
-   "region": "USA",
-   "topic": "Karrier és tanulás",
-   "hu_score": 2,
-   "icon": "anchor",
-   "term": "Job hugging",
-   "term_hu": "ragaszkodás az álláshoz",
-   "title": "Új felmérés: már majdnem minden második dolgozó kapaszkodik a mostani állásába",
-   "what": "Akkor sem váltasz, ha már nem igazán vagy elégedett, mert a biztonság most fontosabb. Inkább kivárod, hogy jobb idők jöjjenek.",
-   "data": "Egy friss felmérésben tízből majdnem kilenc dolgozó ragaszkodott már az állásához, és 48 százalék most is ezt teszi. A válaszadók közel harmada szerint ez visszafogja a fejlődését, egy éve még 27 százalék gondolta így (Monster, 1005 amerikai dolgozó, 2026. szeptember).",
-   "hu": "Ha te is maradsz, mert most nem tűnik jó időnek a váltás, ez érthető döntés. Közben beszélj a vezetőddel arról, hogyan fejlődhetnél a mostani helyeden, és tartsd naprakészen az önéletrajzodat.",
-   "related": [
-    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot",
-    "https://www.profession.hu/cikk/rossz-erzesed-van-egy-allassal-kapcsolatban-nem-mindegy-hogy-megerzes-vagy-felelem"
    ]
   },
   {
