@@ -1,6 +1,149 @@
 {
- "updated": "2026-11-23T07:11",
+ "updated": "2026-11-24T07:00",
  "articles": [
+  {
+   "id": "2026-11-23-osztrak-it-kollektiv-szerzodes-bertargyalas",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "ORF",
+   "url": "https://orf.at/stories/3449053",
+   "region": "Ausztria",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "laptop",
+   "featured": true,
+   "title": "1,5 vagy 3,9 százalék? Elakadt a béralku 90 ezer osztrák IT-s dolgozónál",
+   "lead": "Ausztriában a harmadik fordulóban sem született megállapodás az IT-ágazat kollektív szerződéséről, amely mintegy 90 ezer dolgozót érint. A munkáltatók 1,5 százalékos emelést ajánlanak a tényleges bérekre, a szakszervezet 3,9 százalékot kér. A tárgyalás december 3-án folytatódik.",
+   "hu": "Ha Ausztriában dolgozol IT-sként, vagy kint keresnél munkát, a megállapodás szabja meg, mennyivel nő jövőre a minimális és a tényleges béred. Nézd meg a szerződésedben, melyik kollektív szerződés vonatkozik rád, és kövesd, mi lesz a decemberi forduló eredménye.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
+  {
+   "id": "2026-11-23-uk-karacsonyi-felvetelek-elmaradnak",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "Personnel Today (REC–Lightcast-adatok)",
+   "url": "https://www.personneltoday.com/hr/christmas-hiring-boost-fails-to-materialise-rec-lightcast-labour-market-tracker-october-2026/",
+   "region": "Egyesült Királyság",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "trending-down",
+   "stat": {
+    "value": "−9,1 százalék",
+    "label": "ennyivel kevesebb új álláshirdetés jelent meg októberben az Egyesült Királyságban, mint szeptemberben"
+   },
+   "title": "Idén elmarad a karácsonyi felvételi hullám Nagy-Britanniában: kevesebb a szezonmunka",
+   "lead": "Októberben 9,1 százalékkal kevesebb új álláshirdetés jelent meg a brit piacon, mint egy hónappal korábban. A vendéglátásban minden szakmában csökkent a kereslet. Az egészségügyben viszont több gyermekápolót és betegkísérőt keresnek, mint szeptemberben.",
+   "hu": "Ha a téli szezonra brit vendéglátós vagy bolti munkát terveztél, idén nehezebb dolgod lehet, főleg kevés tapasztalattal. Nézd meg a friss hirdetéseket az egészségügyi és gondozói területen is, és ehhez igazítsd az önéletrajzodat.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/egyszerusitett-foglalkoztatas-2026-minden-fontos-szabaly-egy-helyen"
+   ]
+  },
+  {
+   "id": "2026-11-23-uk-munkaugyi-birosag-bonusz-megbeszelese",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "Personnel Today",
+   "url": "https://www.personneltoday.com/hr/care-worker-wins-30k-after-disciplinary-for-discussing-christmas-bonus/",
+   "region": "Egyesült Királyság",
+   "topic": "Jogaid és szabályok",
+   "hu_score": 2,
+   "icon": "scale",
+   "title": "Szabad beszélni a bónuszodról? Brit bíróság szerint igen, és ez a te jogod is lehet",
+   "lead": "Egy brit munkaügyi bíróság jogellenesnek ítélte egy gondozó elbocsátását, aki a kollégáival a karácsonyi bónuszáról beszélgetett. A bíróság szerint nem volt ilyen tilalom, és egy ilyen utasítás amúgy is észszerűtlen lenne. A dolgozó összesen 29 628 font kártérítést kapott.",
+   "hu": "Ha nem mered megkérdezni a kollégáidat, mennyit keresnek, jó tudni, hogy az uniós bértranszparencia-szabályok is a fizetésről való nyílt beszélgetés felé mutatnak. Nézd meg, mit ír erről a munkaszerződésed, és tájékozódj, milyen jogaid lesznek az új szabályok szerint.",
+   "related": [
+    "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes",
+    "https://www.profession.hu/cikk/jonnek-az-atlathato-fizetesek-mit-jelent-ez-a-gyakorlatban"
+   ]
+  },
+  {
+   "id": "2026-11-23-dan-munkaeropiac-novekszik-allashirdetesek",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "The Local Denmark (Ritzau)",
+   "url": "https://www.thelocal.dk/20261123/new-figures-show-danish-labour-market-growing-despite-global-economic-concerns",
+   "region": "Dánia",
+   "topic": "Munka külföldön",
+   "hu_score": 2,
+   "icon": "trending-up",
+   "stat": {
+    "value": "+27 100",
+    "label": "ennyivel többen dolgoznak Dániában, mint egy éve, a szeptemberi adatok szerint"
+   },
+   "title": "Dániában nő a foglalkoztatás, és 2022 eleje óta nem volt ennyi álláshirdetés",
+   "lead": "Szeptemberben 2900-zal nőtt a dolgozók száma Dániában, így már majdnem 3,1 millióan dolgoznak. A növekedést a magánszektor hajtja. Az állami állásportálon 2022 eleje óta nem volt ennyi hirdetés, és több cég nehezen talál embert.",
+   "hu": "Ha külföldi munkán gondolkodsz, Dánia most bővülő piac, ahol uniós állampolgárként külön engedély nélkül vállalhatsz munkát. Nézd meg, a szakmádban keresnek-e embert, és készíts angol nyelvű önéletrajzot.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
+  {
+   "id": "2026-11-23-nemet-ipar-ujra-vesz-fel-pmi",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "Life in Germany (S&P Global PMI)",
+   "url": "https://en.life-in-germany.de/jobs-and-work-briefing-germany-november-23-2026/",
+   "region": "Németország",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 3,
+   "icon": "factory",
+   "title": "2023 óta először bővíti a létszámot a német ipar, a szolgáltatók viszont leépítenek",
+   "lead": "Egy havi beszerzésimenedzser-felmérés szerint a német gazdaság novemberben 56 hónapja nem látott ütemben bővült. Az ipari cégek 2023 közepe óta először növelték a létszámot, a szolgáltatók viszont csökkentették. A fém- és elektromos iparban közben béralku zajlik: a szakszervezet 5 százalékot kér, a munkáltatók 1,3 százalékot ajánlanak 2028-ra.",
+   "hu": "Ha német autóipari beszállítónál vagy gyárban dolgozol, itthon vagy kint, ez az első jel, hogy az ipari létszámleépítések lassulhatnak. Kövesd a béralku kimenetelét, és frissítsd az önéletrajzodat, ha váltani szeretnél.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+   ]
+  },
+  {
+   "id": "2026-11-23-cegek-atkepzes-tanulasi-hajlandosag",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "PR Newswire (Express Employment–Harris Poll-felmérés)",
+   "url": "https://www.prnewswire.com/news-releases/76-of-us-companies-plan-to-reskill-employees-up-from-64-a-year-ago-302946271.html",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "graduation",
+   "stat": {
+    "value": "92 százalék",
+    "label": "az amerikai felvételi döntéshozók közül ennyien tartják fontosnak, hogy a jelentkező hajlandó legyen tanulni"
+   },
+   "title": "Tízből kilenc toborzó azt figyeli, mennyire vagy hajlandó tanulni",
+   "lead": "Egy idei, több mint ezer amerikai felvételi döntéshozót megkérdező felmérésben 76 százalék tervezi a dolgozói átképzését, egy éve még 64 százalék. Tízből majdnem kilencen inkább a meglévő kollégát képeznék át, mint hogy újat vegyenek fel. A tanulási hajlandóságot 92 százalék tartja fontosnak a jelentkezőknél.",
+   "hu": "Ha új szerepbe vágynál, lehet, hogy nem kell céget váltanod: sok munkáltató inkább a saját emberét tanítja be. Kérdezd meg a vezetődet, milyen képzést kaphatsz, és az önéletrajzodba írd be, mit tanultál meg az elmúlt évben.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-23-trend-job-hugging-monster-2026",
+   "day": "2026-11-24",
+   "published": "2026-11-23",
+   "source": "PR Newswire (Monster-felmérés)",
+   "url": "https://www.prnewswire.com/news-releases/nearly-9-in-10-workers-have-job-hugged-and-48-are-doing-it-now-302947113.html",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "anchor",
+   "term": "Job hugging",
+   "term_hu": "ragaszkodás az álláshoz",
+   "title": "Új felmérés: már majdnem minden második dolgozó kapaszkodik a mostani állásába",
+   "what": "Akkor sem váltasz, ha már nem igazán vagy elégedett, mert a biztonság most fontosabb. Inkább kivárod, hogy jobb idők jöjjenek.",
+   "data": "Egy friss felmérésben tízből majdnem kilenc dolgozó ragaszkodott már az állásához, és 48 százalék most is ezt teszi. A válaszadók közel harmada szerint ez visszafogja a fejlődését, egy éve még 27 százalék gondolta így (Monster, 1005 amerikai dolgozó, 2026. szeptember).",
+   "hu": "Ha te is maradsz, mert most nem tűnik jó időnek a váltás, ez érthető döntés. Közben beszélj a vezetőddel arról, hogyan fejlődhetnél a mostani helyeden, és tartsd naprakészen az önéletrajzodat.",
+   "related": [
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot",
+    "https://www.profession.hu/cikk/rossz-erzesed-van-egy-allassal-kapcsolatban-nem-mindegy-hogy-megerzes-vagy-felelem"
+   ]
+  },
   {
    "id": "2026-11-21-nemetorszag-350-ezer-betoltetlen-allas-kulfoldi-toborzas",
    "day": "2026-11-23",
@@ -11,7 +154,6 @@
    "topic": "Munka külföldön",
    "hu_score": 3,
    "icon": "plane",
-   "featured": true,
    "title": "350 ezer állás vár gazdára Németországban: a cégek egyre inkább külföldön toboroznak",
    "lead": "Egy német gazdaságkutató intézet szakértője szerint Németországban mintegy 350 ezer állás betöltetlen. A legnagyobb a hiány a kézműiparban, az építőiparban, valamint az egészségügyben és az ápolásban. A cégek ezért egyre több programmal toboroznak külföldről, például szakmunkástanulókat és gyakornokokat.",
    "hu": "Ha szakmunkás vagy, az építőiparban dolgozol vagy ápolóként, a német munkaerőpiac most kifejezetten keres téged. Nézz utána, elismerik-e Németországban a végzettségedet, és frissítsd az önéletrajzod a gyakorlati tapasztalataiddal.",
