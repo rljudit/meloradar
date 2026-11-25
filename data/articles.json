@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-24T07:00",
+ "updated": "2026-11-25T07:05",
  "articles": [
+  {
+   "id": "2026-11-24-eu-foglalkoztatasi-jelentes-rekord-mi-kepzes",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "Európai Bizottság (Mirage News)",
+   "url": "https://www.miragenews.com/eu-unveils-2027-european-semester-autumn-package-1782945/",
+   "region": "Európa",
+   "topic": "Munkaerőpiaci adatok",
+   "hu_score": 3,
+   "icon": "chart",
+   "featured": true,
+   "title": "Soha ennyien nem dolgoztak az EU-ban, de az MI-t használók közül kevesen kaptak képzést",
+   "lead": "Az Európai Bizottság friss foglalkoztatási jelentése szerint az EU-ban a 20–64 évesek 76,4 százaléka dolgozott 2026 második negyedévében, ez rekord. Az új munkahelyek száma viszont lassabban nő, főleg az iparban. Egy 11 országos felmérésben a munkájuk során MI-t használók 42 százaléka érzi, hogy hiányzik a tudása, de csak 15 százalékuk kapott képzést.",
+   "hu": "Ha gyárban vagy irodában dolgozol, és már te is használsz MI-eszközöket, jó eséllyel a tudásod a munkád egyre fontosabb része lesz. Kérdezd meg a vezetődet, van-e erre képzés a cégnél, és írd be az önéletrajzodba, mire használod már most az MI-t.",
+   "related": [
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk"
+   ]
+  },
+  {
+   "id": "2026-11-24-ausztria-kulfoldi-dolgozok-kereset-statistik-austria",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "The Local Austria (Statistik Austria-adatok)",
+   "url": "https://www.thelocal.at/20261124/how-much-do-foreigners-from-different-countries-earn-in-austria",
+   "region": "Ausztria",
+   "topic": "Munka külföldön",
+   "hu_score": 3,
+   "icon": "coins",
+   "stat": {
+    "value": "28 993 euró",
+    "label": "volt 2024-ben a magyarokat is magában foglaló, 2004-ben csatlakozott országokból érkezők nettó éves mediánkeresete Ausztriában"
+   },
+   "title": "Évente majdnem 7000 euróval kevesebbet visznek haza a magyarok Ausztriában, mint az osztrákok",
+   "lead": "A Statistik Austria adatai szerint 2024-ben az osztrák állampolgárok nettó éves mediánkeresete 35 968 euró volt. A 2004-ben csatlakozott országokból, köztük Magyarországról érkezők 28 993 eurót kerestek. A külföldön születettek 23 százaléka alacsony bérű, az Ausztriában születetteknél ez 9 százalék.",
+   "hu": "Ha Ausztriában dolgozol vagy kint keresel munkát, ezek a számok jó viszonyítási pontot adnak a bérigényedhez. Nézd meg, melyik kollektív szerződés vonatkozik a munkakörödre, és a bértárgyalásra ezzel a tudással készülj.",
+   "related": [
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+    "https://www.profession.hu/cikk/oneletrajz-1x1"
+   ]
+  },
+  {
+   "id": "2026-11-25-nemet-fem-elektroipar-bertargyalas-mannheim",
+   "day": "2026-11-25",
+   "published": "2026-11-25",
+   "source": "Handelsblatt",
+   "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-verhandler-unter-druck-klappt-pilotabschluss-in-mannheim/100272546.html",
+   "region": "Németország",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 3,
+   "icon": "factory",
+   "title": "5 vagy 1,3 százalék? Szerdán dőlhet el 3,7 millió német ipari dolgozó béremelése",
+   "lead": "A német fém- és elektroiparban szerdán Mannheimben folytatódik a béralku, amely mintegy 3,7 millió dolgozót érint. A szakszervezet 12 hónapra 5 százalékos emelést és munkahelygaranciát kér. A munkáltatók 2027 júliusában egyszeri juttatást, 2028 júliusától 1,3 százalékos tartós emelést ajánlanak 26 hónapos szerződéssel.",
+   "hu": "Ha Németországban dolgozol autóipari, beszállítói vagy gépipari cégnél, ez a megállapodás szabja meg a következő két év béredet. Kövesd a tárgyalás eredményét, és nézd meg a munkaszerződésedben, rád is vonatkozik-e ez a kollektív szerződés.",
+   "related": [
+    "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-24-nemet-biztosito-800-allas-mi-munkahelygarancia",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "Handelsblatt (Reuters)",
+   "url": "https://handelsblatt.com/finanzen/banken-versicherungen/versicherer/generali-deutschland-800-stellen-fallen-weg-jobgarantie-gilt-bis-2032/100272478.html",
+   "region": "Németország",
+   "topic": "MI és a munkád",
+   "hu_score": 3,
+   "icon": "building",
+   "title": "800 állás szűnik meg egy német biztosítónál, de 2032-ig nem lesz kényszerű elbocsátás",
+   "lead": "A Generali Deutschland megállapodott az üzemi tanáccsal, hogy 2030 végéig 800 állás szűnik meg a mintegy 9100-ból. A cég ezt az MI egyre szélesebb használatával és az alaptevékenységre összpontosítással indokolja. A létszám önkéntes távozással, nyugdíjazással és természetes fluktuációval csökken, a dolgozók munkahelygaranciája 2032 végéig szól.",
+   "hu": "Ha irodai, pénzügyi vagy biztosítási háttérmunkát végzel, látszik, hogy az MI miatti átszervezés itt jelenik meg leghamarabb. Nézd meg, mely feladataidat veheti át gép, és tanulj olyat, amihez emberi döntés vagy ügyfélkapcsolat kell.",
+   "related": [
+    "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+    "https://www.profession.hu/cikk/vegkielegites-2026-ban-mikor-jar-mennyi-az-osszege-es-mennyi-marad-belole-nettoban"
+   ]
+  },
+  {
+   "id": "2026-11-24-usa-tapasztalt-munkaero-kereslet-palyakezdok",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "Indeed Hiring Lab",
+   "url": "https://hiringlab.indeed.com/2026/11/24/us-labor-market-snapshot-november-2026/",
+   "region": "USA",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "users",
+   "stat": {
+    "value": "50 százalék",
+    "label": "a 2025-ben végzett amerikai diplomásoknak ennyien dolgoztak a végzettségük alatti munkakörben egy évvel később"
+   },
+   "title": "Tapasztalt dolgozókat keresnek, a pályakezdők nehezebben jutnak álláshoz az USA-ban",
+   "lead": "Az Indeed elemzése szerint az USA-ban a senior állások hirdetései 19 százalékkal haladták meg a 2025. januári szintet, a kezdő és középszintű hirdetések viszont kb. 4 százalékkal elmaradtak. A 2025-ben végzettek fele egy év után is a képzettsége alatti munkát végzett. Az MI-hez kötődő hirdetések aránya 7,8 százalékra nőtt.",
+   "hu": "Ha pályakezdő vagy, és nehezen jutsz be első munkahelyedre, nem vagy egyedül: a cégek most inkább bizonyított tapasztalatot keresnek. Írd be az önéletrajzodba a gyakornoki munkákat, projekteket és az MI-eszközökben szerzett jártasságodat is.",
+   "related": [
+    "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+    "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig"
+   ]
+  },
+  {
+   "id": "2026-11-24-uj-allas-csak-minden-masodiknak-hozott-beremelest",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "PR Newswire (Careerminds-adatok)",
+   "url": "https://www.prnewswire.com/news-releases/only-half-of-job-seekers-who-landed-a-new-role-in-2026-got-a-raise-finds-careerminds-study-302949217.html",
+   "region": "USA",
+   "topic": "Fizetés és juttatások",
+   "hu_score": 2,
+   "icon": "trending-up",
+   "stat": {
+    "value": "52,2 százalék",
+    "label": "azoknak, akik új állást találtak, csak ennyien keresnek többet, mint korábban, egy amerikai elhelyezési cég adatai szerint"
+   },
+   "title": "Új állás, nagyobb fizetés? Ez most csak minden második váltónak jött össze",
+   "lead": "Egy amerikai elhelyezési cég 36 ezer sikeres álláskereső adatait elemezte 2025 januárja és 2026 szeptembere között. Közülük 52,2 százalék keres többet, mint előző munkahelyén, minden negyedik pedig alacsonyabb szintű munkakört vállalt. A cégen belüli váltók átlagosan nagyobb emelést kaptak, mint a munkahelyváltók.",
+   "hu": "Ha azért váltanál, hogy többet keress, jó tudni, hogy most a belső előrelépés is megérheti. Mielőtt felmondasz, kérdezd meg a vezetődet, milyen pozíciók nyílnak a cégnél, és vidd a bértárgyalásra a friss piaci adatokat.",
+   "related": [
+    "https://www.profession.hu/cikk/mi-valtozna-az-eletedben-ha-holnap-kapnal-egy-jobb-allasajanlatot",
+    "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+   ]
+  },
+  {
+   "id": "2026-11-24-uk-allaskeresok-mi-jelentkezes-oneletrajz-fullentes",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "Personnel Today (Standout CV-felmérés)",
+   "url": "https://www.personneltoday.com/hr/third-of-jobseekers-have-used-ai-in-job-applications-poll/",
+   "region": "Egyesült Királyság",
+   "topic": "Állások és toborzás",
+   "hu_score": 2,
+   "icon": "file-text",
+   "title": "Minden harmadik álláskereső már MI-vel jelentkezik, és majdnem a fele szépít a CV-jén",
+   "lead": "Egy 1004 brit álláskeresővel készült felmérésben 34 százalék mondta, hogy már használt MI-t a jelentkezéséhez. Közel 44 százalék szerint viszont ez nem őszinte dolog. A válaszadók 46 százaléka bevallotta, hogy már nem mondott igazat az önéletrajzában, leggyakrabban a készségeinél.",
+   "hu": "Ha MI-vel írod a jelentkezésedet, a cégek egyre jobban figyelnek arra, mennyire személyes és hiteles. Az önéletrajzodba csak olyat írj, amire az interjún konkrét példát tudsz mondani.",
+   "related": [
+    "https://www.profession.hu/cikk/oneletrajz-1x1",
+    "https://www.profession.hu/cikk/a-motivacios-level-titkai"
+   ]
+  },
+  {
+   "kind": "trend",
+   "id": "2026-11-24-trend-ai-whelmed",
+   "day": "2026-11-25",
+   "published": "2026-11-24",
+   "source": "PR Newswire (Resume Now-felmérés)",
+   "url": "https://www.prnewswire.com/news-releases/the-ai-whelmed-worker-44-feel-overwhelmed-by-the-pressure-to-learn-and-use-ai-at-work-302948516.html",
+   "region": "USA",
+   "topic": "Karrier és tanulás",
+   "hu_score": 2,
+   "icon": "bot",
+   "term": "AI-whelmed",
+   "term_hu": "mi-túlterheltség",
+   "title": "Mindenki MI-t tanul, te meg azt sem tudod, hol kezdd? Ez az MI-túlterheltség",
+   "what": "Úgy érzed, lépést kellene tartanod az MI-vel, de nem tudod, mit várnak tőled, és hol kezdd a tanulást. Ez a nyomás és a bizonytalanság együtt az MI-túlterheltség.",
+   "data": "Majdnem minden második dolgozó (44 százalék) túlterheltnek érzi magát az MI tanulásának nyomásától, és ugyanennyien nem tudják, hol kezdjék. Közben tízből hat helyen semmilyen konkrét elvárás nincs az MI használatára (Resume Now, 1020 amerikai dolgozó, 2026. május).",
+   "hu": "Ha te is így érzed, nem kell egyszerre mindent megtanulnod: válassz egy feladatot, amit hetente megcsinálsz, és próbáld ki rajta az MI-t. Kérdezd meg a vezetődet, mit vár ezen a téren, és van-e képzés, mielőtt saját pénzt költesz rá.",
+   "related": [
+    "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+    "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+   ]
+  },
   {
    "id": "2026-11-23-osztrak-it-kollektiv-szerzodes-bertargyalas",
    "day": "2026-11-24",
@@ -97,8 +258,7 @@
    "related": [
     "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
     "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
-   ],
-   "featured": true
+   ]
   },
   {
    "id": "2026-11-23-cegek-atkepzes-tanulasi-hajlandosag",
