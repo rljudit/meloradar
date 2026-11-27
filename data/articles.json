@@ -1,6 +1,185 @@
 {
-  "updated": "2026-11-26T07:04",
+  "updated": "2026-11-27T07:04",
   "articles": [
+    {
+      "id": "2026-11-26-nemet-fem-elektroipar-pilot-megallapodas-2027",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "all-electronics.de (IG Metall-megállapodás)",
+      "url": "https://www.all-electronics.de/karriere-und-co/metall-tarifrunde-2026-ig-metall-und-arbeitgeber-einig/2759053",
+      "region": "Németország",
+      "topic": "Fizetés és juttatások",
+      "hu_score": 3,
+      "icon": "factory",
+      "featured": true,
+      "title": "Két lépcsőben, összesen 4,3 százalékkal nőnek a bérek a német fém- és elektroiparban",
+      "lead": "Több mint 27 órás tárgyalás után megszületett a német fém- és elektroipar mintamegállapodása, amely körülbelül 3,7 millió dolgozót érint. A bérek 2027 májusától 2 százalékkal, 2028 áprilisától 2,3 százalékkal nőnek. 2027 márciusában a cég eredményétől függően 150–450 eurós egyszeri juttatás is jár.",
+      "hu": "Ha német autóipari cégnél vagy beszállítónál dolgozol itthon, ez a megállapodás jelezheti, milyen bérkerettel tervezhet jövőre az anyacég. Nézd meg, mikor szokott nálatok bérfelülvizsgálat lenni, és arra készülj fel a saját eredményeiddel.",
+      "related": [
+        "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel",
+        "https://www.profession.hu/cikk/lesz-fizetesemeles-2027-ben-ennyivel-szamolnak-a-magyar-cegek"
+      ]
+    },
+    {
+      "id": "2026-11-26-nemet-realber-harmadik-negyedev-destatis",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "Destatis (Presseportal)",
+      "url": "https://www.presseportal.de/pm/32102/6398144",
+      "region": "Németország",
+      "topic": "Fizetés és juttatások",
+      "hu_score": 3,
+      "icon": "trending-up",
+      "stat": {
+        "value": "6,6 százalék",
+        "label": "ennyivel nőtt a legkevesebbet kereső német teljes munkaidősök bére egy év alatt, 2026 harmadik negyedévében"
+      },
+      "title": "Németországban a legkevesebbet keresők bére nőtt a leggyorsabban",
+      "lead": "A német statisztikai hivatal szerint 2026 harmadik negyedévében a bérek egy év alatt 4,3 százalékkal, az árak 2,9 százalékkal nőttek. Így a fizetések vásárlóértéke 1,3 százalékkal javult. A legkevesebbet kereső ötödnél 6,6 százalék volt az emelés, a legjobban keresőknél 3,4 százalék.",
+      "hu": "Ha Németországban dolgozol vagy oda készülsz, ezek a számok segítenek eldönteni, reális-e egy ajánlat vagy egy emelés. Ne csak a bruttó összeget nézd, hanem azt is, mennyivel nőttek közben a kinti árak.",
+      "related": [
+        "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+        "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+      ]
+    },
+    {
+      "id": "2026-11-26-ifo-foglalkoztatasi-barometer-november",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "aktiencheck (ifo-adatok)",
+      "url": "https://aktiencheck.de/artikel/industrie-jobs-beschaeftigungsbarometer-faellt-auf-947-punkte-fast-3-millionen",
+      "region": "Németország",
+      "topic": "Munkaerőpiaci adatok",
+      "hu_score": 3,
+      "icon": "trending-down",
+      "title": "Óvatosabban vesznek fel a német cégek, az elektronikai ipar viszont bővül",
+      "lead": "Az ifo gazdaságkutató felmérésében a foglalkoztatási terveket mérő mutató novemberben 95,5-ről 94,7 pontra csökkent. Ezzel megszakadt a három hónapja tartó javulás. Az autóiparban több cég tervez létszámcsökkentést, az elektronikai cégek viszont inkább bővítenének.",
+      "hu": "Ha német hátterű gyárban vagy beszállítónál dolgozol, a következő hónapokban kevesebb új állás nyílhat az autóiparban. Frissítsd az önéletrajzod, és nézd meg, az elektronikai ágazatban milyen hirdetések jelennek meg a szakmádban.",
+      "related": [
+        "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+        "https://www.profession.hu/cikk/oneletrajz-1x1"
+      ]
+    },
+    {
+      "id": "2026-11-26-uk-fiatal-nok-neet-ons",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "Personnel Today (ONS-adatok)",
+      "url": "https://www.personneltoday.com/hr/rise-in-proportion-of-young-women-in-latest-neet-figures-2026-neets/",
+      "region": "Egyesült Királyság",
+      "topic": "Munkaerőpiaci adatok",
+      "hu_score": 2,
+      "icon": "users",
+      "stat": {
+        "value": "959 000",
+        "label": "16–24 éves fiatal nem dolgozott és nem is tanult a brit adatok szerint 2026 nyár végén"
+      },
+      "title": "Minden nyolcadik brit fiatal se nem dolgozik, se nem tanul, a nők közül egyre többen",
+      "lead": "A brit statisztikai hivatal szerint júliustól szeptemberig 959 ezer 16–24 éves nem dolgozott és nem is tanult. Ez a korosztály 12,7 százaléka. A fiatal nők között egy év alatt 41 ezerrel nőtt a számuk, a férfiaknál csökkent.",
+      "hu": "Ha most kezded a pályát, és nehezen jön az első állás, nem vagy egyedül: Európa-szerte nehezebb lett a belépés. Jelentkezz gyakornoki és kezdő pozíciókra is, és az önéletrajzodban emeld ki a diákmunkát és az önkéntes munkát.",
+      "related": [
+        "https://www.profession.hu/cikk/miert-nem-vesznek-komolyan-palyakezdokent-5-gyakori-hiba",
+        "https://www.profession.hu/cikk/allaskereses-talalgatas-nelkul-igy-keszulj-fel-a-jelentkezestol-az-interjuig"
+      ]
+    },
+    {
+      "id": "2026-11-26-uk-nettomigracio-62-szazalekos-csokkenes",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "Personnel Today (ONS-adatok)",
+      "url": "https://www.personneltoday.com/hr/net-migration-to-uk-falls-by-62-in-one-year/",
+      "region": "Egyesült Királyság",
+      "topic": "Munka külföldön",
+      "hu_score": 3,
+      "icon": "plane",
+      "stat": {
+        "value": "124 000",
+        "label": "uniós és EGT-s állampolgár költözött el az Egyesült Királyságból a 2026 júniusáig tartó egy évben, 79 ezren érkeztek"
+      },
+      "title": "Több uniós dolgozó költözik el az Egyesült Királyságból, mint ahány érkezik",
+      "lead": "Az előzetes brit adatok szerint a 2026 júniusáig tartó évben 77 ezerrel többen érkeztek, mint ahányan elmentek. Egy évvel korábban ez még 204 ezer volt. Az uniós állampolgárok közül 79 ezren érkeztek és 124 ezren távoztak. Munkavállalás miatt 45 ezerrel kevesebben jöttek.",
+      "hu": "Ha az Egyesült Királyságba mennél dolgozni, számolj vele, hogy uniós állampolgárként ma már vízum és munkáltatói támogatás kell a legtöbb álláshoz. Mielőtt jelentkezel, nézd meg a hirdetésben, segít-e a cég a vízumban.",
+      "related": [
+        "https://www.profession.hu/cikk/oneletrajz-1x1",
+        "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz"
+      ]
+    },
+    {
+      "id": "2026-11-25-munkakor-mas-mint-amire-felvettek-resumebuilder",
+      "day": "2026-11-27",
+      "published": "2026-11-25",
+      "source": "PR Newswire (ResumeBuilder-felmérés)",
+      "url": "https://www.prnewswire.com/news-releases/nearly-1-in-5-workers-say-their-current-job-is-not-what-they-were-hired-to-do-302948951.html",
+      "region": "USA",
+      "topic": "Munkahelyi élet",
+      "hu_score": 2,
+      "icon": "briefcase",
+      "title": "Minden ötödik dolgozó mást csinál, mint amire felvették",
+      "lead": "Egy augusztusi amerikai felmérésben 1023 dolgozót kérdeztek meg. 18 százalékuk szerint a munkájuk jelentősen vagy teljesen más lett, mint amire felvették őket. Csak minden negyedik mondta, hogy a feladatai pontosan egyeznek a hirdetéssel.",
+      "hu": "Ha a munkád lassan elcsúszott valami más felé, érdemes ezt szóvá tenned, mielőtt elégedetlenség lesz belőle. Interjún pedig kérdezd meg, hogyan néz ki egy átlagos nap, és mi számít majd sikernek az első fél évben.",
+      "related": [
+        "https://www.profession.hu/cikk/az-allasinterju-legfontosabb-temai",
+        "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+      ]
+    },
+    {
+      "id": "2026-11-25-mi-korszak-emberi-keszsegek-onetrajz-resume-now",
+      "day": "2026-11-27",
+      "published": "2026-11-25",
+      "source": "PR Newswire (Resume Now-elemzés)",
+      "url": "https://www.prnewswire.com/news-releases/the-resume-of-the-future-10-human-skills-that-remain-valuable-in-the-age-of-ai-302949903.html",
+      "region": "USA",
+      "topic": "Karrier és tanulás",
+      "hu_score": 2,
+      "icon": "file-text",
+      "title": "A szövegértés és a jó kommunikáció a legértékesebb emberi készség az MI mellett",
+      "lead": "A Resume Now 894 amerikai foglalkozás hivatalos készségadatait elemezte. A szóbeli és írásbeli szövegértés, a világos kifejezőkészség és a problémák észrevétele kapta a legmagasabb pontszámot. Ezek a munkák nagy részében fontosak, és az MI nehezen veszi át őket.",
+      "hu": "Ha az önéletrajzodban csak programokat sorolsz fel, könnyen elveszhet, miben vagy igazán jó. Írj mellé egy-két konkrét példát arra, mikor magyaráztál el valamit jól, vagy mikor vettél észre időben egy hibát.",
+      "related": [
+        "https://www.profession.hu/cikk/oneletrajz-1x1",
+        "https://www.profession.hu/cikk/meselj-magadrol-a-legkonnyebb-kerdes-amire-a-legnehezebb-felkeszulni"
+      ]
+    },
+    {
+      "id": "2026-11-26-ceges-karacsonyi-buli-kifogas-resume-io",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "CPA Practice Advisor (resume.io-felmérés)",
+      "url": "https://www.cpapracticeadvisor.com/2026/11/26/about-half-of-u-s-workers-have-faked-an-excuse-to-skip-the-office-holiday-party/194687/",
+      "region": "USA",
+      "topic": "Munkahelyi élet",
+      "hu_score": 1,
+      "icon": "users",
+      "title": "Majdnem minden második dolgozó talált már ki kifogást, hogy ne menjen a céges buliba",
+      "lead": "Egy 600 fős amerikai felmérésben a dolgozók 46,7 százaléka mondta, hogy kitalált már indokot a céges év végi buli kihagyására. Tízből nagyjából négyen inkább a családdal vagy barátokkal töltenék az estét. Tízből majdnem nyolcan a buli helyett szívesebben kapnának év végi pénzjutalmat.",
+      "hu": "Ha te sem rajongsz a céges bulikért, nyugodtan dönthetsz úgy, hogy csak egy órára ugrasz be. Ha nem tudsz menni, szólj előre őszintén, és köszönd meg a szervezőknek a munkájukat.",
+      "related": [
+        "https://www.profession.hu/cikk/kedvesseg-vagy-megfelelesi-kenyszer-a-people-pleaser-jelensegrol",
+        "https://www.profession.hu/cikk/jo-ugyek-a-munkahelyen-igy-segithetsz-masokon"
+      ]
+    },
+    {
+      "kind": "trend",
+      "id": "2026-11-26-trend-workplace-gaslighting",
+      "day": "2026-11-27",
+      "published": "2026-11-26",
+      "source": "PR Newswire (ResumeBuilder-felmérés)",
+      "url": "https://www.prnewswire.com/news-releases/more-than-half-of-us-workers-say-theyve-been-gaslit-at-work-302948955.html",
+      "region": "USA",
+      "topic": "Munkahelyi élet",
+      "hu_score": 2,
+      "icon": "message-alert",
+      "term": "Workplace gaslighting",
+      "term_hu": "„én ilyet nem mondtam”",
+      "title": "„Én ilyet nem is mondtam”: amikor a munkahelyen kételkedni kezdesz a saját emlékeidben",
+      "what": "Valaki letagadja, amit korábban mondott vagy megbeszéltetek, és a végén már te sem vagy biztos benne, mi történt. Ettől könnyen elbizonytalanodsz a saját munkádban is.",
+      "data": "Egy friss amerikai felmérésben a dolgozók több mint fele, 53 százalék, élt már át ilyet, leggyakrabban egy kollégával (36 százalék). Tízből négyen azóta kevésbé bíznak a kollégáikban (ResumeBuilder, 1002 fő, 2026 augusztus).",
+      "hu": "Ha neked is volt már olyan, hogy egy megbeszélésről mindenki mást emlékezett, nem vagy egyedül. A fontos megállapodásokat foglald össze egy rövid e-mailben, így később mindenki ugyanabból indulhat ki.",
+      "related": [
+        "https://www.profession.hu/cikk/kedvesnek-tunik-megis-keresztbe-tesz-5-jel-hogy-nem-oszinte-a-kollegad",
+        "https://www.profession.hu/cikk/a-fonokod-gondolatolvasast-var-igy-kezeld-a-kimondatlan-elvarasokat"
+      ]
+    },
     {
       "id": "2026-11-25-osztrak-telekom-kollektiv-szerzodes-2027",
       "day": "2026-11-26",
@@ -11,7 +190,6 @@
       "topic": "Fizetés és juttatások",
       "hu_score": 3,
       "icon": "coins",
-      "featured": true,
       "title": "3,2 százalékkal emelkednek a kollektív minimumbérek az osztrák távközlésben 2027-től",
       "lead": "Az osztrák távközlési ágazatban november 24-én este megszületett a 2027-es kollektív szerződés. A kollektív minimumbérek áprilistól 3,2 százalékkal, a tényleges fizetések júniustól 3 százalékkal nőnek. A késői kezdés áthidalására adómentes egyszeri juttatás is jár, és aki akarja, az emelés helyett szabadidőt is választhat.",
       "hu": "Ha Ausztriában dolgozol, ez a megállapodás jól mutatja, mekkora emeléssel számolhatsz jövőre a kollektív szerződések alapján. Nézd meg a bérpapírodon, melyik kollektív szerződés vonatkozik rád, és ehhez mérd a saját bérigényedet.",
