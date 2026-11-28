@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-27T07:04",
+  "updated": "2026-11-28T07:04",
   "articles": [
+    {
+      "id": "2026-11-27-nemet-munkaeropiac-november-ba",
+      "day": "2026-11-28",
+      "published": "2026-11-27",
+      "source": "Bundesagentur für Arbeit (Presseportal)",
+      "url": "https://www.presseportal.de/pm/6776/6399040",
+      "region": "Németország",
+      "topic": "Munkaerőpiaci adatok",
+      "hu_score": 3,
+      "icon": "chart",
+      "featured": true,
+      "title": "Majdnem hárommillióan vannak munka nélkül Németországban, de több az üres állás is",
+      "lead": "A német munkaügyi hivatal szerint novemberben 2 936 000 ember volt munka nélkül, 51 ezerrel több, mint egy éve. Közben a meghirdetett állások száma 646 ezerre nőtt, ez 23 ezerrel több a tavalyinál. Összességében viszont kevesebben dolgoznak, mint egy évvel korábban.",
+      "hu": "Ha Németországba készülsz dolgozni, van mire jelentkezni, de több jelentkezővel kell versenyezned ugyanazért a helyért. Szabd az önéletrajzod minden hirdetésre külön, és emeld ki benne a németnyelv-tudásod szintjét.",
+      "related": [
+        "https://www.profession.hu/cikk/oneletrajz-1x1",
+        "https://www.profession.hu/cikk/ehhez-keves-vagyok-biztos-igy-olvasd-az-allashirdetesek-elvarasait"
+      ]
+    },
+    {
+      "id": "2026-11-26-nemet-autoipari-beszallitok-vda-felmeres",
+      "day": "2026-11-28",
+      "published": "2026-11-26",
+      "source": "EuropaWire (VDA-felmérés)",
+      "url": "https://news.europawire.eu/vda-survey-finds-german-automotive-smes-cutting-jobs-and-redirecting-investment-abroad/eu-press-release/2026/11/26/13/06/05/189723",
+      "region": "Németország",
+      "topic": "Állások és toborzás",
+      "hu_score": 3,
+      "icon": "car",
+      "stat": {
+        "value": "54 százalék",
+        "label": "a megkérdezett német közepes autóipari beszállítóknak csökkenti a létszámát Németországban, csak 6 százalékuk bővít"
+      },
+      "title": "Minden második német autóipari beszállító csökkenti a létszámát otthon",
+      "lead": "A német autóipari szövetség októberben 125 közepes beszállítót és jármű-felépítmény gyártót kérdezett meg. 54 százalékuk csökkenti a létszámát Németországban, és csak 6 százalékuk vesz fel új embereket. A cégek 29 százaléka külföldre viszi a beruházásait, főleg az Egyesült Államokba és Indiába.",
+      "hu": "Ha német hátterű autóipari beszállítónál dolgozol, a következő hónapokban óvatosabb tervezésre számíthatsz az anyacégnél is. Érdemes most összeírnod, milyen gépeken, rendszerekben és projektekben vagy otthon, mert ezek a tudások más iparágban is jól jönnek.",
+      "related": [
+        "https://www.profession.hu/cikk/5-allaskeresesi-feladat-amit-egyetlen-hetvege-alatt-kipipalhatsz",
+        "https://www.profession.hu/cikk/oneletrajz-1x1"
+      ]
+    },
+    {
+      "id": "2026-11-27-ekb-mi-hasznalat-munkahely-euroovezet",
+      "day": "2026-11-28",
+      "published": "2026-11-27",
+      "source": "Európai Központi Bank (ECB Blog)",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261127~81118f8ec0.en.html",
+      "region": "Európa",
+      "topic": "MI és a munkád",
+      "hu_score": 2,
+      "icon": "bot",
+      "stat": {
+        "value": "44 százalék",
+        "label": "az euróövezeti dolgozóknak legalább hetente használ MI-t a munkájához, 2026 augusztusi adat szerint"
+      },
+      "title": "Az euróövezetben majdnem minden második dolgozó hetente használ MI-t a munkájához",
+      "lead": "Az Európai Központi Bank fogyasztói felmérése szerint augusztusban a dolgozók 44 százaléka legalább hetente, 18 százaléka naponta használt MI-t. A használók több mint fele szerint így több munkát végeznek el. A megkérdezettek azt várják, hogy öt éven belül az ágazatukban dolgozók 46 százaléka használja majd.",
+      "hu": "Ha még nem használsz MI-eszközt a munkádban, egyre inkább a kisebbséghez tartozol, és ez egy interjún is kérdés lehet. Próbálj ki egy eszközt egy ismétlődő feladatodra, és írd be az önéletrajzodba, mire használod.",
+      "related": [
+        "https://www.profession.hu/cikk/ai-t-mar-hasznalunk-de-munkat-meg-mindig-inkabb-az-allasportalokon-keresunk",
+        "https://www.profession.hu/cikk/oneletrajz-1x1"
+      ]
+    },
+    {
+      "id": "2026-11-27-uk-nemek-kozti-berkulonbseg-szakmak-ciphr",
+      "day": "2026-11-28",
+      "published": "2026-11-27",
+      "source": "Personnel Today (Ciphr-elemzés)",
+      "url": "https://www.personneltoday.com/hr/gender-pay-gaps-remain-in-almost-every-full-time-job/",
+      "region": "Egyesült Királyság",
+      "topic": "Jogaid és szabályok",
+      "hu_score": 2,
+      "icon": "scale",
+      "stat": {
+        "value": "6,8 százalék",
+        "label": "ennyivel keresnek kevesebbet óránként a nők a brit teljes munkaidős szakmák középértékén, 2026-os adatok alapján"
+      },
+      "title": "Tízből nyolc brit szakmában a férfiak keresnek többet ugyanazért a teljes munkaidőért",
+      "lead": "Egy brit HR-szoftvercég a statisztikai hivatal 2026-os adatait elemezte. A teljes munkaidős szakmák 80 százalékában a férfiak órabére magasabb. A középérték 6,8 százalékos különbség, ez óránként 1,46 font.",
+      "hu": "Ha nő vagy, és nem tudod, mennyit keresnek a kollégáid hasonló munkakörben, az uniós bértranszparencia-szabály ebben segíthet. Nézd meg, mit kérdezhetsz majd a munkáltatódtól, és bértárgyalás előtt gyűjts piaci béradatokat.",
+      "related": [
+        "https://www.profession.hu/cikk/minden-amit-a-bertranszparenciarol-munkavallalokent-tudni-erdemes",
+        "https://www.profession.hu/cikk/bertargyalas-nulla-tapasztalattal-igy-keszulj-fel"
+      ]
+    },
+    {
+      "id": "2026-11-27-sap-atszervezes-mi-allasok",
+      "day": "2026-11-28",
+      "published": "2026-11-27",
+      "source": "Brussels Signal (Bloomberg és Reuters nyomán)",
+      "url": "https://brusselssignal.eu/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-ai-overhaul/",
+      "region": "Németország",
+      "topic": "MI és a munkád",
+      "hu_score": 3,
+      "icon": "laptop",
+      "title": "Az SAP az MI miatt átszervezést tervez, legalább 10 ezer állás érintett lehet",
+      "lead": "Sajtóértesülések szerint a német szoftvercég legalább 10 ezer állás megszüntetését mérlegeli világszerte. Ez a 113 ezres létszám legalább 9 százaléka. A cég szerint az MI gyorsan alakítja át a piacot, folyamatosan felülvizsgálja a szervezetét, döntés még nincs.",
+      "hu": "Ha nagy IT-cégnél dolgozol fejlesztőként vagy értékesítőként, a szakmádban egyre többet számít, hogyan dolgozol együtt az MI-eszközökkel. Nézd meg, milyen MI-képzést kínál a munkáltatód, és írd be az önéletrajzodba, amit már tudsz.",
+      "related": [
+        "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+        "https://www.profession.hu/cikk/oneletrajz-1x1"
+      ]
+    },
+    {
+      "id": "2026-11-27-mckinsey-mi-alacsony-beruek-szakmavaltas",
+      "day": "2026-11-28",
+      "published": "2026-11-27",
+      "source": "Fortune (McKinsey-jelentés)",
+      "url": "https://fortune.com/2026/11/27/mckinsey-ai-jobs-displacement-black-latino-workers-economic-mobility",
+      "region": "USA",
+      "topic": "Karrier és tanulás",
+      "hu_score": 2,
+      "icon": "graduation",
+      "title": "Az alacsonyabb bérű dolgozóknak 7,6-szor nagyobb eséllyel kell szakmát váltaniuk az MI miatt",
+      "lead": "A McKinsey becslése szerint 2035-re az amerikai munkaórák átlagosan 21 százalékát vehetik át gépek és MI-eszközök. Az alacsonyabb bérűeknek 7,6-szor nagyobb eséllyel kell majd szakmát váltaniuk. Akiknek váltaniuk kell, közülük csak minden hetediknek van egyenes útja egy bővülő szakmába.",
+      "hu": "Ha olyan munkát végzel, ami sok ismétlődő feladatból áll, jobb most tervezni a következő lépést, mint akkor, amikor már sürget az idő. Nézd meg, melyik szomszédos szakmába vihetnéd át a tudásod, és milyen rövid képzés kellene hozzá.",
+      "related": [
+        "https://www.profession.hu/cikk/5-lepes-amivel-tudatosabb-karrierdonteseket-hozhatsz",
+        "https://www.profession.hu/cikk/minden-masodik-munkavallalo-valtott-mar-palyat-es-tobb-mint-a-feluk-maradt-volna-magasabb-fizetesert"
+      ]
+    },
     {
       "id": "2026-11-26-nemet-fem-elektroipar-pilot-megallapodas-2027",
       "day": "2026-11-27",
@@ -11,7 +132,6 @@
       "topic": "Fizetés és juttatások",
       "hu_score": 3,
       "icon": "factory",
-      "featured": true,
       "title": "Két lépcsőben, összesen 4,3 százalékkal nőnek a bérek a német fém- és elektroiparban",
       "lead": "Több mint 27 órás tárgyalás után megszületett a német fém- és elektroipar mintamegállapodása, amely körülbelül 3,7 millió dolgozót érint. A bérek 2027 májusától 2 százalékkal, 2028 áprilisától 2,3 százalékkal nőnek. 2027 márciusában a cég eredményétől függően 150–450 eurós egyszeri juttatás is jár.",
       "hu": "Ha német autóipari cégnél vagy beszállítónál dolgozol itthon, ez a megállapodás jelezheti, milyen bérkerettel tervezhet jövőre az anyacég. Nézd meg, mikor szokott nálatok bérfelülvizsgálat lenni, és arra készülj fel a saját eredményeiddel.",
